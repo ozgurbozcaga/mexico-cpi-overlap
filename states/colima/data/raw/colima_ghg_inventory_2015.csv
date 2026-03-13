@@ -1,0 +1,42 @@
+source,sector,subsector,ipcc_code,co2_gg,ch4_gg,n2o_gg,black_carbon_gg,hfc_gg,co2e_gg,gwp_co2,gwp_ch4,gwp_n2o,gwp_bc,notes
+IMADES_2019,Energy,Electricity generation,1A1ai,7034.06,0.15,0.02,0.09,,7128.0,1,28,265,900,CFE Manzanillo thermoelectric; nat gas + fuel oil + diesel
+IMADES_2019,Energy,Energy generation plants (biogas),1A1aiii,0.33,0.30,0.00,0.00,,9.0,1,28,265,900,Biodigesters across municipalities
+IMADES_2019,Energy,Manufacturing - cement and lime,1A2f_cement,231.76,0.01,0.00,0.01,,244.3,1,28,265,900,Part of non-metallic minerals group
+IMADES_2019,Energy,Manufacturing - food and beverage,1A2e,267.08,0.03,0.00,0.01,,279.1,1,28,265,900,
+IMADES_2019,Energy,Manufacturing - metallurgical (steel),1A2a,270.01,0.01,0.02,0.00,,275.3,1,28,265,900,Peña Colorada and Las Encinas pellet plants
+IMADES_2019,Energy,Manufacturing - non-metallic minerals,1A2f,659.99,1.43,0.02,0.00,,705.6,1,28,265,900,Excludes cement/lime counted separately
+IMADES_2019,Energy,Manufacturing - other industries,1A2m,423.80,0.23,0.00,0.00,,431.3,1,28,265,900,
+IMADES_2019,Energy,Manufacturing - petroleum/petrochemical,1A2m_petro,7.35,0.19,0.00,0.00,,13.7,1,28,265,900,
+IMADES_2019,Energy,Manufacturing - chemical,1A2c,0.12,0.00,0.00,0.00,,0.1,1,28,265,900,
+IMADES_2019,Energy,Manufacturing - hazardous waste treatment,1A2m_hwt,0.14,0.00,0.00,0.00,,0.1,1,28,265,900,
+IMADES_2019,Energy,Civil aviation,1A3a,16.60,0.00,0.00,0.00,,17.4,1,28,265,900,Manzanillo + Colima airports
+IMADES_2019,Energy,Railways,1A3c,33.49,0.00,0.01,0.00,,41.5,1,28,265,900,
+IMADES_2019,Energy,Water-borne navigation,1A3d,66.97,0.01,0.00,0.03,,94.7,1,28,265,900,Port of Manzanillo
+IMADES_2019,Energy,Road transportation,1A3b,3610.17,0.46,0.14,2.13,,5577.9,1,28,265,900,MOVES-Mexico model; Tier 3
+IMADES_2019,Energy,Residential,1A4b,133.99,0.23,0.00,0.05,,189.1,1,28,265,900,LP gas + kerosene + firewood
+IMADES_2019,Energy,Commercial/institutional,1A4a,13.69,0.00,0.00,0.00,,13.8,1,28,265,900,LP gas + diesel
+IMADES_2019,Energy,Agriculture/forestry/fishing,1A4c,33.10,0.00,0.00,0.02,,49.9,1,28,265,900,Diesel + LP gas
+IMADES_2019,IPPU,Cement production (process),2A1,408.80,,,,,408.8,1,28,265,900,Cementos Apasco Tecomán; 911668 t cement; clinker fraction 0.86
+IMADES_2019,IPPU,Lime production (process),2A4,21.07,,,,,21.1,1,28,265,900,Calidra del Occidente Ixtlahuacán; 2005 data used (no 2015 report)
+IMADES_2019,IPPU,Iron production (pellets),2C1,136.57,,,,,136.6,1,28,265,900,Peña Colorada (Manzanillo) + Las Encinas (Cuauhtémoc); 4552339 t pellets
+IMADES_2019,IPPU,Use of products (HCFC-22),2F1,,,,,,157.2,1,28,265,900,0.217 Gg HCFC-22; GWP 1810
+IMADES_2019,AFOLU,Enteric fermentation,3A1,,8.48,,,,,1,28,265,900,Cattle dominant
+IMADES_2019,AFOLU,Manure management CH4,3A2,,0.21,,,,,1,28,265,900,
+IMADES_2019,AFOLU,Manure management N2O,3A2,,,0.11,,,,1,28,265,900,
+IMADES_2019,AFOLU,Whitewashing (liming),3C2,22.32,,,,,22.3,1,28,265,900,
+IMADES_2019,AFOLU,Urea application,3C3,15.91,,,,,15.9,1,28,265,900,
+IMADES_2019,AFOLU,Rice cultivation CH4,3C7,,0.44,,,,,1,28,265,900,12.2 Gg CO2e
+IMADES_2019,AFOLU,Synthetic fertilizers N2O,3C4_3C5,,,0.57,,,,1,28,265,900,Direct + indirect N2O from managed soils (sum ~90.8 Gg CO2e)
+IMADES_2019,AFOLU,Biomass burning,3C1,58.97,0.12,0.00,0.02,,82.1,1,28,265,900,Agricultural residues + forest fires
+IMADES_2019,AFOLU,Land converted to grasslands,3B,363.06,,,,,363.1,1,28,265,900,
+IMADES_2019,AFOLU,Land converted to settlements,3B,22.14,,,,,22.1,1,28,265,900,
+IMADES_2019,AFOLU,Land converted to other lands,3B,4.12,,,,,4.1,1,28,265,900,
+IMADES_2019,AFOLU,Land converted to agricultural land,3B,950.80,,,,,950.8,1,28,265,900,
+IMADES_2019,AFOLU,Degraded forest lands,3B,160.48,,,,,160.5,1,28,265,900,
+IMADES_2019,AFOLU,Removals - forest lands,3B,-140.65,,,,,-140.7,1,28,265,900,Sink
+IMADES_2019,AFOLU,Removals - pastures,3B,-78.13,,,,,-78.1,1,28,265,900,Sink
+IMADES_2019,Waste,Municipal solid waste disposal,4A,,2.60,,,,,1,28,265,900,72.7 Gg CO2e; Mexican Biogas Model Tier 3
+IMADES_2019,Waste,Burning waste opencast,4C,1.25,0.00,0.00,0.01,,11.5,1,28,265,900,2.06% of population burns waste
+IMADES_2019,Waste,Municipal wastewater untreated,4D,,6.17,0.00,,,118.2,1,28,265,900,
+IMADES_2019,Waste,Municipal wastewater treated,4D,,4.60,0.03,,,191.0,1,28,265,900,67 treatment plants; 1614 lps
+IMADES_2019,Waste,Industrial wastewater treated,4D,,2.52,,,,70.6,1,28,265,900,13 plants; 292 lps
