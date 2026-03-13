@@ -1,0 +1,42 @@
+source,sector,subsector,ipcc_code,co2_gg,ch4_gg,n2o_gg,black_carbon_gg,hfc_gg,co2e_gg,gwp_co2,gwp_ch4,gwp_n2o,gwp_bc,notes,in_federal_tax,in_state_tax,nat_gas_exempt_partial,data_quality,scope_notes
+IMADES_2019,Energy,Electricity generation,1A1ai,7034.06,0.15,0.02,0.09,,7128.0,1,28,265,900,CFE Manzanillo thermoelectric; nat gas + fuel oil + diesel,True,,True,good,CFE Manzanillo uses nat gas (exempt from federal tax) + fuel oil/diesel. Federal tax applies to fuel oil/diesel portion only. State tax scope depends on whether Colima law covers power generation — FLAG FOR LEGAL REVIEW.
+IMADES_2019,Energy,Energy generation plants (biogas),1A1aiii,0.33,0.3,0.0,0.0,,9.0,1,28,265,900,Biodigesters across municipalities,False,False,False,good,"Biogas combustion; not fossil fuel, not subject to either tax."
+IMADES_2019,Energy,Manufacturing - cement and lime,1A2f_cement,231.76,0.01,0.0,0.01,,244.3,1,28,265,900,Part of non-metallic minerals group,True,True,True,good,Combustion emissions only (process emissions handled under IPPU). Nat gas portion exempt from federal tax.
+IMADES_2019,Energy,Manufacturing - food and beverage,1A2e,267.08,0.03,0.0,0.01,,279.1,1,28,265,900,,True,True,True,good,Nat gas portion exempt from federal tax.
+IMADES_2019,Energy,Manufacturing - metallurgical (steel),1A2a,270.01,0.01,0.02,0.0,,275.3,1,28,265,900,Peña Colorada and Las Encinas pellet plants,True,True,False,good,"Pellet plants (Peña Colorada, Las Encinas) use nat gas primarily — mostly exempt from federal tax. State tax likely in scope."
+IMADES_2019,Energy,Manufacturing - non-metallic minerals,1A2f,659.99,1.43,0.02,0.0,,705.6,1,28,265,900,Excludes cement/lime counted separately,True,True,True,good,Nat gas portion exempt from federal tax.
+IMADES_2019,Energy,Manufacturing - other industries,1A2m,423.8,0.23,0.0,0.0,,431.3,1,28,265,900,,True,True,True,good,Nat gas portion exempt from federal tax.
+IMADES_2019,Energy,Manufacturing - petroleum/petrochemical,1A2m_petro,7.35,0.19,0.0,0.0,,13.7,1,28,265,900,,True,True,True,good,
+IMADES_2019,Energy,Manufacturing - chemical,1A2c,0.12,0.0,0.0,0.0,,0.1,1,28,265,900,,True,True,True,good,
+IMADES_2019,Energy,Manufacturing - hazardous waste treatment,1A2m_hwt,0.14,0.0,0.0,0.0,,0.1,1,28,265,900,,True,True,False,good,Small; likely below state tax threshold.
+IMADES_2019,Energy,Civil aviation,1A3a,16.6,0.0,0.0,0.0,,17.4,1,28,265,900,Manzanillo + Colima airports,True,False,False,good,Federal tax on jet fuel (turbosine) applies. Mobile source; not state tax.
+IMADES_2019,Energy,Railways,1A3c,33.49,0.0,0.01,0.0,,41.5,1,28,265,900,,True,False,False,good,Mobile source; not state tax.
+IMADES_2019,Energy,Water-borne navigation,1A3d,66.97,0.01,0.0,0.03,,94.7,1,28,265,900,Port of Manzanillo,True,False,False,good,Mobile source; not state tax. Port of Manzanillo.
+IMADES_2019,Energy,Road transportation,1A3b,3610.17,0.46,0.14,2.13,,5577.9,1,28,265,900,MOVES-Mexico model; Tier 3,True,False,False,good,Federal tax on gasoline/diesel applies. Mobile source; not state tax.
+IMADES_2019,Energy,Residential,1A4b,133.99,0.23,0.0,0.05,,189.1,1,28,265,900,LP gas + kerosene + firewood,True,False,False,good,Federal tax on LP gas/diesel applies. Not typically in scope for state tax.
+IMADES_2019,Energy,Commercial/institutional,1A4a,13.69,0.0,0.0,0.0,,13.8,1,28,265,900,LP gas + diesel,True,False,False,good,Federal tax applies. Below typical state tax thresholds.
+IMADES_2019,Energy,Agriculture/forestry/fishing,1A4c,33.1,0.0,0.0,0.02,,49.9,1,28,265,900,Diesel + LP gas,True,False,False,good,Federal tax applies; mobile and small-scale stationary.
+IMADES_2019,IPPU,Cement production (process),2A1,408.8,,,,,408.8,1,28,265,900,Cementos Apasco Tecomán; 911668 t cement; clinker fraction 0.86,False,False,False,good,Process CO2 from calcination — NOT fossil fuel combustion. Neither federal nor state carbon tax applies to process emissions.
+IMADES_2019,IPPU,Lime production (process),2A4,21.07,,,,,21.1,1,28,265,900,Calidra del Occidente Ixtlahuacán; 2005 data used (no 2015 report),False,False,False,partial,"Same as cement — process emissions, not in tax scope."
+IMADES_2019,IPPU,Iron production (pellets),2C1,136.57,,,,,136.6,1,28,265,900,Peña Colorada (Manzanillo) + Las Encinas (Cuauhtémoc); 4552339 t pellets,False,False,False,good,Process emissions from pelletizing.
+IMADES_2019,IPPU,Use of products (HCFC-22),2F1,,,,,,157.2,1,28,265,900,0.217 Gg HCFC-22; GWP 1810,False,False,False,good,HFC; not a fossil fuel combustion source.
+IMADES_2019,AFOLU,Enteric fermentation,3A1,,8.48,,,,237.44,1,28,265,900,Cattle dominant,False,False,False,good,Agricultural CH4; not in carbon tax scope.
+IMADES_2019,AFOLU,Manure management CH4,3A2,,0.21,,,,5.88,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Manure management N2O,3A2,,,0.11,,,29.15,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Whitewashing (liming),3C2,22.32,,,,,22.3,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Urea application,3C3,15.91,,,,,15.9,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Rice cultivation CH4,3C7,,0.44,,,,12.32,1,28,265,900,12.2 Gg CO2e,False,False,False,good,
+IMADES_2019,AFOLU,Synthetic fertilizers N2O,3C4_3C5,,,0.57,,,151.04999999999998,1,28,265,900,Direct + indirect N2O from managed soils (sum ~90.8 Gg CO2e),False,False,False,good,
+IMADES_2019,AFOLU,Biomass burning,3C1,58.97,0.12,0.0,0.02,,82.1,1,28,265,900,Agricultural residues + forest fires,False,False,False,good,Agricultural/forest fires; not fossil fuel.
+IMADES_2019,AFOLU,Land converted to grasslands,3B,363.06,,,,,363.1,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Land converted to settlements,3B,22.14,,,,,22.1,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Land converted to other lands,3B,4.12,,,,,4.1,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Land converted to agricultural land,3B,950.8,,,,,950.8,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Degraded forest lands,3B,160.48,,,,,160.5,1,28,265,900,,False,False,False,good,
+IMADES_2019,AFOLU,Removals - forest lands,3B,-140.65,,,,,-140.7,1,28,265,900,Sink,False,False,False,good,
+IMADES_2019,AFOLU,Removals - pastures,3B,-78.13,,,,,-78.1,1,28,265,900,Sink,False,False,False,good,
+IMADES_2019,Waste,Municipal solid waste disposal,4A,,2.6,,,,72.8,1,28,265,900,72.7 Gg CO2e; Mexican Biogas Model Tier 3,False,False,False,good,Landfill CH4; not fossil fuel combustion.
+IMADES_2019,Waste,Burning waste opencast,4C,1.25,0.0,0.0,0.01,,11.5,1,28,265,900,2.06% of population burns waste,False,False,False,good,
+IMADES_2019,Waste,Municipal wastewater untreated,4D,,6.17,0.0,,,118.2,1,28,265,900,,False,False,False,good,
+IMADES_2019,Waste,Municipal wastewater treated,4D,,4.6,0.03,,,191.0,1,28,265,900,67 treatment plants; 1614 lps,False,False,False,good,
+IMADES_2019,Waste,Industrial wastewater treated,4D,,2.52,,,,70.6,1,28,265,900,13 plants; 292 lps,False,False,False,good,

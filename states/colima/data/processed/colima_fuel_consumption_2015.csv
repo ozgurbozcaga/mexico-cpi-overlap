@@ -1,0 +1,23 @@
+subsector,fuel,tj,base_year
+Electricity generation,Natural gas,98435.0,2015
+Electricity generation,Fuel oil,28.0,2015
+Electricity generation,Diesel,16951.0,2015
+Energy generation plants,Biogas,14.49,2015
+Manuf — Cement and lime,Mixed (NG/diesel/petcoke/coalcoke),2636.35,2015
+Manuf — Food and beverage,Mixed (NG/diesel/fuel oil),5897.71,2015
+Manuf — Metallurgical,Mixed (NG/coalcoke/fuel oil),1882.64,2015
+Manuf — Non-metallic minerals,Mixed (NG/diesel/fuel oil),286.39,2015
+Manuf — Other industries,Mixed,3462.44,2015
+Manuf — Petroleum/petrochem,Mixed,0.08,2015
+Manuf — Chemical,Mixed,0.51,2015
+Manuf — Metal-mechanic,Mixed,0.02,2015
+Transport — Road,Gasoline/diesel,63913.0,2015
+Transport — Water navigation,Diesel,919.0,2015
+Transport — Railways,Diesel,459.46,2015
+Transport — Civil aviation,Turbosine/kerosene,225.0,2015
+Residential,LP gas,830.22,2015
+Residential,Firewood,763.14,2015
+Residential,Kerosene,16.36,2015
+Commercial,LP gas,210.38,2015
+Agriculture/forestry/fishing,LP gas,332.5,2015
+Agriculture/forestry/fishing,Diesel,136.3,2015

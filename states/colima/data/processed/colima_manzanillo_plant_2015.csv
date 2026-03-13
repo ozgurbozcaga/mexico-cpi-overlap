@@ -1,0 +1,2 @@
+plant_name,operator,municipality,state,generation_gwh,ng_consumption_tj,fo_consumption_tj,diesel_consumption_tj,co2e_gg,note
+Termoeléctrica Gral. Manuel Álvarez Moreno,CFE,Manzanillo,Colima,13984,98435,28,16951,7128,"Dominates Colima energy sector (47% of state CO2e). Natural gas (>85% of plant fuel) is EXEMPT from Mexico federal carbon tax. Diesel component (~16,951 TJ) IS subject to federal tax. Plant likely reportable to SEMARNAT COA; check Mexico ETS participant list."
