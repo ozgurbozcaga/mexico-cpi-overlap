@@ -1,0 +1,33 @@
+Year,Category,Central (GgCO₂e),Low (GgCO₂e),High (GgCO₂e),Share of state (%),Note
+2025,"— INSTRUMENT TOTALS (gross, before dedup) —",,,,,
+2025,Colima state carbon tax (S),3533.0,2354.0,4434.0,19.5,Stationary combustion; taxed fuels only (NG exempt)
+2025,Mexico federal carbon tax (F),9854.0,7029.0,12125.0,54.3,All fuels incl. transport; upstream levy; NG exempt
+2025,Mexico Pilot ETS (E),7635.0,5267.0,10031.0,42.1,"Large emitters ≥25,000 tCO₂e/yr; non-binding pilot; legal scope only"
+2025,— VENN DECOMPOSITION (7 segments) —,,,,,
+2025,S ∩ F ∩ E  [all three],1665.0,951.0,2166.0,9.2,"Electricity diesel+FO, cement combustion, metallurgical"
+2025,"S ∩ F only  [state + federal, not ETS]",1859.0,1395.0,2255.0,10.2,"Manuf (food, non-metallic, other), residential, commercial, agri"
+2025,"S only  [state tax only — not federal, not ETS]",10.0,7.0,12.0,0.1,Biogas/energy generation plants; non-fossil fuel — exempt from IEPS federal tax
+2025,"F only  [federal only — not state, not ETS]",6331.0,4683.0,7703.0,34.9,"Road, water, rail, aviation transport fuels"
+2025,E only  [ETS only — not taxed by either carbon tax],5970.0,4315.0,7865.0,32.9,NG fraction at Manzanillo thermoelectric; exempt from both taxes
+2025,"S ∩ E only  [state + ETS, not federal]",0.0,0.0,0.0,0.0,Empty — all ETS sources in state scope are also in federal scope
+2025,"F ∩ E only  [federal + ETS, not state]",0.0,0.0,0.0,0.0,Empty — federal tax does not cover NG; NG is E-only
+2025,— KEY DERIVED METRICS —,,,,,
+2025,Net S-only: Colima state tax NOT covered by F or E,10.0,7.0,12.0,0.1,Biogas only; <0.1% of state. State tax adds near-zero unique coverage vs federal tax
+2025,Cumulative deduplicated union  S ∪ F ∪ E,15834.0,11352.0,20001.0,87.3,All emissions covered by at least one of the three instruments
+2025,Total Colima state emissions (context),18137.0,,,100.0,IMADES 2015 base extrapolated at blended sector CAGR
+2026,"— INSTRUMENT TOTALS (gross, before dedup) —",,,,,
+2026,Colima state carbon tax (S),3540.0,2273.0,4542.0,19.5,Stationary combustion; taxed fuels only (NG exempt)
+2026,Mexico federal carbon tax (F),9925.0,6855.0,12464.0,54.7,All fuels incl. transport; upstream levy; NG exempt
+2026,Mexico Pilot ETS (E),7632.0,5080.0,10304.0,42.1,"Large emitters ≥25,000 tCO₂e/yr; non-binding pilot; legal scope only"
+2026,— VENN DECOMPOSITION (7 segments) —,,,,,
+2026,S ∩ F ∩ E  [all three],1650.0,894.0,2203.0,9.1,"Electricity diesel+FO, cement combustion, metallurgical"
+2026,"S ∩ F only  [state + federal, not ETS]",1881.0,1372.0,2327.0,10.4,"Manuf (food, non-metallic, other), residential, commercial, agri"
+2026,"S only  [state tax only — not federal, not ETS]",10.0,7.0,12.0,0.1,Biogas/energy generation plants; non-fossil fuel — exempt from IEPS federal tax
+2026,"F only  [federal only — not state, not ETS]",6394.0,4589.0,7934.0,35.3,"Road, water, rail, aviation transport fuels"
+2026,E only  [ETS only — not taxed by either carbon tax],5982.0,4186.0,8101.0,33.0,NG fraction at Manzanillo thermoelectric; exempt from both taxes
+2026,"S ∩ E only  [state + ETS, not federal]",0.0,0.0,0.0,0.0,Empty — all ETS sources in state scope are also in federal scope
+2026,"F ∩ E only  [federal + ETS, not state]",0.0,0.0,0.0,0.0,Empty — federal tax does not cover NG; NG is E-only
+2026,— KEY DERIVED METRICS —,,,,,
+2026,Net S-only: Colima state tax NOT covered by F or E,10.0,7.0,12.0,0.1,Biogas only; <0.1% of state. State tax adds near-zero unique coverage vs federal tax
+2026,Cumulative deduplicated union  S ∪ F ∪ E,15917.0,11048.0,20577.0,87.8,All emissions covered by at least one of the three instruments
+2026,Total Colima state emissions (context),18137.0,,,100.0,IMADES 2015 base extrapolated at blended sector CAGR
