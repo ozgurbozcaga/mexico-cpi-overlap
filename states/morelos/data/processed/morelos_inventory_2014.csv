@@ -1,0 +1,40 @@
+source_type,category,subcategory,CO2_Mg,CH4_Mg,N2O_Mg,CN_Mg,notes,CO2_GgCO2e,CH4_GgCO2e,N2O_GgCO2e,total_GgCO2e,HFC_PFC_SF6_GgCO2e,hfc_data_gap,biogenic_co2,ipcc_sector
+FIXED,Automotriz,,0.0,0.0,0.0,0.0,Annex IV; CO2 negligible (BTEX dominant); GEI values round to 0.0,0.0,0.0,0.0,0.0,0.0,True,False,manufacturing_automotive
+FIXED,Alimentos_y_bebidas,,292319.1,0.2,0.3,0.2,Annex IV; sugar mills dominant; bagasse combustion biogenic excluded,292.3191,0.0056,0.07949999999999999,292.4042,0.0,True,False,manufacturing_food_bev
+FIXED,Accesorios_electricos,,0.0,0.0,0.0,0.0,Annex IV; negligible GHG,0.0,0.0,0.0,0.0,0.0,True,False,manufacturing_electrical
+FIXED,Celulosa_y_papel,,47957.1,1.6,1.6,2.3,Annex IV; combustion-only category (no calcination process),47.9571,0.0448,0.42400000000000004,48.4259,0.0,True,False,manufacturing_pulp_paper
+FIXED,Cemento_y_cal,,901618.0,0.1,0.1,0.0,Annex IV; dominant sector; ~60% from CaCO3 calcination process; ~40% from fuel combustion (mainly petcoke),901.618,0.0028,0.026500000000000003,901.6473000000001,0.0,True,False,industrial_process_cement
+FIXED,Derivados_petroleo_carbon,,27030.7,0.7,0.5,0.4,Annex IV; fuel combustion,27.0307,0.0196,0.1325,27.1828,0.0,True,False,manufacturing_petro_products
+FIXED,Industria_textil,,68.7,0.0,0.0,0.0,Annex IV; very small,0.0687,0.0,0.0,0.0687,0.0,True,False,manufacturing_textiles
+FIXED,Metalurgica,,18.9,0.0,0.0,0.0,Annex IV; metal processes; very small in Morelos,0.0189,0.0,0.0,0.0189,0.0,True,False,manufacturing_metals
+FIXED,Minerales_no_metalicos,,5397.3,0.1,0.4,0.0,Annex IV; non-cement non-metallic minerals,5.3973,0.0028,0.10600000000000001,5.5061,0.0,True,False,manufacturing_nonmet_minerals
+FIXED,Metálico,,290.8,0.0,0.0,0.0,Annex IV; metallic minerals processing,0.2908,0.0,0.0,0.2908,0.0,True,False,manufacturing_metals
+FIXED,Mezclas_quimicas,,0.0,0.0,0.0,0.0,Annex IV; chemical mixtures; GHG negligible,0.0,0.0,0.0,0.0,0.0,True,False,manufacturing_chemical
+FIXED,Plastico_y_hule,,2834.8,0.1,0.0,0.0,Annex IV,2.8348,0.0028,0.0,2.8376,0.0,True,False,manufacturing_plastics
+FIXED,Petroleo_petroquimica,,0.0,0.0,0.0,0.0,Annex IV; limited GHG,0.0,0.0,0.0,0.0,0.0,True,False,manufacturing_petrochem
+FIXED,Quimica,,82989.1,0.7,2.6,0.3,Annex IV; chemical industry combustion,82.98910000000001,0.0196,0.689,83.6977,0.0,True,False,manufacturing_chemical
+FIXED,Vidrio,,106469.7,1.6,1.0,2.5,Annex IV; glass industry; combustion + some calcination,106.4697,0.0448,0.265,106.7795,0.0,True,False,industrial_process_glass
+FIXED,Residual_fixed_sectors,,37265.2,1.0,0.2,0.0,Residual CO2 from sectors showing 0.0 in Annex IV (Automotriz/Accesorios/Petroquimica/Mezclas): reconciles FIXED total to 1504259.4 Mg,37.2652,0.028,0.053000000000000005,37.346199999999996,0.0,True,False,manufacturing_other_small
+AREA,Combustion_agricola,,66496.5,4.9,1.1,26.3,Annex IV corrected: reduced to reconcile AREA total (96395 - 29899 residual adjustment),66.4965,0.13720000000000002,0.29150000000000004,66.9252,0.0,True,False,area_agri_combustion
+AREA,Combustion_comercial,,113538.0,1.7,7.5,0.3,Annex IV; commercial LPG/gas combustion; small stationary,113.538,0.047599999999999996,1.9874999999999998,115.5731,0.0,True,False,area_commercial
+AREA,Combustion_doméstica,,626298.9,359.5,34.3,331.4,Annex IV; leña (wood) dominant — biogenic CO2 included in inventory totals; CH4/N2O fossil,626.2989,10.065999999999999,9.0895,645.4544000000001,0.0,True,True,area_residential
+AREA,Combustion_industrial,,36326.1,1.1,0.2,1.4,Annex IV; area-source industrial combustion (small facilities not in fixed registry),36.3261,0.0308,0.053000000000000005,36.40989999999999,0.0,True,False,area_industrial_small
+AREA,Emisiones_ganaderas,,0.0,7663.7,0.0,0.0,Annex IV; livestock CH4 only,0.0,214.5836,0.0,214.5836,0.0,True,False,afolu_livestock
+AREA,Quemas_agricolas,,337764.8,289.9,15.9,164.0,Annex IV; agricultural burning,337.7648,8.1172,4.213500000000001,350.0955,0.0,True,False,afolu_burning
+AREA,Incendios_forestales,,18348.3,45.4,2.6,7.0,Annex IV,18.3483,1.2711999999999999,0.689,20.3085,0.0,True,True,afolu_fire
+WASTE,Aguas_residuales_area,,0.0,3515.8,17.0,0.0,Annex IV; wastewater CH4/N2O; Cuadro 12 excludes from AREA total; treated as separate waste sector,0.0,98.4424,4.505,102.9474,0.0,True,False,waste_wastewater
+MOBILE,Automovel_particular,,846510.8,69.4,42.5,15.6,Annex IV; on-road private cars,846.5108,1.9432,11.262500000000001,859.7165000000001,0.0,True,False,mobile_road
+MOBILE,Taxi,,158793.3,6.6,2.0,0.8,Annex IV,158.7933,0.1848,0.53,159.50809999999998,0.0,True,False,mobile_road
+MOBILE,Camioneta_particular,,415846.8,39.4,30.4,4.6,Annex IV; private vans,415.8468,1.1032,8.056,425.006,0.0,True,False,mobile_road
+MOBILE,Camioneta_transp_publico,,32655.0,1.5,0.4,0.1,Annex IV,32.655,0.042,0.10600000000000001,32.803000000000004,0.0,True,False,mobile_road
+MOBILE,Pickup,,328349.8,52.3,45.2,15.7,Annex IV,328.3498,1.4644,11.978000000000002,341.79220000000004,0.0,True,False,mobile_road
+MOBILE,Autobus,,108302.9,6.3,0.4,52.0,Annex IV,108.3029,0.1764,0.10600000000000001,108.58529999999999,0.0,True,False,mobile_road
+MOBILE,Veh_menos_3_8ton,,177169.4,17.2,10.7,3.8,Annex IV; vehicles <3.8t,177.1694,0.48160000000000003,2.8354999999999997,180.48649999999998,0.0,True,False,mobile_road
+MOBILE,Veh_mas_3_8ton,,119635.3,25.6,0.7,28.5,Annex IV,119.6353,0.7168,0.1855,120.53760000000001,0.0,True,False,mobile_road
+MOBILE,Tractocamion,,167006.9,45.2,0.6,33.9,Annex IV; heavy trucks,167.0069,1.2656,0.15899999999999997,168.4315,0.0,True,False,mobile_road
+MOBILE,Autobus_publico_municipal,,105913.1,10.1,0.2,45.8,Annex IV,105.9131,0.2828,0.053000000000000005,106.24889999999999,0.0,True,False,mobile_road
+MOBILE,Motocicleta,,159168.4,23.9,1.9,1.9,Annex IV; motorcycles,159.1684,0.6691999999999999,0.5035,160.34109999999998,0.0,True,False,mobile_road
+MOBILE_NONROAD,Aviacion,,1037.0,0.1,0.0,0.0,Annex IV; aviation,1.037,0.0028,0.0,1.0397999999999998,0.0,True,False,mobile_nonroad
+MOBILE_NONROAD,Locomotoras,,594.3,0.0,0.2,0.3,Annex IV; railways,0.5942999999999999,0.0,0.053000000000000005,0.6473,0.0,True,False,mobile_nonroad
+MOBILE_NONROAD,Lanchas_recreativas,,0.0,0.0,0.0,0.0,Annex IV; recreational boats,0.0,0.0,0.0,0.0,0.0,True,False,mobile_nonroad
+MOBILE_NONROAD,Terminal_autobuses,,0.0,0.0,0.0,0.0,Annex IV,0.0,0.0,0.0,0.0,0.0,True,False,mobile_nonroad
