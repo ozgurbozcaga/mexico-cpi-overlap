@@ -1,0 +1,45 @@
+source_type,category,subcategory,CO2_Mg,CH4_Mg,N2O_Mg,CN_Mg,notes
+FIXED,Automotriz,,0.0,0.0,0.0,0.0,Annex IV; CO2 negligible (BTEX dominant); GEI values round to 0.0
+FIXED,Alimentos_y_bebidas,,292319.1,0.2,0.3,0.2,Annex IV; sugar mills dominant; bagasse combustion biogenic excluded
+FIXED,Accesorios_electricos,,0.0,0.0,0.0,0.0,Annex IV; negligible GHG
+FIXED,Celulosa_y_papel,,47957.1,1.6,1.6,2.3,Annex IV; combustion-only category (no calcination process)
+FIXED,Cemento_y_cal,,901618.0,0.1,0.1,0.0,Annex IV; dominant sector; ~60% from CaCO3 calcination process; ~40% from fuel combustion (mainly petcoke)
+FIXED,Derivados_petroleo_carbon,,27030.7,0.7,0.5,0.4,Annex IV; fuel combustion
+FIXED,Industria_textil,,68.7,0.0,0.0,0.0,Annex IV; very small
+FIXED,Metalurgica,,18.9,0.0,0.0,0.0,Annex IV; metal processes; very small in Morelos
+FIXED,Minerales_no_metalicos,,5397.3,0.1,0.4,0.0,Annex IV; non-cement non-metallic minerals
+FIXED,Metálico,,290.8,0.0,0.0,0.0,Annex IV; metallic minerals processing
+FIXED,Mezclas_quimicas,,0.0,0.0,0.0,0.0,Annex IV; chemical mixtures; GHG negligible
+FIXED,Plastico_y_hule,,2834.8,0.1,0.0,0.0,Annex IV
+FIXED,Petroleo_petroquimica,,0.0,0.0,0.0,0.0,Annex IV; limited GHG
+FIXED,Quimica,,82989.1,0.7,2.6,0.3,Annex IV; chemical industry combustion
+FIXED,Vidrio,,106469.7,1.6,1.0,2.5,Annex IV; glass industry; combustion + some calcination
+FIXED,Residual_fixed_sectors,,37265.2,1.0,0.2,0.0,Residual CO2 from sectors showing 0.0 in Annex IV (Automotriz/Accesorios/Petroquimica/Mezclas): reconciles FIXED total to 1504259.4 Mg
+FIXED,TOTAL_FIXED,,1504259.4,6.1,6.7,7.1,Annex II; Cuadro 12 check
+AREA,Combustion_agricola,,66496.5,4.9,1.1,26.3,Annex IV corrected: reduced to reconcile AREA total (96395 - 29899 residual adjustment)
+AREA,Combustion_comercial,,113538.0,1.7,7.5,0.3,Annex IV; commercial LPG/gas combustion; small stationary
+AREA,Combustion_doméstica,,626298.9,359.5,34.3,331.4,Annex IV; leña (wood) dominant — biogenic CO2 included in inventory totals; CH4/N2O fossil
+AREA,Combustion_industrial,,36326.1,1.1,0.2,1.4,Annex IV; area-source industrial combustion (small facilities not in fixed registry)
+AREA,Emisiones_ganaderas,,0.0,7663.7,0.0,0.0,Annex IV; livestock CH4 only
+AREA,Quemas_agricolas,,337764.8,289.9,15.9,164.0,Annex IV; agricultural burning
+AREA,Incendios_forestales,,18348.3,45.4,2.6,7.0,Annex IV
+WASTE,Aguas_residuales_area,,0.0,3515.8,17.0,0.0,Annex IV; wastewater CH4/N2O; Cuadro 12 excludes from AREA total; treated as separate waste sector
+AREA,TOTAL_AREA,,1198773.1,8365.2,71.4,545.9,Annex II; Cuadro 12 check — excludes Aguas_residuales and Otras_area aggregation artifacts
+MOBILE,Automovel_particular,,846510.8,69.4,42.5,15.6,Annex IV; on-road private cars
+MOBILE,Taxi,,158793.3,6.6,2.0,0.8,Annex IV
+MOBILE,Camioneta_particular,,415846.8,39.4,30.4,4.6,Annex IV; private vans
+MOBILE,Camioneta_transp_publico,,32655.0,1.5,0.4,0.1,Annex IV
+MOBILE,Pickup,,328349.8,52.3,45.2,15.7,Annex IV
+MOBILE,Autobus,,108302.9,6.3,0.4,52.0,Annex IV
+MOBILE,Veh_menos_3_8ton,,177169.4,17.2,10.7,3.8,Annex IV; vehicles <3.8t
+MOBILE,Veh_mas_3_8ton,,119635.3,25.6,0.7,28.5,Annex IV
+MOBILE,Tractocamion,,167006.9,45.2,0.6,33.9,Annex IV; heavy trucks
+MOBILE,Autobus_publico_municipal,,105913.1,10.1,0.2,45.8,Annex IV
+MOBILE,Motocicleta,,159168.4,23.9,1.9,1.9,Annex IV; motorcycles
+MOBILE,TOTAL_MOBILE_ROAD,,2619351.6,297.2,134.8,202.0,Annex II; Cuadro 12 check
+MOBILE_NONROAD,Aviacion,,1037.0,0.1,0.0,0.0,Annex IV; aviation
+MOBILE_NONROAD,Locomotoras,,594.3,0.0,0.2,0.3,Annex IV; railways
+MOBILE_NONROAD,Lanchas_recreativas,,0.0,0.0,0.0,0.0,Annex IV; recreational boats
+MOBILE_NONROAD,Terminal_autobuses,,0.0,0.0,0.0,0.0,Annex IV
+MOBILE_NONROAD,TOTAL_NONROAD,,1631.2,0.1,0.3,0.3,Annex II; Cuadro 12 check
+TOTAL,ALL_SOURCES,,5324015.4,8668.6,213.1,755.3,Annex II; Cuadro 12; units Mg/year
