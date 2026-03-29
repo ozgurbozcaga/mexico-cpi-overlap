@@ -1,0 +1,108 @@
+Git commit sequence for states/guanajuato/
+Run from the root of the mexico-cpi-overlap repo.
+
+────────────────────────────────────────────────────────────────
+Commit 1 — raw data
+────────────────────────────────────────────────────────────────
+git add states/guanajuato/data/raw/
+git commit -m "guanajuato: add raw inventory data from IGCEI 2013
+
+Four source files extracted from IGCEI Guanajuato 2013
+(Instituto de Ecología del Estado):
+- sector_emissions_2013.csv: full results table (p.51), 28 subsector rows
+- fuel_consumption_pj_2013.csv: Table 2 fuel use by sector in PJ
+- fuel_co2_by_sector_2013.csv: fuel-level CO2/GHG from uncertainty table (pp.68-70)
+- ippu_activity_2013.csv: Table 5 chemical production activity
+
+Base year 2013 (single-year inventory, not multi-year series).
+State total 19,264.8 GgCO2e, AR5 GWPs (CH4=28, N2O=265)."
+
+────────────────────────────────────────────────────────────────
+Commit 2 — 01_clean.py and processed data
+────────────────────────────────────────────────────────────────
+git add states/guanajuato/scripts/01_clean.py
+git add states/guanajuato/data/processed/sector_emissions_clean.csv
+git add states/guanajuato/data/processed/fuel_fractions_by_sector.csv
+git add states/guanajuato/data/processed/validation_report.txt
+git commit -m "guanajuato: 01_clean — ingest, validate, compute fuel fractions
+
+All four inventory totals validate to 0.00% difference vs known values:
+- State total: 19,264.8 GgCO2e OK
+- Energy sector: 14,794.7 GgCO2e OK
+- IPPU: 515.2 GgCO2e OK
+- Net CO2: 12,945.1 GgCO2e OK
+
+Key fuel fractions (from uncertainty table, Table 16):
+- Industrias_energia: NG=73.3%, non-NG=26.7% (combustoleo+diesel)
+- Industrias_manufactura: NG=52.3%, non-NG=47.7% (combustoleo+diesel+LP+aceites)
+- IPPU process N2O: 0% F-covered (process emissions, not fuel combustion)
+- Ladrilleras: non-NG=50% fossil assumption (range 30-70%)
+
+Note: 270.8 Gg CO2 gap in energy industries between uncertainty table
+and results table (6.1%); fuel fractions applied to results-table total,
+gap distributed proportionally."
+
+────────────────────────────────────────────────────────────────
+Commit 3 — 02_estimate.py and overlap estimates
+────────────────────────────────────────────────────────────────
+git add states/guanajuato/scripts/02_estimate.py
+git add states/guanajuato/data/processed/overlap_estimates.csv
+git add states/guanajuato/data/processed/overlap_summary.csv
+git commit -m "guanajuato: 02_estimate — three-instrument Venn overlap, Tier 3
+
+S total: 6,622.1 GgCO2e (34.4% of state total, central scenario)
+F total: 10,477.1 GgCO2e (54.4% of state total)
+
+Central Venn segments (GgCO2e):
+  S_intersect_F_intersect_E : 1,734
+  S_intersect_E_only        : 3,966  <- dominant; NG combustion + process N2O in large facilities
+  S_intersect_F_only        :   393
+  S_only                    :   529
+  F_only_outside_S          : 8,350  <- transport dominant
+
+Low-high range for S_intersect_F_intersect_E: 1,365-2,136 GgCO2e
+Uncertainty driven by manufacturing ETS coverage fraction (50-80%).
+
+Key structural features:
+- Salamanca refinery: 73% NG by CO2 mass -> large S_intersect_E block
+- Process N2O (caprolactama 202.7 + acido nitrico 5.7 GgCO2e): S_intersect_E only
+- No process CO2: no cement, no blast furnaces (confirmed IGCEI p.28)
+- HFC (306.8 GgCO2e) outside all three instruments
+
+Independence assumption: fuel mix of ETS-covered facilities = sector average.
+ETS = legal scope upper bound (non-binding pilot). Flag in methodology.md."
+
+────────────────────────────────────────────────────────────────
+Commit 4 — 03_outputs.py, figures, tables
+────────────────────────────────────────────────────────────────
+git add states/guanajuato/scripts/03_outputs.py
+git add states/guanajuato/outputs/
+git commit -m "guanajuato: 03_outputs — tables and figures
+
+Figures (outputs/figures/):
+- guanajuato_venn_overlap.png: three-circle Venn with segment labels
+- guanajuato_coverage_by_sector.png: stacked bar by subsector (S scope)
+- guanajuato_state_coverage_pie.png: pie chart of full state emissions by coverage
+
+Tables (outputs/tables/):
+- guanajuato_overlap_summary.csv: central/low/high aggregate by scenario
+- guanajuato_subsector_detail.csv: subsector breakdown, central scenario"
+
+────────────────────────────────────────────────────────────────
+Commit 5 — docs and README
+────────────────────────────────────────────────────────────────
+git add states/guanajuato/docs/
+git add states/guanajuato/README.md
+git add states/guanajuato/requirements.txt
+git commit -m "guanajuato: docs — data sources, assumptions, methodology note
+
+docs/data_sources.md: all source tables from IGCEI 2013 cited with page refs
+docs/assumptions_02.md: full documentation of all Tier 3 estimation parameters
+  - ETS coverage fractions with rationale (Salamanca refinery, Bajio automotive)
+  - NG exemption calculation method
+  - Ladrilleras fossil fraction (50% central, sensitivity 30-70%)
+  - Independence assumption justification
+  - Cross-state comparison table (Durango/Colima/Morelos/Guanajuato)
+docs/methodology.md: step-by-step estimation and results table
+
+Estimation tier: 3. Legal/operational divergence flagged for ETS."
