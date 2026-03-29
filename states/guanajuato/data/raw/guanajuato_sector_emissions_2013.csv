@@ -1,0 +1,29 @@
+sector,subsector,category_ipcc,co2_gg,ch4_ggco2e,n2o_ggco2e,hfc_ggco2e,total_ggco2e,notes
+ENERGIA,Industrias_energia,1A1,4424.2,2.9,3.9,0.0,4431.0,Stationary combustion at energy industries incl Salamanca refinery
+ENERGIA,Industrias_manufactura,1A2,1962.7,1.0,2.2,0.0,1965.8,Stationary combustion at manufacturing and construction
+ENERGIA,Autotransporte,1A3b,6859.0,41.6,167.8,0.0,7068.4,Road transport mobile combustion
+ENERGIA,Aviacion,1A3a,88.0,0.0,0.6,0.0,88.6,Aviation combustion
+ENERGIA,Combustion_agricola,1A4c,255.1,1.0,1.7,0.0,257.8,Agricultural mobile combustion incl machinery
+ENERGIA,Combustion_comercial,1A4a,176.3,0.4,0.1,0.0,176.8,Commercial stationary combustion
+ENERGIA,Combustion_residencial,1A4b,696.5,33.8,6.3,0.0,736.6,Residential combustion
+ENERGIA,Ladrilleras,1A2_local,8.3,0.0,3.8,0.0,12.1,Brick kilns - local category not in standard IPCC; stationary industrial
+ENERGIA,Maquinaria_construccion,1A3e,52.3,0.1,0.4,0.0,52.8,Construction machinery - non-road mobile
+ENERGIA,Emisiones_fugitivas,1B,0.0,4.8,0.0,0.0,4.8,Fugitive CH4 from petroleum refining at Salamanca refinery
+IPPU,Caprolactama,2B4,0.0,0.0,202.7,0.0,202.7,N2O from caprolactama production; 85000 tonnes/yr; Lanxess facility
+IPPU,Acido_nitrico,2B2,0.0,0.0,5.7,0.0,5.7,N2O from nitric acid production; 2399 tonnes/yr
+IPPU,HFC_RAC,2F,0.0,0.0,0.0,306.8,306.8,HFC from domestic and commercial refrigeration and automotive AC
+AFOLU,Fermentacion_enterica,3A1,0.0,1754.7,0.0,0.0,1754.7,Livestock enteric fermentation
+AFOLU,Manejo_excretas,3A2,0.0,480.0,105.9,0.0,585.9,Manure management
+AFOLU,Suelos_directos,3C4,0.0,0.0,1592.7,0.0,1592.7,Direct N2O from managed soils
+AFOLU,Suelos_indirectos,3C5,0.0,0.0,147.8,0.0,147.8,Indirect N2O from managed soils
+AFOLU,Quema_biomasa_cultivos,3C1b,0.0,8.5,2.5,0.0,11.0,Biomass burning on cropland
+AFOLU,Quema_biomasa_forestales,3C1a,75.2,4.9,2.8,0.0,82.9,Biomass burning on forestland
+AFOLU,Tierras_forestales,3B1,-1469.5,0.0,0.0,0.0,-1469.5,CO2 removals from forestland (sink)
+AFOLU,Tierras_cultivo,3B2,-5.2,0.0,0.0,0.0,-5.2,CO2 from/removals cropland (net sink)
+AFOLU,Pastizales,3B3,-181.4,0.0,0.0,0.0,-181.4,CO2 removals from grassland (sink)
+AFOLU,Asentamientos,3B5,1.9,0.0,0.0,0.0,1.9,CO2 from settlements
+AFOLU,Otras_tierras,3B6,0.2,0.0,0.0,0.0,0.2,CO2 from other lands
+DESECHOS,Desechos_solidos,4A,0.0,966.9,0.0,0.0,966.9,Solid waste disposal CH4
+DESECHOS,AR_domesticas,4D1,0.0,356.9,86.2,0.0,443.1,Domestic wastewater treatment
+DESECHOS,AR_industriales,4D2,0.0,21.2,0.0,0.0,21.2,Industrial wastewater treatment
+DESECHOS,Incineracion,4C,1.5,1.1,0.1,0.0,2.7,Waste incineration

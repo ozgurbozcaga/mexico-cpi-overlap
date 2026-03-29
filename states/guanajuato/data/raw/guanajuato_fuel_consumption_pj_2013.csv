@@ -1,0 +1,18 @@
+sector,fuel,consumption_pj,fuel_class,ng_exempt_from_F,notes
+Industrias_energia,Gas_natural,53.15,fossil_ng,True,Natural gas - exempt from federal IEPS tax
+Industrias_energia,Combustoleo,13.78,fossil_non_ng,False,Fuel oil - covered by federal IEPS
+Industrias_energia,Diesel,0.41,fossil_non_ng,False,Diesel - covered by federal IEPS
+Industrias_manufactura,Gas_natural,13.31,fossil_ng,True,Natural gas - exempt from federal IEPS tax
+Industrias_manufactura,LP,8.44,fossil_non_ng,False,LP gas - covered by federal IEPS
+Industrias_manufactura,Combustoleo,1.29,fossil_non_ng,False,Fuel oil - covered by federal IEPS
+Industrias_manufactura,Diesel,1.11,fossil_non_ng,False,Diesel - covered by federal IEPS
+Autotransporte,Gasolina_Magna,55.72,fossil_non_ng,False,Gasoline - covered by federal IEPS
+Autotransporte,Gasolina_Premium,8.20,fossil_non_ng,False,Premium gasoline - covered
+Autotransporte,Diesel,30.20,fossil_non_ng,False,Diesel transport
+Autotransporte,Querosenos,1.21,fossil_non_ng,False,Jet fuel/kerosene
+Combustion_comercial,LP,2.44,fossil_non_ng,False,LP gas commercial
+Combustion_comercial,Gas_natural,0.12,fossil_ng,True,Small NG commercial
+Combustion_residencial,LP,10.22,fossil_non_ng,False,LP gas residential
+Combustion_residencial,Gas_natural,0.37,fossil_ng,True,NG residential
+Combustion_residencial,Lena,8.64,biomass,False,Firewood - not fossil; biogenic CO2
+Combustion_agricola,LP,0.12,fossil_non_ng,False,LP gas agricultural machinery
