@@ -1,0 +1,7 @@
+subsector,total_co2_from_table_gg,ng_co2_gg,non_ng_co2_gg,ng_fraction,non_ng_fraction,biomass_fraction,note
+Industrias_energia,4153.41,3043.8,1109.61,0.7328,0.2672,0.0,"Fuels: combustoleo, GN, diesel. GN=78.9% by PJ but 73.3% by CO2 (lower EF)"
+Industrias_manufactura,1635.66,855.94,779.72,0.5233,0.4767,0.0,"Fuels: combustoleo, diesel, LP, GN, aceites. Leña/biogas residual ~17% not in table"
+Ladrilleras,0.0,0.0,0.0,0.0,0.5,0.5,"Brick kilns: assumed 50% fossil (diesel/LP), 50% biomass; range 30-70% fossil"
+Caprolactama,0.0,0.0,0.0,0.0,0.0,0.0,Process N2O emissions — not from fuel combustion; F (fuel levy) does not apply
+Acido_nitrico,0.0,0.0,0.0,0.0,0.0,0.0,Process N2O emissions — not from fuel combustion; F (fuel levy) does not apply
+Emisiones_fugitivas,0.0,0.0,0.0,0.0,0.0,0.0,Fugitive CH4 from petroleum refining; not a fuel sale; F does not apply

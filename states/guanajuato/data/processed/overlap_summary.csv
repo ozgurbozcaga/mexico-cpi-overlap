@@ -1,0 +1,4 @@
+scenario,S_total_ggco2e,F_within_S_ggco2e,E_within_S_ggco2e,S∩F∩E_ggco2e,S∩E_only_ggco2e,S∩F_only_ggco2e,S_only_ggco2e,F_only_outside_S_ggco2e,F_total_ggco2e,state_total_ggco2e,S_share_pct,F_share_pct
+central,6622.1,2127.1,5699.6,1733.9,3965.7,393.2,529.3,8350.0,10477.1,19264.8,34.4,54.4
+low,6622.1,2122.5,4939.8,1473.0,3466.7,649.4,1032.9,8350.0,10472.5,19264.8,34.4,54.4
+high,6622.1,2127.3,6172.5,1919.6,4252.9,207.7,241.9,8350.0,10477.3,19264.8,34.4,54.4
