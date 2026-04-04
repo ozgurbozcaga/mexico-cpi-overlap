@@ -1,0 +1,4 @@
+scenario,process_frac,process_CO2_Mg,combustion_CO2_Mg
+central,0.6,540970.7999999999,360647.2
+low,0.55,495889.9,405728.1
+high,0.65,586051.7000000001,315566.3

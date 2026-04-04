@@ -1,0 +1,4 @@
+category,ipcc_code,product,activity_tonnes_yr,n2o_ggco2e,co2_gg,hfc_ggco2e,gwp_n2o_used,notes
+Industria_quimica,2B4,Caprolactama,85000,202.7,0.0,0.0,265,N2O process emissions; major chemical industry in Guanajuato
+Industria_quimica,2B2,Acido_nitrico,2399,5.7,0.0,0.0,265,N2O process emissions
+Refrigeracion_AC,2F,HFC_RAC,N/A,0.0,0.0,306.8,N/A,HFC from domestic+commercial refrigeration and automotive AC; NOT covered by state tax (S only covers CO2/CH4/N2O)

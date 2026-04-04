@@ -1,0 +1,6 @@
+name,technology,capacity_MW,location,year_start,total_capacity_MW,above_25ktCO2e_threshold
+CTC Guadalupe Victoria (CFE),Termoeléctrica convencional,320,Lerdo,1991,1737,True
+CCG Gómez Palacio (CFE),Ciclo combinado,240,Gómez Palacio,1976,1737,True
+CTG Laguna-Chávez (CFE),Turbogás,84,Gómez Palacio,1971,1737,True
+CCC La Laguna II (Iberdrola/CFE),Ciclo combinado,538,Gómez Palacio,2005,1737,True
+CCC Fuerza y Energía Norte (Naturgy),Ciclo combinado,555,Durango,2010,1737,True

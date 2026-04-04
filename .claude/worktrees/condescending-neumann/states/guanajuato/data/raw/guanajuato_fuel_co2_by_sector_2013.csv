@@ -1,0 +1,15 @@
+sector,fuel,co2_gg,ch4_ggco2e,n2o_ggco2e,source_note
+Industrias_energia,Combustoleo,1079.56,1.18,2.24,Table 16 - 1A1 Combustoleo; fuel oil in energy industries
+Industrias_energia,Gas_natural,3043.80,1.66,1.57,Table 16 - 1A1 GN; natural gas in energy industries
+Industrias_energia,Diesel,30.05,0.02,0.07,Table 16 - 1A1 Diesel; diesel in energy industries
+Industrias_manufactura,Combustoleo,105.72,0.11,0.24,Table 16 - 1A2 Combustoleo
+Industrias_manufactura,Diesel,82.72,0.14,1.29,Table 16 - 1A2 Diesel
+Industrias_manufactura,LP,587.88,0.26,0.24,Table 16 - 1A2 LP
+Industrias_manufactura,Gas_natural,855.94,0.47,0.44,Table 16 - 1A2 GN
+Industrias_manufactura,Aceites_gastados,3.40,0.00,0.00,Table 16 - 1A2 Aceites gastados; waste oils (fossil)
+Autotransporte,Gasolina,5184.98,40.06,166.84,Table 16 - 1A3b Gasolina (Magna+Premium combined)
+Autotransporte,Diesel,1634.10,1.42,0.91,Table 16 - 1A3b Diesel transport
+Aviacion,Querosenos,87.97,0.02,0.64,Table 16 - 1A3a Turbosina
+Combustion_residencial,LP,711.73,1.55,0.29,Table 16 - 1A4b LP residential
+Combustion_residencial,Gas_natural,0.0,0.0,0.0,Small NG residential - estimated from fuel data; included in LP row totals
+Emisiones_fugitivas,Petroleum_CH4,0.0,4.80,0.0,Results table p51; fugitive CH4 from Salamanca refinery (1B)

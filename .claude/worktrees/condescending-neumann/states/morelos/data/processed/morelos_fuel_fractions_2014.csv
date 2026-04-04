@@ -1,0 +1,10 @@
+category,f_frac_central,f_frac_low,f_frac_high,ets_frac_central,ets_frac_low,ets_frac_high,derivation
+Cemento_y_cal,0.4,0.3465,0.44549999999999995,0.97,0.9,1.0,Cement: F covers only combustion fraction (~40%); process CO2 (60%) not taxable by IEPS; ETS: 3 large plants all likely above threshold
+Vidrio,0.96,0.88,0.99,0.85,0.7,0.98,"Glass: mostly fuel combustion (FO+petcoke dominant); small NG fraction; 2 plants, likely 1 above threshold (Cuernavaca glass is large)"
+Quimica,0.88,0.78,0.95,0.65,0.45,0.85,Chemical: mostly combustion; 20 small firms; few likely above 25kt threshold
+Celulosa_y_papel,0.82,0.7,0.92,0.8,0.6,0.95,Pulp/paper: mixed fossil/biogenic fuel; 2 plants; at least 1 likely above threshold
+Alimentos_y_bebidas,0.9,0.8,0.98,0.7,0.5,0.9,"Food/bev: sugar mills dominant; bagasse CO2 already excluded from inventory totals; reported CO2 is fossil; 8 firms, some large sugar mills likely above threshold"
+Derivados_petroleo_carbon,0.92,0.82,0.98,0.6,0.4,0.8,Petro derivatives: combustion; 3 firms; uncertain threshold compliance
+OTHER_MANUFACTURING,0.9,0.8,0.97,0.25,0.1,0.45,Other manufacturing: small firms; mostly below ETS threshold; combustion dominant (petcoke/FO/LPG mix)
+Combustion_industrial,0.9,0.8,0.97,0.0,0.0,0.05,Small industrial area sources: below ETS threshold by definition; taxable combustion
+Combustion_comercial,0.8,0.65,0.92,0.0,0.0,0.0,Commercial combustion: LPG dominant (taxable); NG ~20% exempt; below ETS threshold

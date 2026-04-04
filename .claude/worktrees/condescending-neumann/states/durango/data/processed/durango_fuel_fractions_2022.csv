@@ -1,0 +1,10 @@
+ipcc_code,sector_group,ng_exempt_frac_low,ng_exempt_frac_central,ng_exempt_frac_high,ets_frac_low,ets_frac_central,ets_frac_high,derivation_ng,derivation_ets
+1A1a,electricity_generation,0.992,0.9961833093673158,0.999,1.0,1.0,1.0,Table 12 fuel consumption × INECC emission factors; NG=99.6% of CO2,"5 named power plants: 320+240+84+538+555=1737 MW; all >> 25,000 tCO2e threshold"
+1A2,manufacturing,0.65,0.71,0.77,0.55,0.71,0.85,Fig 13: NG=61% energy; corrected for wood biogenic exclusion → ~71% of fossil CO2,Tier 3: [1A2d] paper 90%; [1A2e] food 70%; [1A2j] lumber 40%; [1A2i] mining 80%; smaller subsectors 30-50%
+1A4ab,other_energy,0.1,0.15,0.25,0.0,0.0,0.0,Inventory text: LPG ~67% of GHG; NG estimated 15% of remaining; central 15% NG exempt,"Small distributed households and commercial establishments; none above 25,000 tCO2e"
+1A4c,other_energy,0.05,0.1,0.2,0.0,0.0,0.0,Agricultural combustion: mainly diesel; small NG share assumed 10%,Small distributed agricultural sources
+1A5,non_specified,0.3,0.5,0.7,0.0,0.0,0.0,Non-specified: high uncertainty; 50% NG assumed (wide range),Non-specified small sources; assumed below threshold
+1B2,fugitive,0.99,1.0,1.0,0.3,0.5,0.7,1B2b gas natural = 102.68 GgCO2e (99.9% of 1B2); entirely CH4 from NG infrastructure,Large O&G distribution/compression facilities potentially above threshold; high uncertainty
+2C,piup_metals,0.0,0.0,0.0,0.7,0.9,1.0,Process emissions (not combustion); federal fuel tax N/A,[2C2] ferroalloy 48.9 GgCO2e likely 1 large facility; [2C5] lead 0.6 uncertain
+2D,piup_lubricants,0.0,0.0,0.0,0.0,0.0,0.0,Lubricant oxidation: fossil-derived carbon; covered by federal IEPS,Distributed small quantities; below threshold
+2F,piup_hfcs,0.0,0.0,0.0,0.0,0.0,0.0,HFC refrigerant leaks; not a fossil fuel — federal fuel tax does not apply,Refrigerant leaks not in Mexico Pilot ETS scope

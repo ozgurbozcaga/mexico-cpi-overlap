@@ -1,0 +1,29 @@
+year,subsector,base_co2e_gg,co2e_low,co2e_central,co2e_high,growth_class,in_state_scope,overlap_federal,overlap_ets,note
+2025,Electricity generation (diesel+FO — taxable),1275.912,554.24,1042.51,1409.4,electricity_taxable,True,True,True,Diesel+FO fraction only; NG exempt both taxes
+2025,Electricity generation (NG — EXEMPT),5852.088,4315.47,5970.19,7864.72,electricity_ng_exempt,False,False,True,NG fraction — EXEMPT from state and federal carbon taxes
+2025,Energy generation plants,9.0,7.35,9.94,12.1,manuf_other,True,False,False,
+2025,Manuf — Cement and lime,244.4,199.69,275.36,328.45,manuf_cement,True,True,True,
+2025,Manuf — Food and beverage,279.1,252.41,323.91,393.7,manuf_food,True,True,False,
+2025,Manuf — Metallurgical,275.3,164.83,298.13,369.98,manuf_metal,True,True,True,
+2025,Manuf — Non-metallic minerals,705.6,576.53,802.88,995.32,manuf_nonmetal,True,True,False,
+2025,Manuf — Other industries,431.3,352.4,476.42,579.63,manuf_other,True,True,False,
+2025,Manuf — Petroleum/petrochem,13.7,11.19,15.13,18.41,manuf_other,True,True,False,
+2025,Manuf — Chemical,0.1,0.08,0.11,0.13,manuf_other,True,True,False,
+2025,Manuf — Hazardous waste treat,0.1,0.08,0.11,0.13,manuf_other,True,True,False,
+2025,Residential,189.1,171.02,204.78,230.51,residential_commercial,True,True,False,
+2025,Commercial,13.8,12.48,14.94,16.82,residential_commercial,True,True,False,
+2025,Agriculture/forestry/fishing,49.9,45.13,54.04,60.83,residential_commercial,True,True,False,
+2026,Electricity generation (diesel+FO — taxable),1275.912,509.9,1021.66,1423.49,electricity_taxable,True,True,True,Diesel+FO fraction only; NG exempt both taxes
+2026,Electricity generation (NG — EXEMPT),5852.088,4186.01,5982.13,8100.66,electricity_ng_exempt,False,False,True,NG fraction — EXEMPT from state and federal carbon taxes
+2026,Energy generation plants,9.0,7.21,10.04,12.46,manuf_other,True,False,False,
+2026,Manuf — Cement and lime,244.4,195.7,278.67,338.31,manuf_cement,True,True,True,
+2026,Manuf — Food and beverage,279.1,249.89,328.77,407.48,manuf_food,True,True,False,
+2026,Manuf — Metallurgical,275.3,156.59,300.52,381.08,manuf_metal,True,True,True,
+2026,Manuf — Non-metallic minerals,705.6,565.0,813.32,1030.15,manuf_nonmetal,True,True,False,
+2026,Manuf — Other industries,431.3,345.36,481.19,597.02,manuf_other,True,True,False,
+2026,Manuf — Petroleum/petrochem,13.7,10.97,15.28,18.96,manuf_other,True,True,False,
+2026,Manuf — Chemical,0.1,0.08,0.11,0.14,manuf_other,True,True,False,
+2026,Manuf — Hazardous waste treat,0.1,0.08,0.11,0.14,manuf_other,True,True,False,
+2026,Residential,189.1,169.31,206.42,235.12,residential_commercial,True,True,False,
+2026,Commercial,13.8,12.36,15.06,17.16,residential_commercial,True,True,False,
+2026,Agriculture/forestry/fishing,49.9,44.68,54.47,62.04,residential_commercial,True,True,False,

@@ -1,0 +1,41 @@
+sector,subsector,ipcc_code,co2_gg,ch4_gg,n2o_gg,bc_gg,hfc_gg,co2e_gg,base_year
+Energy,Electricity generation,1A1ai,7034.06,0.15,0.02,0.09,0.0,7128.0,2015
+Energy,Energy generation plants,1A1aiii,0.33,0.3,0.0,0.0,0.0,9.0,2015
+Energy,Manuf — Cement and lime,1A2f,231.76,0.008,0.002,0.013,0.0,244.35,2015
+Energy,Manuf — Food and beverage,1A2e,267.08,0.026,0.001,0.012,0.0,279.11,2015
+Energy,Manuf — Metallurgical,1A2a,270.01,0.009,0.018,0.0,0.0,275.27,2015
+Energy,Manuf — Non-metallic minerals,1A2f,659.99,1.434,0.02,0.0,0.0,705.64,2015
+Energy,Manuf — Other industries,1A2m,423.8,0.231,0.003,0.0,0.0,431.27,2015
+Energy,Manuf — Petroleum/petrochem,1A2,7.35,0.191,0.004,0.0,0.0,13.73,2015
+Energy,Manuf — Chemical,1A2c,0.12,0.0,0.0,0.0,0.0,0.12,2015
+Energy,Manuf — Hazardous waste treat,1A2,0.14,0.0,0.0,0.0,0.0,0.14,2015
+Energy,Transport — Civil aviation,1A3a,16.6,0.0,0.0,0.0,0.0,17.38,2015
+Energy,Transport — Railways,1A3c,33.49,0.0,0.01,0.0,0.0,41.51,2015
+Energy,Transport — Water navigation,1A3d,66.97,0.01,0.0,0.03,0.0,94.74,2015
+Energy,Transport — Road,1A3b,3610.17,0.46,0.14,2.13,0.0,5577.93,2015
+Energy,Residential,1A4b,133.99,0.23,0.0,0.05,0.0,189.05,2015
+Energy,Commercial,1A4a,13.69,0.0,0.0,0.0,0.0,13.78,2015
+Energy,Agriculture/forestry/fishing,1A4c,33.1,0.0,0.0,0.02,0.0,49.88,2015
+IPPU,Cement production,2A1,408.8,0.0,0.0,0.0,0.0,408.8,2015
+IPPU,Lime production,2A2,21.07,0.0,0.0,0.0,0.0,21.07,2015
+IPPU,Iron production (pellets),2C1,136.57,0.0,0.0,0.0,0.0,136.57,2015
+IPPU,Use of products (HFCs),2F/2G,0.0,0.0,0.0,0.0,0.217,157.2,2015
+AFOLU,Livestock — enteric ferment.,3A1,0.0,8.478,0.0,0.0,0.0,237.38,2015
+AFOLU,Livestock — manure mgmt,3A2,0.0,0.209,0.113,0.0,0.0,35.78,2015
+AFOLU,Ag — Whitewashed,3C2,22.32,0.0,0.0,0.0,0.0,22.32,2015
+AFOLU,Ag — Urea application,3C3,15.91,0.0,0.0,0.0,0.0,15.91,2015
+AFOLU,Ag — Rice cultivation,3C7,0.0,0.436,0.0,0.0,0.0,12.22,2015
+AFOLU,Ag — Synthetic fertilizers,3C4/5,0.0,0.0,0.58,0.0,0.0,10.06,2015
+AFOLU,Ag — Biomass burning,3C1,58.97,0.123,0.003,0.021,0.0,82.11,2015
+AFOLU,Land — converted to grasslands,3B,363.06,0.0,0.0,0.0,0.0,363.06,2015
+AFOLU,Land — converted to settlements,3B,22.14,0.0,0.0,0.0,0.0,22.14,2015
+AFOLU,Land — converted to other,3B,4.12,0.0,0.0,0.0,0.0,4.12,2015
+AFOLU,Land — converted to agri,3B,950.8,0.0,0.0,0.0,0.0,950.8,2015
+AFOLU,Land — degraded forest,3B,160.48,0.0,0.0,0.0,0.0,160.48,2015
+AFOLU,Removals — forest lands,3B,-140.65,0.0,0.0,0.0,0.0,-140.65,2015
+AFOLU,Removals — pastures,3B,-78.13,0.0,0.0,0.0,0.0,-78.13,2015
+Waste,Solid waste disposal (MSW),4A,0.0,2.596,0.0,0.0,0.0,72.7,2015
+Waste,Waste burning opencast,4C,1.25,0.0,0.0,0.011,0.0,11.45,2015
+Waste,Wastewater — municipal treated,4D,0.0,4.6,0.03,0.0,0.0,191.01,2015
+Waste,Wastewater — municipal untreated,4D,0.0,6.172,0.0,0.0,0.0,118.23,2015
+Waste,Wastewater — industrial treated,4D,0.0,2.52,0.0,0.0,0.0,70.61,2015

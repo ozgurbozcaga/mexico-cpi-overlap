@@ -1,0 +1,91 @@
+year,scenario,segment,GgCO2e,pct_of_state,content_description,estimation_tier
+2014,central,S∩F∩E — all three,516.3,9.02,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2014,central,S∩E only — state + ETS,774.7,13.54,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2014,central,S∩F only — state + fed,473.0,8.26,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2014,central,S only — state unique,539.7,9.43,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2014,central,F only — federal unique,2665.1,46.56,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2014,central,Uncovered,754.9,13.19,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2014,central,S gross,2303.6,40.25,,Tier 3
+2014,central,F gross,3654.3,63.85,,Tier 3
+2014,central,E gross,1291.0,22.56,,Tier 3
+2014,central,Union S∪F∪E,4968.7,86.81,,Tier 3
+2014,low,S∩F∩E — all three,343.5,6.0,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2014,low,S∩E only — state + ETS,771.2,13.47,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2014,low,S∩F only — state + fed,466.1,8.14,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2014,low,S only — state unique,722.9,12.63,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2014,low,F only — federal unique,2665.1,46.56,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2014,low,Uncovered,754.9,13.19,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2014,low,S gross,2303.6,40.25,,Tier 3
+2014,low,F gross,3474.6,60.71,,Tier 3
+2014,low,E gross,1114.6,19.47,,Tier 3
+2014,low,Union S∪F∪E,4968.7,86.81,,Tier 3
+2014,high,S∩F∩E — all three,693.6,12.12,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2014,high,S∩E only — state + ETS,735.5,12.85,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2014,high,S∩F only — state + fed,492.4,8.6,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2014,high,S only — state unique,382.2,6.68,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2014,high,F only — federal unique,2665.1,46.56,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2014,high,Uncovered,754.9,13.19,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2014,high,S gross,2303.6,40.25,,Tier 3
+2014,high,F gross,3851.1,67.28,,Tier 3
+2014,high,E gross,1429.1,24.97,,Tier 3
+2014,high,Union S∪F∪E,4968.7,86.81,,Tier 3
+2025,central,S∩F∩E — all three,562.8,8.93,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2025,central,S∩E only — state + ETS,820.2,13.01,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2025,central,S∩F only — state + fed,493.1,7.82,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2025,central,S only — state unique,498.2,7.9,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2025,central,F only — federal unique,3139.2,49.79,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2025,central,Uncovered,792.1,12.56,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2025,central,S gross,2374.2,37.65,,Tier 3
+2025,central,F gross,4195.1,66.53,,Tier 3
+2025,central,E gross,1383.0,21.93,,Tier 3
+2025,central,Union S∪F∪E,5513.5,87.44,,Tier 3
+2025,low,S∩F∩E — all three,282.2,5.72,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2025,low,S∩E only — state + ETS,618.8,12.55,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2025,low,S∩F only — state + fed,376.4,7.63,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2025,low,S only — state unique,538.1,10.91,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2025,low,F only — federal unique,2521.9,51.13,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2025,low,Uncovered,594.8,12.06,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2025,low,S gross,1815.5,36.81,,Tier 3
+2025,low,F gross,3180.5,64.49,,Tier 3
+2025,low,E gross,901.0,18.27,,Tier 3
+2025,low,Union S∪F∪E,4337.4,87.94,,Tier 3
+2025,high,S∩F∩E — all three,971.6,12.58,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2025,high,S∩E only — state + ETS,966.8,12.52,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2025,high,S∩F only — state + fed,621.2,8.04,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2025,high,S only — state unique,430.6,5.58,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2025,high,F only — federal unique,3689.0,47.77,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2025,high,Uncovered,1042.7,13.5,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2025,high,S gross,2990.2,38.72,,Tier 3
+2025,high,F gross,5281.8,68.4,,Tier 3
+2025,high,E gross,1938.4,25.1,,Tier 3
+2025,high,Union S∪F∪E,6679.2,86.5,,Tier 3
+2026,central,S∩F∩E — all three,567.2,8.91,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2026,central,S∩E only — state + ETS,824.5,12.96,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2026,central,S∩F only — state + fed,495.3,7.78,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2026,central,S only — state unique,494.7,7.77,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2026,central,F only — federal unique,3186.3,50.07,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2026,central,Uncovered,795.8,12.5,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2026,central,S gross,2381.7,37.43,,Tier 3
+2026,central,F gross,4248.8,66.77,,Tier 3
+2026,central,E gross,1391.7,21.87,,Tier 3
+2026,central,Union S∪F∪E,5568.0,87.5,,Tier 3
+2026,low,S∩F∩E — all three,277.2,5.69,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2026,low,S∩E only — state + ETS,606.5,12.46,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2026,low,S∩F only — state + fed,369.3,7.59,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2026,low,S only — state unique,524.0,10.76,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2026,low,F only — federal unique,2509.3,51.54,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2026,low,Uncovered,582.4,11.96,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2026,low,S gross,1777.0,36.5,,Tier 3
+2026,low,F gross,3155.8,64.82,,Tier 3
+2026,low,E gross,883.7,18.15,,Tier 3
+2026,low,Union S∪F∪E,4286.3,88.04,,Tier 3
+2026,high,S∩F∩E — all three,1001.9,12.62,Cement combustion (petcoke/FO fraction) + manuf. taxable fuels at large plants,Tier 3
+2026,high,S∩E only — state + ETS,991.1,12.49,"Cement calcination process CO₂ at large plants — in ETS, in S, but NOT in F",Tier 3
+2026,high,S∩F only — state + fed,635.0,8.0,Manufacturing/commercial taxable fuels at small facilities below ETS threshold,Tier 3
+2026,high,S only — state unique,435.4,5.49,Process CO₂ at small facilities; NG combustion; commercial NG; HFC gap,Tier 3
+2026,high,F only — federal unique,3799.6,47.87,"All mobile (road, aviation, non-road); agricultural combustion",Tier 3
+2026,high,Uncovered,1074.0,13.53,Livestock CH₄; biogenic wood combustion CO₂; agricultural burning; wastewater,Tier 3
+2026,high,S gross,3063.4,38.6,,Tier 3
+2026,high,F gross,5436.6,68.5,,Tier 3
+2026,high,E gross,1993.0,25.11,,Tier 3
+2026,high,Union S∪F∪E,6863.0,86.47,,Tier 3

@@ -1,0 +1,7 @@
+scenario,electricity_in_state_tax,federal_covered_gg,state_covered_gg,overlap_gg,dedup_total_gg,mfg_nat_gas_co2e_gg,mfg_non_nat_gas_co2e_gg,elec_federal_co2e_gg,federal_pct_state_total,state_pct_state_total,overlap_pct_state_total,dedup_pct_state_total,state_total_gg
+central_no_elec,False,8923.4,1949.4,1890.5,8982.3,58.9,1890.5,1048.6,49.2,10.7,10.4,49.5,18137.0
+central_elec_in_state,True,8923.4,9077.4,2939.1,15061.7,58.9,1890.5,1048.6,49.2,50.0,16.2,83.0,18137.0
+conservative_no_elec,False,8926.7,1949.4,1893.8,8982.3,55.6,1893.8,1048.6,49.2,10.7,10.4,49.5,18137.0
+conservative_elec_in_state,True,8926.7,9077.4,2942.4,15061.7,55.6,1893.8,1048.6,49.2,50.0,16.2,83.0,18137.0
+optimistic_no_elec,False,8920.9,1949.4,1888.0,8982.3,61.4,1888.0,1048.6,49.2,10.7,10.4,49.5,18137.0
+optimistic_elec_in_state,True,8920.9,9077.4,2936.6,15061.7,61.4,1888.0,1048.6,49.2,50.0,16.2,83.0,18137.0

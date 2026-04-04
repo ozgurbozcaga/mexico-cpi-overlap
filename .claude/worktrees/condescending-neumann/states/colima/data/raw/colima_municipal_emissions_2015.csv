@@ -1,0 +1,12 @@
+municipality,energy_co2e_gg,ippu_co2e_gg,afolu_co2e_gg,waste_co2e_gg,total_co2e_gg,energy_pct,notes
+Armería,173,,89,13,274,,
+Colima,841,,251,32,1124,,Colima city; state capital
+Comala,33,,197,21,251,,
+Coquimatlán,228,,213,10,450,,
+Cuauhtémoc,570,103,268,57,998,,Las Encinas pellet plant
+Ixtlahuacán,108,21,79,9,216,,Calidra lime plant
+Manzanillo,9809,90,296,130,10325,,CFE thermoelectric + Port + Peña Colorada pellets; 65% of state energy emissions
+Minatitlán,918,,105,48,1071,,
+Tecomán,1688,510,255,62,2515,,Cementos Apasco; 20% of state IPPU
+Villa de Álvarez,703,,127,81,911,,
+State,15070,724,1879,464,18137,,

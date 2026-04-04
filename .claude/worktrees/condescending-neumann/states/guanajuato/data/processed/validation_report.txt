@@ -1,0 +1,17 @@
+=== VALIDATION REPORT: Guanajuato 2013 GHG Inventory ===
+
+State total: computed=19264.8, expected=19264.8, diff=0.00% OK
+Energy sector: computed=14794.7, expected=14794.7, diff=0.00% OK
+IPPU sector: computed=515.2, expected=515.2, diff=0.00% OK
+Net CO2 total: computed=12945.1, expected=12945.1, diff=0.00% OK
+
+=== KEY DATA NOTES ===
+State total: 19,264.8 GgCO2e (IPCC 2006 methodology, AR5 GWPs)
+Energy sector: 14,794.7 GgCO2e (76.8% of total)
+Energy industries CO2 gap: 270.8 Gg distributed proportionally
+IPPU: 515.2 GgCO2e — includes 306.8 HFC (excluded from state tax scope)
+Process N2O in S scope: 208.4 GgCO2e (caprolactama + acid nitric)
+No cement or blast furnace process CO2 (unlike Morelos)
+NG fraction energy industries: 73.3% (by CO2 mass)
+NG fraction manufacturing: 52.3% (by CO2 mass)
+Ladrilleras fossil fraction: 50% (central assumption, range 30-70%)

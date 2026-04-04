@@ -1,0 +1,64 @@
+ipcc_code,description,emissions_GgCO2e,CO2_GgCO2e,CH4_GgCO2e,N2O_GgCO2e,HFC_GgCO2e,notes
+1,ENERGIA,7348.99,7099.68,152.59,96.72,0.00,
+1A,Actividades quema de combustible,7246.21,7099.53,49.96,96.72,0.00,
+1A1,Industrias de la energia,3316.22,3313.07,1.61,1.54,0.00,
+1A1a,Generacion de electricidad,3316.22,3313.07,1.61,1.54,0.00,All [1A1] is electricity generation; no refining or solid fuel manufacturing in state
+1A2,Industrias manufactureras y de la construccion,882.74,875.36,3.25,4.14,0.00,NG=61% energy; wood=13% energy; remainder non-NG fossil
+1A2a,Hierro y acero,22.54,22.52,0.01,0.01,0.00,
+1A2b,Metales no ferrosos,18.72,18.70,0.01,0.01,0.00,
+1A2c,Sustancias quimicas,14.78,14.74,0.02,0.03,0.00,
+1A2d,Pulpa papel e imprenta,292.79,292.51,0.14,0.14,0.00,Largest manufacturing subsector 33.2%
+1A2e,Procesamiento de alimentos bebidas y tabaco,266.33,265.84,0.19,0.29,0.00,Second largest 30.2%
+1A2f,Minerales no metalicos,30.02,29.99,0.02,0.02,0.00,
+1A2g,Equipo de transporte,6.08,6.07,0.00,0.00,0.00,
+1A2h,Maquinaria,0.03,0.03,0.00,0.00,0.00,
+1A2i,Mineria (excl combustibles) y canteria,70.48,70.26,0.08,0.15,0.00,
+1A2j,Madera y productos de la madera,127.80,121.59,2.75,3.47,0.00,Durango is Mexico top lumber producer; distributed
+1A2k,Construccion,3.11,3.09,0.01,0.02,0.00,
+1A2l,Textiles y cueros,12.80,12.79,0.01,0.01,0.00,
+1A2m,Industria no especificada,17.25,17.23,0.01,0.01,0.00,
+1A3,Transporte,2893.01,2790.82,14.99,87.19,0.00,
+1A3a,Aviacion civil,22.63,22.46,0.00,0.16,0.00,
+1A3b,Transporte terrestre,2865.61,2764.05,14.98,86.58,0.00,479139 vehicles; gasoline dominant
+1A3c,Ferrocarriles,4.76,4.31,0.01,0.45,0.00,
+1A4,Otros sectores,153.75,119.80,30.11,3.84,0.00,
+1A4a,Comercial e institucional,69.67,69.44,0.18,0.06,0.00,
+1A4b,Residencial,83.28,49.57,29.93,3.78,0.00,LPG drives GHG; fuelwood drives energy use
+1A4c,Agricultura,0.80,0.80,0.00,0.00,0.00,Combustion in agricultural sector
+1A5,Sector no especificado,0.50,0.49,0.00,0.00,0.00,
+1B,Emisiones fugitivas,102.77,0.15,102.62,0.00,0.00,
+1B2,Petroleo y gas natural,102.77,0.15,102.62,0.00,0.00,CH4 leaks from NG infrastructure; 0.56% CAGR 2010-2022
+1B2a,Petroleo,0.09,0.09,0.00,0.00,0.00,
+1B2b,Gas natural,102.68,0.06,102.62,0.00,0.00,Almost entirely CH4
+2,PIUP,116.85,48.66,1.15,0.00,67.05,
+2C,Industria de los metales,49.50,48.35,1.15,0.00,0.00,Process emissions; not fuel combustion
+2C2,Produccion de ferroaleaciones,48.90,47.76,1.15,0.00,0.00,Large facilities likely above ETS threshold
+2C5,Produccion de plomo,0.59,0.59,0.00,0.00,0.00,
+2D,Uso de productos no energeticos de combustibles,0.30,0.30,0.00,0.00,0.00,Lubricants
+2D1,Uso de lubricantes,0.30,0.30,0.00,0.00,0.00,
+2F,Uso de productos sustitutos de SAO,67.05,0.00,0.00,0.00,67.05,HFCs from refrigeration/AC
+2F1a_res,Refrigeracion y AC sector residencial,11.56,0.00,0.00,0.00,11.56,
+2F1a_com,Refrigeracion y AC sector comercios y servicios,53.65,0.00,0.00,0.00,53.65,
+2F1a_ind,Refrigeracion y AC sector industrial,1.84,0.00,0.00,0.00,1.84,
+3,ASOUT,4927.42,0.00,3474.79,1398.65,0.00,Excl absorptions [3B] and [3D]
+3A,Ganado,3542.85,0.00,3231.54,311.30,0.00,
+3A1,Fermentacion enterica,2983.73,0.00,2983.73,0.00,0.00,
+3A2,Manejo de excretas,559.11,0.00,247.81,311.30,0.00,
+3C,Fuentes no-CO2 de la tierra,1384.58,53.98,243.24,1087.35,0.00,Agriculture/land non-CO2 sources
+3C1,Quema de biomasa,370.25,0.00,243.24,127.00,0.00,
+3C3,Aplicacion de urea,5.38,5.38,0.00,0.00,0.00,
+3C4,Emisiones directas N2O suelos gestionados,633.41,0.00,0.00,633.41,0.00,
+3C5,Emisiones indirectas N2O suelos,175.93,0.00,0.00,175.93,0.00,
+3C6,Emisiones indirectas N2O por SME,151.01,0.00,0.00,151.01,0.00,
+4,RESIDUOS,808.33,18.31,700.97,89.05,0.00,
+4A,Eliminacion de residuos solidos,390.54,0.00,390.54,0.00,0.00,
+4A1,Sitios gestionados (municipales),322.05,0.00,322.05,0.00,0.00,
+4A2,Sitios gestionados (otros),36.32,0.00,36.32,0.00,0.00,
+4A3,Sitios gestionados (industrial),32.17,0.00,32.17,0.00,0.00,
+4C,Incineracion e incineracion abierta,35.19,18.31,13.85,3.03,0.00,
+4C2,Incineracion abierta de residuos,35.19,18.31,13.85,3.03,0.00,
+4D,Tratamiento y eliminacion de aguas residuales,382.60,0.00,296.58,86.03,0.00,
+4D1,Aguas residuales domesticas,248.67,0.00,173.24,75.42,0.00,
+4D2,Aguas residuales industriales,133.94,0.00,123.33,10.60,0.00,
+TOTAL_EX_ABS,Total emisiones excl absorciones,13201.59,,,,,Gross emissions without land removals
+TOTAL_NET,Emisiones netas,1452.59,,,,,After land absorptions -13123.01 GgCO2e

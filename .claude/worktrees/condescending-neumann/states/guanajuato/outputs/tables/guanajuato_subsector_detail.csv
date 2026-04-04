@@ -1,0 +1,7 @@
+Subsector,Sector,Total_S_scope_GgCO2e,F_coverage_fraction,ETS_coverage_fraction,S∩F∩E_GgCO2e,S∩E_only_GgCO2e,S∩F_only_GgCO2e,S_only_GgCO2e
+Industrias_energia,ENERGIA,4431.00,0.27,0.95,1124.77,3084.68,59.20,162.35
+Industrias_manufactura,ENERGIA,1965.80,0.48,0.65,609.11,668.66,327.98,360.05
+Ladrilleras,ENERGIA,12.10,0.50,0.00,0.00,0.00,6.05,6.05
+Emisiones_fugitivas,ENERGIA,4.80,0.00,0.95,0.00,4.56,0.00,0.24
+Caprolactama,IPPU,202.70,0.00,1.00,0.00,202.70,0.00,0.00
+Acido_nitrico,IPPU,5.70,0.00,0.90,0.00,5.13,0.00,0.57

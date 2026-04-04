@@ -1,0 +1,4 @@
+Scenario,S total coverage (GgCO2e),F total coverage (GgCO2e),E within S scope (GgCO2e),S∩F∩E — triple overlap (GgCO2e),S∩E only — NG+process in large (GgCO2e),S∩F only — non-NG in small (GgCO2e),S only (GgCO2e),F only outside S scope (GgCO2e),S share of state total (%),F share of state total (%)
+Central,6622.1,10477.1,5699.6,1733.9,3965.7,393.2,529.3,8350.0,34.4,54.4
+Low,6622.1,10472.5,4939.8,1473.0,3466.7,649.4,1032.9,8350.0,34.4,54.4
+High,6622.1,10477.3,6172.5,1919.6,4252.9,207.7,241.9,8350.0,34.4,54.4

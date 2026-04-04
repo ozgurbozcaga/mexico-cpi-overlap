@@ -1,0 +1,13 @@
+fuel,quantity,unit,energy_TJ,energy_share_pct,notes
+Diesel,19389,m3,693,6.5,Cuadro 3; taxable under federal IEPS
+Combustoleo,38471,m3,1540,14.5,Cuadro 3; fuel oil; taxable
+Gas_LP,44094,m3,1180,11.1,Cuadro 3; LPG; taxable
+Gas_natural,10742367,m3,411,4.0,Cuadro 3; natural gas; EXEMPT from federal IEPS
+Biogas,410540,m3,16,0.2,Cuadro 3; biogas; biogenic — not covered by IEPS
+Combustibles_formulados,4767,m3,170,1.6,Cuadro 3; formulated fuels; taxable
+Coque_de_petroleo,153203,ton,4433,41.8,Cuadro 3; petcoke; taxable; dominant fuel
+Bagazo,304757,ton,2150,20.3,Cuadro 3; bagasse; biogenic; EXEMPT — sugar industry
+TOTAL_FOSSIL_TAXABLE,,,8846,83.5,Diesel + FO + LPG + formulated + petcoke; taxable under IEPS
+TOTAL_NG_EXEMPT,,,411,4.0,Natural gas; statutory IEPS exemption
+TOTAL_BIOGENIC,,,2166,20.5,Biogas + bagasse; not fossil; not subject to IEPS
+TOTAL_ALL,,,10610,100.0,Total fixed-source energy 2014
