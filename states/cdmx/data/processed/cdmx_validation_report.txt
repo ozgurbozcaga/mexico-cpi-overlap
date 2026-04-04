@@ -1,0 +1,26 @@
+CDMX GHG Inventory 2020 — Validation Report
+==================================================
+
+Source: Inventario de Emisiones ZMVM 2020, Annex Table 9
+Entity: Ciudad de México (16 alcaldías)
+Total CO2eq: 19,888,434.6 tCO2eq
+Known total: 19,888,435 tCO2eq
+Difference: 0.00%
+
+Subtotal validation:
+  PUNTUALES   : extracted=      896,492.5  known=        896,493  diff=0.00%  [PASS]
+  AREA        : extracted=    5,629,620.3  known=      5,629,620  diff=0.00%  [PASS]
+  MOVILES     : extracted=   13,362,321.8  known=     13,362,322  diff=0.00%  [PASS]
+  TOTAL: diff=0.00%
+
+
+Fuel fractions (NG share of fossil combustion):
+  industrial: NG = 99.419%
+  comercios_servicios: NG = 99.783%
+  residencial: NG = 99.780%
+  transporte: NG = 0.000%
+
+Notes:
+- 2020 is a COVID-affected year (GDP fell 5-43% by sector)
+- GWPs: AR5 (CH4=28, N2O=265)
+- HFC GWPs vary by specific gas; inventory-reported CO2eq used directly

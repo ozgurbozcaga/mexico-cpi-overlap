@@ -1,0 +1,66 @@
+source_type,category,subcategory,co2_t,ch4_t,n2o_t,hfc_t,co2eq_t,cn_t,co2eq_check,analysis_cat
+PUNTUALES,Industria alimentaria,,83642.8,1.62,0.17,0.01,83773.12,8.78,83733.49,INDUSTRY_REG
+PUNTUALES,Industria de las bebidas y del tabaco,,1150.81,0.02,0.0,0.0,1151.8,0.0,1151.37,INDUSTRY_REG
+PUNTUALES,Fabricación de insumos textiles y acabado de textiles,,11038.69,0.23,0.02,0.0,11050.29,0.57,11050.43,INDUSTRY_REG
+PUNTUALES,Fabricación de productos textiles excepto prendas de vestir,,284.77,0.0,0.0,0.0,285.05,0.0,284.77,INDUSTRY_REG
+PUNTUALES,Fabricación de prendas de vestir,,478.68,0.03,0.0,0.0,479.77,0.0,479.52,INDUSTRY_REG
+PUNTUALES,Curtido y acabado de cuero y piel,,11.94,0.0,0.0,0.0,11.95,0.0,11.94,INDUSTRY_REG
+PUNTUALES,Industria de la madera,,1.53,0.0,0.0,0.0,1.54,0.0,1.53,INDUSTRY_REG
+PUNTUALES,Industria del papel,,27337.6,0.51,0.44,0.0,27468.02,0.88,27468.479999999996,INDUSTRY_REG
+PUNTUALES,Impresión e industrias conexas,,12651.28,0.23,0.02,0.0,12663.64,0.6,12663.02,INDUSTRY_REG
+PUNTUALES,Fabricación de productos derivados del petróleo y del carbón,,8771.16,0.16,0.02,0.0,8779.76,0.27,8780.939999999999,INDUSTRY_REG
+PUNTUALES,Industria química,,110338.94,1.95,3.21,0.0,111243.46,4.8,111244.19,INDUSTRY_REG
+PUNTUALES,Industria del plástico y del hule,,14129.69,0.29,0.23,0.0,14198.06,1.42,14198.760000000002,INDUSTRY_REG
+PUNTUALES,Fabricación de productos a base de minerales no metálicos,,21921.37,0.41,0.37,0.0,22029.87,4.89,22030.899999999998,INDUSTRY_REG
+PUNTUALES,Industrias metálicas básicas,,20709.58,0.36,0.23,0.0,20780.22,0.62,20780.610000000004,INDUSTRY_REG
+PUNTUALES,Fabricación de productos metálicos,,17672.61,0.29,0.29,0.0,17758.33,0.52,17757.579999999998,INDUSTRY_REG
+PUNTUALES,Fabricación de maquinaria y equipo,,1521.54,0.03,0.0,0.0,1525.0,0.04,1522.3799999999999,INDUSTRY_REG
+PUNTUALES,Fabricación de equipo de computación y electrónicos,,0.71,0.0,0.0,0.0,0.71,0.0,0.71,INDUSTRY_REG
+PUNTUALES,Fabricación de accesorios y aparatos eléctricos,,1701.72,0.03,0.02,0.0,1708.52,0.06,1707.86,INDUSTRY_REG
+PUNTUALES,Fabricación de equipo de transporte,,7264.88,0.13,0.24,0.0,7330.88,0.26,7332.120000000001,INDUSTRY_REG
+PUNTUALES,Fabricación de muebles colchones y persianas,,522.24,0.0,0.0,0.0,522.69,0.0,522.24,INDUSTRY_REG
+PUNTUALES,Otras industrias manufactureras,,3431.32,0.06,0.02,0.0,3437.44,0.19,3438.3,INDUSTRY_REG
+PUNTUALES,Generación transmisión y distribución de energía eléctrica,,353236.89,26.47,9.46,0.0,356484.89,80.22,356484.95,ELECTRICITY
+PUNTUALES,Comercios y Servicios regulados,,193119.92,18.18,0.64,0.0,193799.69,3.84,193798.56000000003,COMMERCIAL_REG
+PUNTUALES,Almacenamiento de combustibles líquidos,,7.78,0.0,0.0,0.0,7.8,0.0,7.78,FUEL_STORAGE
+AREA,Desechos urbanos,Aguas residuales no tratadas,0.0,7224.27,90.05,0.0,226143.11,0.0,226142.81,WASTE
+AREA,Desechos urbanos,Quema a cielo abierto,2400.99,5.95,0.0,0.0,2567.59,0.9,2567.5899999999997,WASTE
+AREA,Desechos urbanos,Rellenos sanitarios,9035.67,3029.72,0.02,0.0,93872.08,0.03,93873.12999999999,WASTE
+AREA,Desechos urbanos,Residuos sólidos no gestionados,0.0,3341.74,0.0,0.0,93568.72,0.0,93568.72,WASTE
+AREA,Desechos urbanos,Tratamiento biológico de residuos,0.0,32.12,2.64,0.0,1598.85,0.0,1598.96,WASTE
+AREA,Desechos urbanos,Tratamiento de aguas residuales,0.0,3973.48,0.0,0.0,111257.51,0.0,111257.44,WASTE
+AREA,Combustión,Combustión comercial-institucional,227785.71,36.64,0.44,0.0,228928.57,0.98,228928.23,COMMERCIAL_UNREG
+AREA,Combustión,Combustión de equipos agrícolas,25065.39,1.99,0.04,0.0,25131.53,0.07,25131.71,AGRICULTURE_EQUIP
+AREA,Combustión,Combustión habitacional,1672740.02,96.22,3.18,0.0,1676275.71,7.68,1676276.88,RESIDENTIAL
+AREA,Combustión,Combustión industria no regulada,2396981.49,43.06,4.4,0.0,2399354.43,8.99,2399353.1700000004,INDUSTRY_UNREG
+AREA,Combustión,HCNQ en la combustión de gas LP,0.0,0.16,0.0,0.0,4.56,0.0,4.48,FUGITIVE_LP
+AREA,Móviles no carreteros,Locomotoras,10157.78,0.57,3.92,0.0,11212.65,1.8,11212.539999999999,RAIL
+AREA,Móviles no carreteros,Maquinaria agrícola y de construcción,171093.09,67.72,0.45,0.0,173109.1,60.19,173108.5,CONSTRUCTION_EQUIP
+AREA,Móviles no carreteros,Operación de aeronaves,235723.63,17.38,6.95,0.0,238052.13,1.22,238052.02000000002,AVIATION
+AREA,Móviles no carreteros,Terminales de autobuses de pasajeros,8762.61,4.13,0.0,0.0,8878.69,1.89,8878.25,BUS_TERMINALS
+AREA,Distribución fugas y almacenamiento de combustibles,,0.0,1.82,0.0,0.0,51.04,0.0,50.96,FUGITIVE_LP
+AREA,Construcción,,0.0,0.0,0.0,0.0,0.0,1.22,0.0,CONSTRUCTION
+AREA,Agricultura,Aplicación de fertilizantes,0.0,0.0,24.25,0.0,6426.01,0.0,6426.25,AGRICULTURE
+AREA,Agricultura,Labranza y cosecha,0.0,0.0,0.0,0.0,0.0,0.29,0.0,AGRICULTURE
+AREA,Agricultura,Quemas agrícolas,0.0,0.0,0.0,0.0,0.0,0.05,0.0,AGRICULTURE
+AREA,Ganadería,Corrales de engorda,0.0,0.0,0.0,0.0,0.0,0.01,0.0,LIVESTOCK
+AREA,Ganadería,Fermentación entérica,0.0,792.32,0.0,0.0,22184.99,0.0,22184.960000000003,LIVESTOCK
+AREA,Ganadería,Manejo de estiércol,0.0,26.63,2.09,0.0,1298.41,0.0,1299.4899999999998,LIVESTOCK
+AREA,Otras fuentes de área,Asados al carbón,23145.05,41.33,0.21,0.0,24357.07,4.36,24357.940000000002,MISC_AREA
+AREA,Otras fuentes de área,Emisiones domésticas,275318.69,0.0,0.0,0.0,275318.69,0.0,275318.69,RESIDENTIAL_OTHER
+AREA,Otras fuentes de área,Incendios en estructuras,0.0,0.0,0.0,0.0,0.0,3.65,0.0,MISC_AREA
+AREA,Otras fuentes de área,Incendios forestales,8326.04,19.27,1.13,0.0,9164.37,2.65,9165.050000000001,MISC_AREA
+AREA,Otras fuentes de área,Ladrilleras,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MISC_AREA
+AREA,Otras fuentes de área,Mantenimiento de aires acondicionados habitacionales,0.0,0.0,0.0,0.42,747.49,0.0,11.76,HFC_RESIDENTIAL
+AREA,Otras fuentes de área,Quemas controladas,105.54,0.29,0.01,0.0,117.01,0.04,116.31000000000002,MISC_AREA
+MOVILES,Autos particulares,,3485826.01,164.68,94.44,39.22,3566447.92,23.29,3516561.81,ROAD_TRANSPORT
+MOVILES,Camionetas SUV,,1438327.59,87.75,46.15,14.13,1471378.54,15.1,1453409.98,ROAD_TRANSPORT
+MOVILES,Taxis,,3626230.52,589.38,34.51,2.88,3655621.96,14.95,3651958.95,ROAD_TRANSPORT
+MOVILES,Vagonetas,,229231.84,44.99,6.92,0.1,232459.08,11.97,232328.15999999997,ROAD_TRANSPORT
+MOVILES,Microbuses/Midibuses,,1021811.11,784.41,79.66,0.0,1064887.55,18.72,1064884.49,ROAD_TRANSPORT
+MOVILES,Vehículos de carga hasta 3.8 t,,123618.27,14.94,3.93,0.17,125296.31,3.59,125082.8,ROAD_TRANSPORT
+MOVILES,Tractocamiones,,4183.58,1.44,0.01,0.0,4228.23,1.46,4226.549999999999,ROAD_TRANSPORT
+MOVILES,Autobuses,,830770.99,551.83,6.23,0.14,848054.84,269.61,847877.1,ROAD_TRANSPORT
+MOVILES,Vehículos de carga mayores a 3.8 t,,240640.87,126.52,3.33,0.1,245193.5,33.99,245068.68,ROAD_TRANSPORT
+MOVILES,Motocicletas,,2104174.41,146.76,19.62,0.0,2113483.63,32.76,2113482.9899999998,ROAD_TRANSPORT
+MOVILES,Metrobús,,34807.66,14.43,0.16,0.01,35270.28,8.51,35254.380000000005,ROAD_TRANSPORT

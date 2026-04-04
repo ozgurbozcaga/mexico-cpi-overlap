@@ -1,0 +1,72 @@
+# CDMX GHG Inventory 2020 — Extracted from Annex Table 9
+# Source: Inventario de Emisiones de la ZMVM 2020, Sedema (published 2023)
+# Entity: Ciudad de México only (16 alcaldías)
+# Units: t/año (tonnes per year) for individual gases; tCO2eq for CO2eq column
+# GWPs: AR5 (CO2=1, CH4=28, N2O=265)
+# Extraction date: 2026-04-04
+source_type,category,subcategory,co2_t,ch4_t,n2o_t,hfc_t,co2eq_t,cn_t
+PUNTUALES,Industria alimentaria,,83642.80,1.62,0.17,0.01,83773.12,8.78
+PUNTUALES,Industria de las bebidas y del tabaco,,1150.81,0.02,0.00,,1151.80,0.00
+PUNTUALES,Fabricación de insumos textiles y acabado de textiles,,11038.69,0.23,0.02,,11050.29,0.57
+PUNTUALES,Fabricación de productos textiles excepto prendas de vestir,,284.77,0.00,0.00,,285.05,0.00
+PUNTUALES,Fabricación de prendas de vestir,,478.68,0.03,0.00,,479.77,0.00
+PUNTUALES,Curtido y acabado de cuero y piel,,11.94,0.00,0.00,,11.95,0.00
+PUNTUALES,Industria de la madera,,1.53,0.00,0.00,,1.54,0.00
+PUNTUALES,Industria del papel,,27337.60,0.51,0.44,,27468.02,0.88
+PUNTUALES,Impresión e industrias conexas,,12651.28,0.23,0.02,,12663.64,0.60
+PUNTUALES,Fabricación de productos derivados del petróleo y del carbón,,8771.16,0.16,0.02,,8779.76,0.27
+PUNTUALES,Industria química,,110338.94,1.95,3.21,,111243.46,4.80
+PUNTUALES,Industria del plástico y del hule,,14129.69,0.29,0.23,,14198.06,1.42
+PUNTUALES,Fabricación de productos a base de minerales no metálicos,,21921.37,0.41,0.37,,22029.87,4.89
+PUNTUALES,Industrias metálicas básicas,,20709.58,0.36,0.23,,20780.22,0.62
+PUNTUALES,Fabricación de productos metálicos,,17672.61,0.29,0.29,,17758.33,0.52
+PUNTUALES,Fabricación de maquinaria y equipo,,1521.54,0.03,0.00,0.00,1525.00,0.04
+PUNTUALES,Fabricación de equipo de computación y electrónicos,,0.71,0.00,0.00,,0.71,0.00
+PUNTUALES,Fabricación de accesorios y aparatos eléctricos,,1701.72,0.03,0.02,,1708.52,0.06
+PUNTUALES,Fabricación de equipo de transporte,,7264.88,0.13,0.24,,7330.88,0.26
+PUNTUALES,Fabricación de muebles colchones y persianas,,522.24,0.00,0.00,,522.69,0.00
+PUNTUALES,Otras industrias manufactureras,,3431.32,0.06,0.02,,3437.44,0.19
+PUNTUALES,Generación transmisión y distribución de energía eléctrica,,353236.89,26.47,9.46,,356484.89,80.22
+PUNTUALES,Comercios y Servicios regulados,,193119.92,18.18,0.64,0.00,193799.69,3.84
+PUNTUALES,Almacenamiento de combustibles líquidos,,7.78,0.00,0.00,,7.80,0.00
+AREA,Desechos urbanos,Aguas residuales no tratadas,0.00,7224.27,90.05,,226143.11,0.00
+AREA,Desechos urbanos,Quema a cielo abierto,2400.99,5.95,0.00,,2567.59,0.90
+AREA,Desechos urbanos,Rellenos sanitarios,9035.67,3029.72,0.02,,93872.08,0.03
+AREA,Desechos urbanos,Residuos sólidos no gestionados,0.00,3341.74,0.00,,93568.72,0.00
+AREA,Desechos urbanos,Tratamiento biológico de residuos,0.00,32.12,2.64,,1598.85,0.00
+AREA,Desechos urbanos,Tratamiento de aguas residuales,0.00,3973.48,0.00,,111257.51,0.00
+AREA,Combustión,Combustión comercial-institucional,227785.71,36.64,0.44,,228928.57,0.98
+AREA,Combustión,Combustión de equipos agrícolas,25065.39,1.99,0.04,,25131.53,0.07
+AREA,Combustión,Combustión habitacional,1672740.02,96.22,3.18,,1676275.71,7.68
+AREA,Combustión,Combustión industria no regulada,2396981.49,43.06,4.40,,2399354.43,8.99
+AREA,Combustión,HCNQ en la combustión de gas LP,0.00,0.16,0.00,,4.56,0.00
+AREA,Móviles no carreteros,Locomotoras,10157.78,0.57,3.92,,11212.65,1.80
+AREA,Móviles no carreteros,Maquinaria agrícola y de construcción,171093.09,67.72,0.45,,173109.10,60.19
+AREA,Móviles no carreteros,Operación de aeronaves,235723.63,17.38,6.95,,238052.13,1.22
+AREA,Móviles no carreteros,Terminales de autobuses de pasajeros,8762.61,4.13,0.00,,8878.69,1.89
+AREA,Distribución fugas y almacenamiento de combustibles,,0.00,1.82,0.00,,51.04,0.00
+AREA,Construcción,,0.00,0.00,0.00,,0.00,1.22
+AREA,Agricultura,Aplicación de fertilizantes,0.00,0.00,24.25,,6426.01,0.00
+AREA,Agricultura,Labranza y cosecha,0.00,0.00,0.00,,0.00,0.29
+AREA,Agricultura,Quemas agrícolas,0.00,0.00,0.00,,0.00,0.05
+AREA,Ganadería,Corrales de engorda,0.00,0.00,0.00,,0.00,0.01
+AREA,Ganadería,Fermentación entérica,0.00,792.32,0.00,,22184.99,0.00
+AREA,Ganadería,Manejo de estiércol,0.00,26.63,2.09,,1298.41,0.00
+AREA,Otras fuentes de área,Asados al carbón,23145.05,41.33,0.21,,24357.07,4.36
+AREA,Otras fuentes de área,Emisiones domésticas,275318.69,0.00,0.00,,275318.69,0.00
+AREA,Otras fuentes de área,Incendios en estructuras,0.00,0.00,0.00,,0.00,3.65
+AREA,Otras fuentes de área,Incendios forestales,8326.04,19.27,1.13,,9164.37,2.65
+AREA,Otras fuentes de área,Ladrilleras,0.00,0.00,0.00,,0.00,0.00
+AREA,Otras fuentes de área,Mantenimiento de aires acondicionados habitacionales,0.00,0.00,0.00,0.42,747.49,0.00
+AREA,Otras fuentes de área,Quemas controladas,105.54,0.29,0.01,,117.01,0.04
+MOVILES,Autos particulares,,3485826.01,164.68,94.44,39.22,3566447.92,23.29
+MOVILES,Camionetas SUV,,1438327.59,87.75,46.15,14.13,1471378.54,15.10
+MOVILES,Taxis,,3626230.52,589.38,34.51,2.88,3655621.96,14.95
+MOVILES,Vagonetas,,229231.84,44.99,6.92,0.10,232459.08,11.97
+MOVILES,Microbuses/Midibuses,,1021811.11,784.41,79.66,0.00,1064887.55,18.72
+MOVILES,Vehículos de carga hasta 3.8 t,,123618.27,14.94,3.93,0.17,125296.31,3.59
+MOVILES,Tractocamiones,,4183.58,1.44,0.01,0.00,4228.23,1.46
+MOVILES,Autobuses,,830770.99,551.83,6.23,0.14,848054.84,269.61
+MOVILES,Vehículos de carga mayores a 3.8 t,,240640.87,126.52,3.33,0.10,245193.50,33.99
+MOVILES,Motocicletas,,2104174.41,146.76,19.62,,2113483.63,32.76
+MOVILES,Metrobús,,34807.66,14.43,0.16,0.01,35270.28,8.51

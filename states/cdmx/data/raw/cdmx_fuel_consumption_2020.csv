@@ -1,0 +1,16 @@
+# CDMX Fuel Consumption by Sector, 2020
+# Source: Inventario de Emisiones de la ZMVM 2020, Annex Tables 67-69
+# Entity: Ciudad de México only
+# Extraction date: 2026-04-04
+fuel,sector,volume,unit,notes
+gas_lp,residencial,770735,m3/año,Table 67
+gas_lp,comercios_servicios,131586,m3/año,Table 67
+gas_lp,industrial,65625,m3/año,Table 67
+gas_lp,transporte,150696,m3/año,Table 67
+gas_lp,agricola,15207,m3/año,Table 67
+gas_natural,residencial,240676301.11,m3/año,Table 68
+gas_natural,comercios_servicios,41839924.50,m3/año,Table 68
+gas_natural,industrial,1433522567.21,m3/año,Table 68
+diesel,industrial,8688,m3/año,Table 69 — only CDMX industrial diesel reported
+lena,residencial,4363,t/año,Table 69
+carbon_vegetal,comercios_servicios,3298,t/año,Table 69 — charcoal for commercial food prep

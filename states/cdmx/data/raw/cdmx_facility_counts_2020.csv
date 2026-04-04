@@ -1,0 +1,31 @@
+# CDMX Point Source (Fuentes Fijas) Facility Counts, 2020
+# Source: Inventario de Emisiones de la ZMVM 2020, Annex Table 40
+# Note: Table 40 gives ZMVM totals (local + federal). CDMX has
+# 502 industrial + 1,822 commercial regulated establishments (from p.20 characteristics table)
+# The ZMVM-wide breakdown by industry is used as proxy for CDMX facility distribution.
+# Extraction date: 2026-04-04
+category,scian,n_local,n_federal,n_total
+Industria alimentaria,311,140,2,142
+Industria de las bebidas y del tabaco,312,17,0,17
+Fabricación de insumos textiles y acabado de textiles,313,29,0,29
+Fabricación de productos textiles excepto prendas de vestir,314,7,0,7
+Fabricación de prendas de vestir,315,8,0,8
+Curtido y acabado de cuero y piel,316,1,0,1
+Industria de la madera,321,3,0,3
+Industria del papel,322,27,27,54
+Impresión e industrias conexas,323,68,0,68
+Fabricación de productos derivados del petróleo y del carbón,324,2,10,12
+Industria química,325,41,177,218
+Industria del plástico y del hule,326,64,12,76
+Fabricación de productos a base de minerales no metálicos,327,34,13,47
+Industrias metálicas básicas,331,7,69,76
+Fabricación de productos metálicos,332,56,50,106
+Fabricación de maquinaria y equipo,333,9,2,11
+Fabricación de equipo de computación y electrónicos,334,5,0,5
+Fabricación de accesorios y aparatos eléctricos,335,13,2,15
+Fabricación de equipo de transporte,336,18,27,45
+Fabricación de muebles colchones y persianas,337,8,0,8
+Otras industrias manufactureras,339,33,5,38
+Generación transmisión y distribución de energía eléctrica,221,0,20,20
+Comercios y Servicios regulados,431-932,1816,22,1838
+Almacenamiento de combustibles líquidos,493,2,6,8
