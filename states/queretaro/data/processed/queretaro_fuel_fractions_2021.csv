@@ -1,0 +1,11 @@
+ipcc_code,sector_group,ng_exempt_frac_low,ng_exempt_frac_central,ng_exempt_frac_high,ets_frac_low,ets_frac_central,ets_frac_high,derivation_ng,derivation_ets
+1A1,electricity_generation,0.999,0.9999985386472956,1.0,0.985,0.989,0.995,Table 10 fuel consumption x INECC EFs; NG=99.9998% of CO2,3 plants: El Sauz 1638 GgCO2e + SJR 236 GgCO2e >> threshold; Qro 20 GgCO2e < threshold (1.1%)
+1A2,manufacturing,0.93,0.9550681687821378,0.97,0.6,0.75,0.88,Table 11: NG=36.11 PJ of 37.46 PJ fossil; corrected by EFs -> ~95.5% of fossil CO2,"Strong automotive/aerospace cluster; glass, automotive parts, large concentrated plants"
+1A4a,commercial,0.1,0.2,0.3,0.0,0.0,0.0,Commercial: LPG dominant; NG pipeline in ZMQ → ~20% NG estimated,Small distributed commercial establishments; none above threshold
+1Ab,residential,0.02,0.05,0.1,0.0,0.0,0.0,Residential: LPG dominant; some NG pipeline in urban areas; ~5% NG,Small distributed households
+1A4c,ag_combustion,0.0,0.02,0.05,0.0,0.0,0.0,Agricultural: mainly diesel + LPG for mechanized ag; negligible NG,Small distributed agricultural sources
+1A3,transport,0.01,0.014,0.02,0.0,0.0,0.0,Table 12: NG=0.596 PJ of 31.11 PJ total transport; ~1.4% of CO2,Transport not in Mexico Pilot ETS
+2A2,ippu_minerals,0.0,0.0,0.0,0.4,0.6,0.8,Process emissions (calcination); not fossil fuel combustion,2 lime producers; each ~24 GgCO2e close to 25kt threshold; high uncertainty
+2A3,ippu_minerals,0.0,0.0,0.0,0.85,0.95,1.0,Process emissions (glass production); not fossil fuel combustion,2 glass companies; each ~57 GgCO2e >> 25kt threshold
+2C1,ippu_metals,0.0,0.0,0.0,0.0,0.0,0.0,Process emissions; not combustion,"0.28 GgCO2e = 280 tCO2e << 25,000 threshold"
+2F,ippu_hfcs,0.0,0.0,0.0,0.0,0.0,0.0,HFC refrigerant leaks; not a fossil fuel,Refrigerant leaks not in Mexico Pilot ETS scope

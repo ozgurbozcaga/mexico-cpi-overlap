@@ -1,0 +1,26 @@
+ipcc_code,description,emissions_GgCO2e,CO2_GgCO2e,CH4_GgCO2e,N2O_GgCO2e,HFC_GgCO2e,notes,sector_group
+1A1,Industrias de la energia,1895.94,1894.13,0.84,0.8,0.0,Electricity generation only; no refining or solid fuel mfg in state,electricity_generation
+1A2,Industrias manufactureras y de la construccion,2182.47,2180.28,1.12,1.06,0.0,NG=36.11 PJ of 37.46 PJ fossil; strong automotive/aerospace cluster,manufacturing
+1A3a,Aviacion civil,179.0,175.0,0.1,3.9,0.0,AIQ airport; turbosina+gas avion 2.22 PJ (estimated split from Table 8),transport
+1A3b,Transporte terrestre,2296.33,2249.38,7.08,39.87,0.0,Gasolina 19.45+Diesel 7.03+GLP 1.47+GN 0.60 PJ (Table 12),transport
+1A3c,Ferrocarriles,28.16,25.5,0.1,1.28,0.0,Diesel 0.35 PJ (Table 8),transport
+1A4a,Comercial e institucional,84.93,84.69,0.2,0.04,0.0,3.13 PJ; GLP + NG + lena,commercial
+1Ab,Residencial,381.05,354.74,23.24,2.65,0.0,11.62 PJ; GLP dominant; lena CH4/N2O incl but biogenic CO2 excluded,residential
+1A4c,Agricultura silvicultura,119.08,109.08,0.2,9.54,0.0,2.47 PJ; GLP and diesel for mechanized ag and greenhouses,ag_combustion
+2A2,Produccion de cal,48.74,48.74,0.0,0.0,0.0,2 establishments: Cadereyta de Montes and Toliman,ippu_minerals
+2A3,Produccion de vidrio,114.99,114.99,0.0,0.0,0.0,2 companies: El Marques and Queretaro municipality,ippu_minerals
+2C1,Produccion de hierro y acero,0.28,0.28,0.0,0.0,0.0,1 scrap-steel company in San Juan del Rio; Tier 1,ippu_metals
+2F1_res,Refrigeracion residencial,0.54,0.0,0.0,0.0,0.54,,ippu_hfcs
+2F1_ac_res,Aire acondicionado residencial,2.89,0.0,0.0,0.0,2.89,,ippu_hfcs
+2F1_ac_ind,Aire acondicionado industrial,1.48,0.0,0.0,0.0,1.48,,ippu_hfcs
+2F1_ac_mov,Aire acondicionado movil,65.57,0.0,0.0,0.0,65.57,Vehicle AC HFC leaks; classified under IPPU not transport,ippu_hfcs
+3A1,Fermentacion enterica,629.36,0.0,629.36,0.0,0.0,,afolu
+3A2,Gestion del estiercol,631.19,0.0,492.74,138.45,0.0,,afolu
+3C1,Quema de biomasa,67.94,0.0,44.69,23.25,0.0,Pastizales + incendios forestales + residuos cultivo,afolu
+3C3,Aplicacion de urea,5.51,5.51,0.0,0.0,0.0,,afolu
+3C4,Emisiones directas N2O de suelos gestionados,908.36,0.0,0.0,908.36,0.0,Key category: 50% uncertainty,afolu
+3C5,Emisiones indirectas N2O de suelos gestionados,108.89,0.0,0.0,108.89,0.0,,afolu
+3C6,Emisiones indirectas N2O gestion del estiercol,98.51,0.0,0.0,98.51,0.0,,afolu
+4A,Sitios de disposicion final,617.92,0.0,617.92,0.0,0.0,CH4 from landfill decomposition; 83.67% of waste,waste
+4C,Incineracion y quema de residuos,3.07,1.1,1.68,0.0,0.0,Open burning,waste
+4D,Tratamiento y descarga de aguas residuales,117.5,0.0,0.0,117.5,0.0,Municipal wastewater; no industrial WW data available,waste

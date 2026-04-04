@@ -1,0 +1,4 @@
+name,municipality,generation_MWh,fuel_ng_PJ,fuel_diesel_PJ,estimated_CO2e_GgCO2e,above_25ktCO2e_threshold
+El Sauz (Pedro Escobedo),Pedro Escobedo,3500140,28.36,0.0,1638.8,True
+Planta Queretaro,Queretaro,24486,0.35,0.0,20.2,False
+Planta San Juan del Rio,San Juan del Rio,400573,4.09,3.8e-05,236.3,True

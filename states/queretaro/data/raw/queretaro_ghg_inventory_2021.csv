@@ -1,0 +1,39 @@
+ipcc_code,description,emissions_GgCO2e,CO2_GgCO2e,CH4_GgCO2e,N2O_GgCO2e,HFC_GgCO2e,notes
+1,ENERGIA,7166.97,7072.80,33.10,61.07,0.00,
+1A,Actividades quema de combustible,7166.97,7072.80,33.10,61.07,0.00,No fugitive emissions reported
+1A1,Industrias de la energia,1895.94,1894.13,0.84,0.80,0.00,Electricity generation only; no refining or solid fuel mfg in state
+1A2,Industrias manufactureras y de la construccion,2182.47,2180.28,1.12,1.06,0.00,NG=36.11 PJ of 37.46 PJ fossil; strong automotive/aerospace cluster
+1A3,Transporte,2503.49,2449.88,7.28,45.05,0.00,Road 28.54 PJ + rail 0.35 PJ + aviation 2.22 PJ
+1A3a,Aviacion civil,179.00,175.00,0.10,3.90,0.00,AIQ airport; turbosina+gas avion 2.22 PJ (estimated split from Table 8)
+1A3b,Transporte terrestre,2296.33,2249.38,7.08,39.87,0.00,Gasolina 19.45+Diesel 7.03+GLP 1.47+GN 0.60 PJ (Table 12)
+1A3c,Ferrocarriles,28.16,25.50,0.10,1.28,0.00,Diesel 0.35 PJ (Table 8)
+1A4a,Comercial e institucional,84.93,84.69,0.20,0.04,0.00,3.13 PJ; GLP + NG + lena
+1Ab,Residencial,381.05,354.74,23.24,2.65,0.00,11.62 PJ; GLP dominant; lena CH4/N2O incl but biogenic CO2 excluded
+1A4c,Agricultura silvicultura,119.08,109.08,0.20,9.54,0.00,2.47 PJ; GLP and diesel for mechanized ag and greenhouses
+2,IPPU,234.47,164.01,0.00,0.00,70.48,
+2A,Industria de los minerales,163.73,163.73,0.00,0.00,0.00,Cal + vidrio (no cement production in state)
+2A2,Produccion de cal,48.74,48.74,0.00,0.00,0.00,2 establishments: Cadereyta de Montes and Toliman
+2A3,Produccion de vidrio,114.99,114.99,0.00,0.00,0.00,2 companies: El Marques and Queretaro municipality
+2C,Industria de los metales,0.28,0.28,0.00,0.00,0.00,
+2C1,Produccion de hierro y acero,0.28,0.28,0.00,0.00,0.00,1 scrap-steel company in San Juan del Rio; Tier 1
+2F,Uso de productos sustitutos de SAO,70.48,0.00,0.00,0.00,70.48,HFCs from refrigeration/AC
+2F1_res,Refrigeracion residencial,0.54,0.00,0.00,0.00,0.54,
+2F1_ac_res,Aire acondicionado residencial,2.89,0.00,0.00,0.00,2.89,
+2F1_ac_ind,Aire acondicionado industrial,1.48,0.00,0.00,0.00,1.48,
+2F1_ac_mov,Aire acondicionado movil,65.57,0.00,0.00,0.00,65.57,Vehicle AC HFC leaks; classified under IPPU not transport
+3,AFOLU,2449.76,0.00,1761.74,688.02,0.00,Gross emissions (excl 3B absorptions of -884.26)
+3A,Ganaderia,1260.55,0.00,1122.10,138.45,0.00,
+3A1,Fermentacion enterica,629.36,0.00,629.36,0.00,0.00,
+3A2,Gestion del estiercol,631.19,0.00,492.74,138.45,0.00,
+3C,Fuentes agregadas y fuentes de emision no CO2 en la tierra,1189.21,73.45,639.64,549.57,0.00,
+3C1,Quema de biomasa,67.94,0.00,44.69,23.25,0.00,Pastizales + incendios forestales + residuos cultivo
+3C3,Aplicacion de urea,5.51,5.51,0.00,0.00,0.00,
+3C4,Emisiones directas N2O de suelos gestionados,908.36,0.00,0.00,908.36,0.00,Key category: 50% uncertainty
+3C5,Emisiones indirectas N2O de suelos gestionados,108.89,0.00,0.00,108.89,0.00,
+3C6,Emisiones indirectas N2O gestion del estiercol,98.51,0.00,0.00,98.51,0.00,
+4,RESIDUOS,738.48,1.10,618.06,119.32,0.00,
+4A,Sitios de disposicion final,617.92,0.00,617.92,0.00,0.00,CH4 from landfill decomposition; 83.67% of waste
+4C,Incineracion y quema de residuos,3.07,1.10,1.68,0.00,0.00,Open burning
+4D,Tratamiento y descarga de aguas residuales,117.50,0.00,0.00,117.50,0.00,Municipal wastewater; no industrial WW data available
+TOTAL_EX_ABS,Total emisiones excl absorciones,10589.69,,,,,Gross emissions without 3B land removals (-884.26 GgCO2e)
+TOTAL_NET,Emisiones netas,9705.43,,,,,Gross minus 3B absorption
