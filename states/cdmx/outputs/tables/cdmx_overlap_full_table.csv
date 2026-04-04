@@ -1,0 +1,13 @@
+segment,label,central_ggco2eq,low_ggco2eq,high_ggco2eq,central_pct,low_pct,high_pct
+S_F_E,S ∩ F ∩ E (all three),4.5,1.1,11.6,0.0,0.0,0.1
+S_F,S ∩ F only (not E),23.9,12.1,42.2,0.1,0.1,0.2
+S_E,S ∩ E only (not F),350.0,227.2,470.6,1.8,1.1,2.4
+S_only,S only,3146.3,3284.4,3000.3,15.8,16.5,15.1
+F_E,F ∩ E only (not S),0.0,0.0,0.0,0.0,0.0,0.0
+F_only,F only,13595.4,13592.1,13598.8,68.4,68.3,68.4
+E_only,E only,0.0,0.0,0.0,0.0,0.0,0.0
+uncovered,Uncovered,2768.2,2771.6,2764.9,13.9,13.9,13.9
+gross_S,Gross S (CDMX tax),3524.7,3524.7,3524.7,17.7,17.7,17.7
+gross_F,Gross F (IEPS),13623.9,13605.3,13652.6,68.5,68.4,68.6
+gross_E,Gross E (Pilot ETS),354.5,228.3,482.2,1.8,1.1,2.4
+union,Deduplicated union (S ∪ F ∪ E),17120.2,17116.8,17123.5,86.1,86.1,86.1

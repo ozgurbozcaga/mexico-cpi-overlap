@@ -1,0 +1,10 @@
+Metric,Central (GgCO2eq),Central (% of total)
+Total CDMX GHG (2020),19888.4,100.0
+Gross S (CDMX tax),3524.7,17.7
+Gross F (IEPS),13623.9,68.5
+Gross E (Pilot ETS),354.5,1.8
+S ∩ F ∩ E overlap,4.5,0.0
+S ∩ F overlap (excl. E),23.9,0.1
+S ∩ E overlap (excl. F),350.0,1.8
+Deduplicated union (S∪F∪E),17120.2,86.1
+Uncovered emissions,2768.2,13.9
