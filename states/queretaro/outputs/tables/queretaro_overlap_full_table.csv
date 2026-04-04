@@ -1,0 +1,91 @@
+year,scenario,segment,GgCO2e,pct_of_state,content_description,estimation_tier
+2021,central,S^F^E -- all three instruments,73.5,0.69,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2021,central,S^E only -- state tax + ETS,3576.9,33.78,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2021,central,S^F only -- state tax + federal,209.2,1.98,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2021,central,S only -- state tax unique,657.3,6.21,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2021,central,F only -- federal tax unique,2830.4,26.73,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2021,central,Uncovered,3242.4,30.62,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2021,central,S gross (state tax),4516.9,42.65,,Tier 3
+2021,central,F gross (federal tax),3113.1,29.4,,Tier 3
+2021,central,E gross (pilot ETS),3650.4,34.47,,Tier 3
+2021,central,S|F|E deduplicated union,7347.3,69.38,,Tier 3
+2021,low,S^F^E -- all three instruments,39.3,0.37,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2021,low,S^E only -- state tax + ETS,3254.9,30.74,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2021,low,S^F only -- state tax + federal,198.8,1.88,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2021,low,S only -- state tax unique,1023.9,9.67,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2021,low,F only -- federal tax unique,2796.4,26.41,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2021,low,Uncovered,3276.4,30.94,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2021,low,S gross (state tax),4516.9,42.65,,Tier 3
+2021,low,F gross (federal tax),3034.4,28.65,,Tier 3
+2021,low,E gross (pilot ETS),3294.2,31.11,,Tier 3
+2021,low,S|F|E deduplicated union,7313.3,69.06,,Tier 3
+2021,high,S^F^E -- all three instruments,136.3,1.29,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2021,high,S^E only -- state tax + ETS,3824.7,36.12,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2021,high,S^F only -- state tax + federal,213.9,2.02,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2021,high,S only -- state tax unique,342.0,3.23,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2021,high,F only -- federal tax unique,2851.9,26.93,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2021,high,Uncovered,3220.9,30.42,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2021,high,S gross (state tax),4516.9,42.65,,Tier 3
+2021,high,F gross (federal tax),3202.1,30.24,,Tier 3
+2021,high,E gross (pilot ETS),3961.0,37.4,,Tier 3
+2021,high,S|F|E deduplicated union,7368.8,69.58,,Tier 3
+2025,central,S^F^E -- all three instruments,82.8,0.74,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2025,central,S^E only -- state tax + ETS,3741.5,33.64,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2025,central,S^F only -- state tax + federal,217.3,1.95,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2025,central,S only -- state tax unique,729.9,6.56,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2025,central,F only -- federal tax unique,2996.6,26.94,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2025,central,Uncovered,3355.5,30.17,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2025,central,S gross (state tax),4771.5,42.9,,Tier 3
+2025,central,F gross (federal tax),3296.7,29.64,,Tier 3
+2025,central,E gross (pilot ETS),3824.3,34.38,,Tier 3
+2025,central,S|F|E deduplicated union,7768.1,69.83,,Tier 3
+2025,low,S^F^E -- all three instruments,38.5,0.38,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2025,low,S^E only -- state tax + ETS,3045.2,29.82,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2025,low,S^F only -- state tax + federal,191.4,1.87,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2025,low,S only -- state tax unique,1002.7,9.82,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2025,low,F only -- federal tax unique,2740.9,26.84,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2025,low,Uncovered,3193.0,31.27,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2025,low,S gross (state tax),4277.9,41.89,,Tier 3
+2025,low,F gross (federal tax),2970.8,29.09,,Tier 3
+2025,low,E gross (pilot ETS),3083.7,30.2,,Tier 3
+2025,low,S|F|E deduplicated union,7018.8,68.73,,Tier 3
+2025,high,S^F^E -- all three instruments,168.5,1.42,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2025,high,S^E only -- state tax + ETS,4343.8,36.7,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2025,high,S^F only -- state tax + federal,231.8,1.96,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2025,high,S only -- state tax unique,412.7,3.49,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2025,high,F only -- federal tax unique,3193.7,26.99,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2025,high,Uncovered,3483.9,29.44,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2025,high,S gross (state tax),5156.8,43.57,,Tier 3
+2025,high,F gross (federal tax),3594.1,30.37,,Tier 3
+2025,high,E gross (pilot ETS),4512.3,38.13,,Tier 3
+2025,high,S|F|E deduplicated union,8350.6,70.56,,Tier 3
+2026,central,S^F^E -- all three instruments,85.3,0.76,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2026,central,S^E only -- state tax + ETS,3786.5,33.61,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2026,central,S^F only -- state tax + federal,219.5,1.95,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2026,central,S only -- state tax unique,749.4,6.65,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2026,central,F only -- federal tax unique,3039.7,26.98,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2026,central,Uncovered,3384.8,30.05,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2026,central,S gross (state tax),4840.6,42.97,,Tier 3
+2026,central,F gross (federal tax),3344.4,29.69,,Tier 3
+2026,central,E gross (pilot ETS),3871.8,34.37,,Tier 3
+2026,central,S|F|E deduplicated union,7880.3,69.95,,Tier 3
+2026,low,S^F^E -- all three instruments,38.3,0.38,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2026,low,S^E only -- state tax + ETS,2995.7,29.6,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2026,low,S^F only -- state tax + federal,189.7,1.87,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2026,low,S only -- state tax unique,997.5,9.86,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2026,low,F only -- federal tax unique,2727.2,26.95,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2026,low,Uncovered,3172.8,31.35,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2026,low,S gross (state tax),4221.2,41.71,,Tier 3
+2026,low,F gross (federal tax),2955.1,29.2,,Tier 3
+2026,low,E gross (pilot ETS),3034.0,29.98,,Tier 3
+2026,low,S|F|E deduplicated union,6948.4,68.65,,Tier 3
+2026,high,S^F^E -- all three instruments,177.7,1.46,Manuf non-NG fuels at large plants; negligible electricity diesel at large plants,Tier 3
+2026,high,S^E only -- state tax + ETS,4489.3,36.87,"Electricity NG (99.99%) at large plants (El Sauz, SJR); manufacturing NG at large plants",Tier 3
+2026,high,S^F only -- state tax + federal,236.6,1.94,Manuf non-NG at small plants; commercial non-NG fuels; ag combustion non-NG,Tier 3
+2026,high,S only -- state tax unique,432.7,3.55,NG at small manuf; commercial NG; HFC refrigeration (70.5 GgCO2e); IPPU process CO2 non-ETS,Tier 3
+2026,high,F only -- federal tax unique,3285.5,26.98,Transport non-NG fuels (~98.6%); residential non-NG fuels (~95%),Tier 3
+2026,high,Uncovered,3553.6,29.19,"AFOLU (livestock, land sources); waste; transport NG; residential NG",Tier 3
+2026,high,S gross (state tax),5336.4,43.83,,Tier 3
+2026,high,F gross (federal tax),3699.8,30.39,,Tier 3
+2026,high,E gross (pilot ETS),4667.0,38.33,,Tier 3
+2026,high,S|F|E deduplicated union,8621.9,70.81,,Tier 3
