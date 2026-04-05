@@ -1,0 +1,16 @@
+ipcc_2006,description,central_KtCO2e,s_share,f_share,e_share,S∩F∩E,S∩E_only,S∩F_only,S_only,F∩E_only,F_only,E_only,Uncovered
+1.A.1.a,Electricity generation,5606.9,1.0,0.2,0.6,1121.4,2242.8,0.0,2242.8,0.0,0.0,0.0,0.0
+1.A.2,Manufacturing & construction,6111.1,1.0,0.5,0.5,3055.6,0.0,0.0,3055.6,0.0,0.0,0.0,0.0
+1.A.3,Transport,7309.8,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,7309.8,0.0,0.0
+1.A.4.a,Commercial/institutional combustion,515.5,1.0,0.6,0.0,0.0,0.0,309.3,206.2,0.0,0.0,0.0,0.0
+1.A.4.b,Residential combustion,2428.6,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,2064.3,0.0,364.3
+1.A.4.c,Agricultural combustion,481.0,1.0,1.0,0.0,0.0,0.0,457.0,24.1,0.0,0.0,0.0,0.0
+1.B,Fugitive emissions,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2.A.1,Cement production,582.5,1.0,0.0,0.6,0.0,378.6,0.0,203.9,0.0,0.0,0.0,0.0
+2.A.2,Lime production,186.7,1.0,0.0,0.6,0.0,121.4,0.0,65.3,0.0,0.0,0.0,0.0
+2.A.3,Glass production,123.5,1.0,0.0,0.6,0.0,80.3,0.0,43.2,0.0,0.0,0.0,0.0
+2.A.4,Other carbonates (limestone+soda ash),2417.1,1.0,0.0,0.6,0.0,1571.1,0.0,846.0,0.0,0.0,0.0,0.0
+2.C,Metals (lead + zinc),70.7,1.0,0.0,0.4,0.0,28.3,0.0,42.4,0.0,0.0,0.0,0.0
+2.D,Non-energy products (lubricants+wax),1259.1,1.0,0.0,0.0,0.0,0.0,0.0,1259.1,0.0,0.0,0.0,0.0
+3.x,AFOLU (agriculture/forestry/land use),3511.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3511.7
+4.x,Waste (solid waste + wastewater),5780.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5780.8
