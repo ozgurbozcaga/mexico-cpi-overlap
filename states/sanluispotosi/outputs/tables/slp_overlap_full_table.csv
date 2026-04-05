@@ -1,0 +1,31 @@
+year,scenario,gwp_basis,segment,GgCO2e,pct_of_state,content_description,estimation_tier
+2007-2014 avg,central,AR5,S*F*E -- all three instruments,4776.4,20.47,Electricity non-NG at large plants + manufacturing non-NG at large plants,Tier 3
+2007-2014 avg,central,AR5,S*E only -- state tax + ETS,6681.7,28.64,Electricity NG (Tamazunchale) + manufacturing NG at large plants + cement/cal process at large facilities,Tier 3
+2007-2014 avg,central,AR5,S*F only -- state tax + federal,1561.0,6.69,Manufacturing GLP+diesel below ETS threshold; commercial/public non-NG,Tier 3
+2007-2014 avg,central,AR5,S only -- state tax unique,964.9,4.14,NG at small facilities; IPPU process at small facilities; commercial NG,Tier 3
+2007-2014 avg,central,AR5,F only -- federal tax unique,4949.8,21.22,Transport (gasoline+diesel); residential non-NG (GLP),Tier 3
+2007-2014 avg,central,AR5,Uncovered,4396.9,18.85,"AFOLU (livestock, crop burning); waste; residential NG",Tier 3
+2007-2014 avg,central,AR5,S gross (state tax),13984.0,59.94,,Tier 3
+2007-2014 avg,central,AR5,F gross (federal tax),11287.2,48.38,,Tier 3
+2007-2014 avg,central,AR5,E gross (pilot ETS),11458.1,49.11,,Tier 3
+2007-2014 avg,central,AR5,S|F|E deduplicated union,18933.8,81.15,,Tier 3
+2007-2014 avg,low,AR5,S*F*E -- all three instruments,3552.1,15.22,Electricity non-NG at large plants + manufacturing non-NG at large plants,Tier 3
+2007-2014 avg,low,AR5,S*E only -- state tax + ETS,6819.0,29.23,Electricity NG (Tamazunchale) + manufacturing NG at large plants + cement/cal process at large facilities,Tier 3
+2007-2014 avg,low,AR5,S*F only -- state tax + federal,1661.7,7.12,Manufacturing GLP+diesel below ETS threshold; commercial/public non-NG,Tier 3
+2007-2014 avg,low,AR5,S only -- state tax unique,1681.0,7.21,NG at small facilities; IPPU process at small facilities; commercial NG,Tier 3
+2007-2014 avg,low,AR5,F only -- federal tax unique,4963.3,21.27,Transport (gasoline+diesel); residential non-NG (GLP),Tier 3
+2007-2014 avg,low,AR5,Uncovered,4653.6,19.95,"AFOLU (livestock, crop burning); waste; residential NG",Tier 3
+2007-2014 avg,low,AR5,S gross (state tax),13713.8,58.78,,Tier 3
+2007-2014 avg,low,AR5,F gross (federal tax),10177.1,43.62,,Tier 3
+2007-2014 avg,low,AR5,E gross (pilot ETS),10371.1,44.45,,Tier 3
+2007-2014 avg,low,AR5,S|F|E deduplicated union,18677.1,80.05,,Tier 3
+2007-2014 avg,high,AR5,S*F*E -- all three instruments,5577.7,23.91,Electricity non-NG at large plants + manufacturing non-NG at large plants,Tier 3
+2007-2014 avg,high,AR5,S*E only -- state tax + ETS,6446.9,27.63,Electricity NG (Tamazunchale) + manufacturing NG at large plants + cement/cal process at large facilities,Tier 3
+2007-2014 avg,high,AR5,S*F only -- state tax + federal,1673.6,7.17,Manufacturing GLP+diesel below ETS threshold; commercial/public non-NG,Tier 3
+2007-2014 avg,high,AR5,S only -- state tax unique,556.0,2.38,NG at small facilities; IPPU process at small facilities; commercial NG,Tier 3
+2007-2014 avg,high,AR5,F only -- federal tax unique,4882.2,20.93,Transport (gasoline+diesel); residential non-NG (GLP),Tier 3
+2007-2014 avg,high,AR5,Uncovered,4194.3,17.98,"AFOLU (livestock, crop burning); waste; residential NG",Tier 3
+2007-2014 avg,high,AR5,S gross (state tax),14254.2,61.1,,Tier 3
+2007-2014 avg,high,AR5,F gross (federal tax),12133.6,52.01,,Tier 3
+2007-2014 avg,high,AR5,E gross (pilot ETS),12024.6,51.54,,Tier 3
+2007-2014 avg,high,AR5,S|F|E deduplicated union,19136.4,82.02,,Tier 3
