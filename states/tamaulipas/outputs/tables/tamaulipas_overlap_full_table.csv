@@ -1,0 +1,31 @@
+year,scenario,segment,GgCO2e,pct_of_state,content_description,estimation_tier
+2025,central,S∩F∩E — all three instruments,2021.0,3.81,"Non-NG combustion at above-threshold plants: electricity (diesel/FO fraction), refinery (non-NG fraction), manufacturing (diesel/GLP at large plants)",Tier 3
+2025,central,S∩E only — state tax + ETS,27552.8,51.88,"NG combustion at above-threshold plants (NG exempt from F); fugitive O&G (CH4 from PEMEX installations); IPPU process CO2 (caliza, negro de humo)",Tier 3
+2025,central,S∩F only — state tax + federal,0.0,0.0,"Near zero: S and E have same threshold, so S∩F-only requires S but not E sector scope — only applies to HFC (NE data gap)",Tier 3
+2025,central,S only — state tax unique,0.0,0.0,Near zero: same reasoning as S∩F only — HFC NG fraction (NE),Tier 3
+2025,central,F only — federal tax unique,12149.4,22.87,"Transport (road, rail, aviation, maritime); below-threshold non-NG combustion; agricultural combustion diesel/GLP",Tier 3
+2025,central,Uncovered,11389.2,21.44,"AFOLU (livestock CH4, land use CO2, cropland N2O); waste; residential/commercial NG; below-threshold NG combustion; HFC data gap",Tier 3
+2025,central,S gross (state tax ≥25k),29573.8,55.68,,Tier 3
+2025,central,F gross (federal IEPS),14170.5,26.68,,Tier 3
+2025,central,E gross (pilot ETS ≥25k),29573.8,55.68,,Tier 3
+2025,central,S∪F∪E union,41723.2,78.56,,Tier 3
+2025,low,S∩F∩E — all three instruments,2729.0,5.58,"Non-NG combustion at above-threshold plants: electricity (diesel/FO fraction), refinery (non-NG fraction), manufacturing (diesel/GLP at large plants)",Tier 3
+2025,low,S∩E only — state tax + ETS,22824.0,46.71,"NG combustion at above-threshold plants (NG exempt from F); fugitive O&G (CH4 from PEMEX installations); IPPU process CO2 (caliza, negro de humo)",Tier 3
+2025,low,S∩F only — state tax + federal,0.0,0.0,"Near zero: S and E have same threshold, so S∩F-only requires S but not E sector scope — only applies to HFC (NE data gap)",Tier 3
+2025,low,S only — state tax unique,0.0,0.0,Near zero: same reasoning as S∩F only — HFC NG fraction (NE),Tier 3
+2025,low,F only — federal tax unique,11309.0,23.14,"Transport (road, rail, aviation, maritime); below-threshold non-NG combustion; agricultural combustion diesel/GLP",Tier 3
+2025,low,Uncovered,12001.4,24.56,"AFOLU (livestock CH4, land use CO2, cropland N2O); waste; residential/commercial NG; below-threshold NG combustion; HFC data gap",Tier 3
+2025,low,S gross (state tax ≥25k),25553.0,52.29,,Tier 3
+2025,low,F gross (federal IEPS),14038.0,28.73,,Tier 3
+2025,low,E gross (pilot ETS ≥25k),25553.0,52.29,,Tier 3
+2025,low,S∪F∪E union,36862.0,75.44,,Tier 3
+2025,high,S∩F∩E — all three instruments,873.0,1.52,"Non-NG combustion at above-threshold plants: electricity (diesel/FO fraction), refinery (non-NG fraction), manufacturing (diesel/GLP at large plants)",Tier 3
+2025,high,S∩E only — state tax + ETS,32615.1,56.86,"NG combustion at above-threshold plants (NG exempt from F); fugitive O&G (CH4 from PEMEX installations); IPPU process CO2 (caliza, negro de humo)",Tier 3
+2025,high,S∩F only — state tax + federal,0.0,0.0,"Near zero: S and E have same threshold, so S∩F-only requires S but not E sector scope — only applies to HFC (NE data gap)",Tier 3
+2025,high,S only — state tax unique,0.0,0.0,Near zero: same reasoning as S∩F only — HFC NG fraction (NE),Tier 3
+2025,high,F only — federal tax unique,12972.1,22.61,"Transport (road, rail, aviation, maritime); below-threshold non-NG combustion; agricultural combustion diesel/GLP",Tier 3
+2025,high,Uncovered,10901.2,19.0,"AFOLU (livestock CH4, land use CO2, cropland N2O); waste; residential/commercial NG; below-threshold NG combustion; HFC data gap",Tier 3
+2025,high,S gross (state tax ≥25k),33488.1,58.38,,Tier 3
+2025,high,F gross (federal IEPS),13845.1,24.14,,Tier 3
+2025,high,E gross (pilot ETS ≥25k),33488.1,58.38,,Tier 3
+2025,high,S∪F∪E union,46460.3,81.0,,Tier 3
