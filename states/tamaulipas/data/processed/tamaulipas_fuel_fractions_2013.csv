@@ -1,0 +1,5 @@
+ipcc_code,sector_group,ng_exempt_frac_central,ng_exempt_frac_low,ng_exempt_frac_high,derivation_ng
+1A1a,electricity_generation,0.9290651655559256,0.9,0.97,"Table 5.12: NG=247,525 TJ, Diesel=118 TJ + estimated combustóleo=13,585 TJ (5.2% of electricity fuel per inventory text p.115). NG CO2 fraction = 92.7%. Range: 90-97% (combustóleo data uncertainty)."
+1A1b,petroleum_refining,0.85,0.75,0.95,"Table 5.11 shows only NG consumption (52,563 TJ). But PEMEX Cd. Madero uses mixed fuels (NG + refinery gas + liquid fuels). Central 85% NG; wide range due to data gap on non-NG refinery fuels."
+1A2,manufacturing,0.9208697799567427,0.88,0.97,"Table 5.14: NG=32,428 TJ, Diesel=1,360 TJ, GLP=880 TJ. NG CO2 fraction = 92.1%. No combustóleo data for this sector (SIE note). Range ±2-4%."
+1A4,other_energy,0.13,0.08,0.2,Table 5.6: Residential NG=1.79 PJ vs GLP=11.99 PJ. Commercial GLP only=1.18 PJ. Agric GLP only=0.20 PJ. Weighted NG share ~13%.

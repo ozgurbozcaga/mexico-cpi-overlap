@@ -1,0 +1,9 @@
+name,technology,capacity_MW,location,year_start,above_25k_threshold
+CT Altamira (CFE),Termoeléctrica convencional,800,Altamira,1976,True
+CT Río Bravo / Emilio Portes Gil (CFE),Termoeléctrica convencional,511,Río Bravo,1971,True
+CC Altamira V,Ciclo combinado,1121,Altamira,2006,True
+CC Altamira III y IV,Ciclo combinado,1036,Altamira,2003,True
+CC Río Bravo,Ciclo combinado,500,Valle Hermoso,2005,True
+CC Río Bravo II (Anáhuac),Ciclo combinado,495,Valle Hermoso,2002,True
+CC Río Bravo III,Ciclo combinado,495,Valle Hermoso,2004,True
+CC Altamira II,Ciclo combinado,495,Altamira,2002,True
