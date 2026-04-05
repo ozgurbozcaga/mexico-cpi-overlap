@@ -1,0 +1,32 @@
+ipcc_code,sector_name,broad_category,proxy_name,proxy_share,national_KtCO2e,central_KtCO2e,low_KtCO2e,high_KtCO2e
+1.A.1.a,Electricity & heat production,ELECTRICITY,GDP_adj_down,0.0104,155422.0,1616.39,969.83,2424.58
+1.A.1.bc,Petroleum refining & other energy,ELECTRICITY,zero_no_refinery,0.0,45954.6,0.0,0.0,0.0
+1.A.2,Manufacturing combustion,MANUFACTURING,GDP,0.013,44621.5,580.08,406.06,812.11
+1.A.3.a,Civil aviation,TRANSPORT,minimal_aviation,0.005,39.2,0.2,0.06,0.39
+1.A.3.b,Road transport,TRANSPORT,pop_adj_down,0.011585410525418982,125675.4,1456.0,1019.2,1892.8
+1.A.3.c,Railways,TRANSPORT,pop_adj_down,0.006436339180788323,1951.0,12.56,3.77,18.84
+1.A.3.d,Water-borne navigation,TRANSPORT,zero_no_coast,0.0,1505.4,0.0,0.0,0.0
+1.A.4,Residential/commercial/agri combustion,RESIDENTIAL_COMMERCIAL,population,0.012872678361576646,32521.2,418.63,293.04,544.23
+1.B.1,Fugitive - coal mining,FUGITIVE,zero_no_coal,0.0,344.9,0.0,0.0,0.0
+1.B.2,Fugitive - oil & gas,FUGITIVE,zero_no_oil_gas,0.0,24557.0,0.0,0.0,0.0
+2.A.1,Cement production,IPPU,cement_proxy,0.015,18391.6,275.87,137.94,551.75
+2.A.3,Glass production,IPPU,GDP,0.013,8.2,0.11,0.05,0.21
+2.A.4,Lime & other carbonates,IPPU,mineral_proxy,0.02,32416.5,648.33,324.17,1296.66
+2.B,Chemical industry,IPPU,zero_no_petrochemical,0.0,6643.9,0.0,0.0,0.0
+2.C,Metal industry,IPPU,mining_metals,0.04,849.8,33.99,17.0,67.98
+2.D,Non-energy products & solvents,IPPU,GDP,0.013,983.6,12.79,6.39,19.18
+2.F,HFCs (ODS substitutes),IPPU,population,0.012872678361576646,19503.4,251.06,175.74,326.38
+2.G,Other product use,IPPU,GDP,0.013,664.8,8.64,4.32,12.96
+3.A.1,Enteric fermentation,AFOLU,livestock,0.025,77186.9,1929.67,1157.8,2894.51
+3.A.2,Manure management,AFOLU,livestock,0.025,10573.5,264.34,158.6,396.51
+3.C.2,Liming,AFOLU,cropland,0.02,1401.5,28.03,14.02,56.06
+3.C.3,Urea application,AFOLU,cropland,0.02,1041.1,20.82,10.41,41.64
+3.C.4,Direct N2O from soils,AFOLU,cropland,0.02,23596.3,471.93,235.96,943.85
+3.C.5,Indirect N2O from soils,AFOLU,cropland,0.02,3519.2,70.38,35.19,140.77
+3.C.6,Indirect N2O from manure,AFOLU,livestock,0.025,176.5,4.41,2.21,8.83
+3.C.7,Rice cultivation,AFOLU,zero_no_rice,0.0,198.7,0.0,0.0,0.0
+4.A,Solid waste disposal,WASTE,population,0.012872678361576646,42359.6,545.28,381.7,708.87
+4.C,Incineration & open burning,WASTE,population,0.012872678361576646,559.0,7.2,3.6,10.79
+4.D,Wastewater treatment,WASTE,population,0.012872678361576646,7970.9,102.61,71.82,133.39
+4.E,Other waste,WASTE,population,0.012872678361576646,505.9,6.51,3.26,9.77
+5.A,LULUCF fossil fuel fires,LULUCF,population,0.012872678361576646,1893.8,24.38,12.19,48.76

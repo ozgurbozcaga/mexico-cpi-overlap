@@ -1,0 +1,27 @@
+edgar_sector,ipcc_2006,description,KtCO2e
+TRO,1.A.3.b,Road transportation,2491.848
+AGS,3.C,Agricultural soils,1335.694
+ENF,3.A.1,Enteric fermentation,1200.208
+RCO,1.A.4,Buildings (residential & commercial),620.869
+ENE,1.A.1.a,Power industry,378.766
+N2O,3.C.5-6,Indirect N₂O from agriculture,189.913
+PRU_SOL,2.D-2G,Solvents & HFCs/product use,175.709
+REF_TRF,1.A.1.bc,Refining & transformation,168.183
+IND,1.A.2,Manufacturing & construction,101.773
+MNM,3.A.2,Manure management,101.492
+IDE,5.A,Indirect NOₓ/NH₃ emissions,88.438
+TNR_Aviation_CRS,1.A.3.a,Aviation (cruise),76.044
+TNR_Other,1.A.3.ce,Rail & other transport,61.873
+WWT,4.D,Wastewater treatment,58.052
+AWB,3.C.1b,Agricultural waste burning,27.990
+CHE,2.B,Chemical industry,22.392
+TNR_Aviation_CDS,1.A.3.a,Aviation (climb/descent),21.159
+PRO_FFF,1.B.1-2,Fugitive emissions (coal/oil/gas),12.818
+SWD_INC,4.C,Waste incineration,4.071
+SWD_LDF,4.A,Solid waste disposal (landfills),3.745
+TNR_Aviation_LTO,1.A.3.a,Aviation (landing/takeoff),1.911
+NFE,2.C,Non-ferrous metals,1.183
+NEU,2.D,Non-energy use of fuels,0.904
+NMM,2.A,Non-metallic minerals,0.060
+IRO,2.C,Iron & steel production,0.000
+TNR_Ship,1.A.3.d,Shipping,0.000

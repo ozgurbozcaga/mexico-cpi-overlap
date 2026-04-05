@@ -1,0 +1,9 @@
+parameter,value
+edgar_gridded_total_KtCO2e,7145.1
+estimation_tier,3.0
+mask_cells,665.0
+mask_area_km2,66500.0
+official_area_km2,72275.0
+rene_2018_low_KtCO2e,1916.5
+rene_2018_high_KtCO2e,3137.8
+revenue_implied_2021_KtCO2e,2216.0

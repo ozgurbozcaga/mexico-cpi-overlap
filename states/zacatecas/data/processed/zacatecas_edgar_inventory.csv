@@ -1,0 +1,27 @@
+edgar_sector,ipcc_2006,description,broad_category,central_KtCO2e,low_KtCO2e,high_KtCO2e
+ENE,1.A.1.a,Power industry,ELECTRICITY,378.766,284.07,473.46
+REF_TRF,1.A.1.bc,Refining & transformation,REFINING,168.183,100.91,235.46
+IND,1.A.2,Manufacturing & construction,MANUFACTURING,101.773,71.24,132.3
+TNR_Aviation_LTO,1.A.3.a,Aviation (landing/takeoff),TRANSPORT,1.911,1.53,2.29
+TNR_Aviation_CDS,1.A.3.a,Aviation (climb/descent),TRANSPORT,21.159,16.93,25.39
+TNR_Aviation_CRS,1.A.3.a,Aviation (cruise),TRANSPORT,76.044,60.84,91.25
+TRO,1.A.3.b,Road transportation,TRANSPORT,2491.848,1993.48,2990.22
+TNR_Other,1.A.3.ce,Rail & other transport,TRANSPORT,61.873,49.5,74.25
+TNR_Ship,1.A.3.d,Shipping,TRANSPORT,0.0,0.0,0.0
+RCO,1.A.4,Buildings (residential/commercial),RESIDENTIAL_COMMERCIAL,620.869,465.65,776.09
+PRO_FFF,1.B.1-2,Fugitive emissions (coal/oil/gas),FUGITIVE,12.818,6.41,19.23
+NMM,2.A,Non-metallic minerals (cement/lime),IPPU,0.06,0.03,0.09
+CHE,2.B,Chemical industry,IPPU,22.392,11.2,33.59
+IRO,2.C,Iron & steel production,IPPU,0.0,0.0,0.0
+NFE,2.C,Non-ferrous metals,IPPU,1.183,0.59,1.77
+NEU,2.D,Non-energy use of fuels,IPPU,0.904,0.45,1.36
+PRU_SOL,2.D-2G,Solvents & HFCs/product use,IPPU,175.709,87.85,263.56
+ENF,3.A.1,Enteric fermentation,AFOLU,1200.208,840.15,1560.27
+MNM,3.A.2,Manure management,AFOLU,101.492,71.04,131.94
+AGS,3.C,Agricultural soils,AFOLU,1335.694,934.99,1736.4
+AWB,3.C.1b,Agricultural waste burning,AFOLU,27.99,19.59,36.39
+N2O,3.C.5-6,Indirect N2O from agriculture,AFOLU,189.913,132.94,246.89
+SWD_LDF,4.A,Solid waste disposal (landfills),WASTE,3.745,1.87,5.62
+SWD_INC,4.C,Waste incineration,WASTE,4.071,2.04,6.11
+WWT,4.D,Wastewater treatment,WASTE,58.052,29.03,87.08
+IDE,5.A,Indirect NOx/NH3 emissions,OTHER,88.438,53.06,123.81
