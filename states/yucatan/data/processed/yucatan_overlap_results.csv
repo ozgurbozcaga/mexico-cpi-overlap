@@ -1,0 +1,13 @@
+segment,label,central_GgCO2e,low_GgCO2e,high_GgCO2e,central_pct,low_pct,high_pct,tier,base_year
+S_F_E,S n F n E  (all three),305.15,263.0,290.57,2.93,2.52,2.79,Tier 3,2023
+S_F,S n F only (not E),279.36,478.07,137.37,2.68,4.59,1.32,Tier 3,2023
+S_E,S n E only (not F),3044.5,2600.12,3390.33,29.2,24.94,32.52,Tier 3,2023
+S_only,S only,1130.97,1418.79,941.7,10.85,13.61,9.03,Tier 3,2023
+F_E,F n E only (not S),0.0,0.0,0.0,0.0,0.0,0.0,Tier 3,2023
+F_only,F only,3119.28,3119.28,3119.28,29.92,29.92,29.92,Tier 3,2023
+E_only,E only,0.0,0.0,0.0,0.0,0.0,0.0,Tier 3,2023
+uncovered,Uncovered,2546.24,2546.24,2546.24,24.42,24.42,24.42,Tier 3,2023
+gross_S,Gross S (Yucatan tax),4759.98,4759.98,4759.98,45.66,45.66,45.66,Tier 3,2023
+gross_F,Gross F (IEPS),3703.79,3860.35,3547.22,35.53,37.03,34.02,Tier 3,2023
+gross_E,Gross E (Pilot ETS),3349.65,2863.12,3680.9,32.13,27.46,35.31,Tier 3,2023
+union,Deduplicated union (S u F u E),7879.26,7879.26,7879.26,75.58,75.58,75.58,Tier 3,2023

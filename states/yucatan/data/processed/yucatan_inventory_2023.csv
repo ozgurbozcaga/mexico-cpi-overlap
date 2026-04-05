@@ -1,0 +1,45 @@
+ipcc_code,level,co2_gg,ch4_gg,n2o_gg,hfc_gg,hcfc_gg,co2e_gg,base_year,gwp_basis,sector
+1A1a,Generacion electrica,2967.64,1.6,1.77,0.0,0.0,2971.0,2023,AR5,Energy
+1A1cii,Otras industrias de la energia,12.78,0.01,0.01,0.0,0.0,12.79,2023,AR5,Energy
+1A2a,Hierro y acero,1.66,0.0,0.0,0.0,0.0,1.66,2023,AR5,Energy
+1A2c,Productos quimicos,95.06,0.05,0.07,0.0,0.0,95.18,2023,AR5,Energy
+1A2e,"Alimentos, bebidas y tabaco",413.21,0.25,0.31,0.0,0.0,413.77,2023,AR5,Energy
+1A2f,Minerales no metalicos,208.44,0.31,0.62,0.0,0.0,209.37,2023,AR5,Energy
+1A2g,Equipo de transporte,2.34,0.0,0.0,0.0,0.0,2.34,2023,AR5,Energy
+1A2i,Mineria,69.57,0.07,0.13,0.0,0.0,69.78,2023,AR5,Energy
+1A2k,Construccion,20.67,0.02,0.04,0.0,0.0,20.73,2023,AR5,Energy
+1A2l,Textiles y cueros,48.95,0.02,0.03,0.0,0.0,49.0,2023,AR5,Energy
+1A2m,Industria no especificada,0.17,0.0,0.0,0.0,0.0,0.17,2023,AR5,Energy
+1A3a,Aviacion civil,173.36,0.03,1.27,0.0,0.0,174.66,2023,AR5,Energy
+1A3b,Transporte terrestre,2636.56,12.23,114.66,0.0,0.0,2763.45,2023,AR5,Energy
+1A3c,Ferrocarriles,65.42,0.1,6.68,0.0,0.0,72.2,2023,AR5,Energy
+1A3d,Navegacion maritima y fluvial,107.91,0.29,0.78,0.0,0.0,108.97,2023,AR5,Energy
+1A4a,Comercial/Institucional,130.57,0.31,0.09,0.0,0.0,130.97,2023,AR5,Energy
+1A4b,Residencial,115.17,92.94,11.74,0.0,0.0,219.85,2023,AR5,Energy
+1A4c,Agropecuario,10.67,0.02,0.0,0.0,0.0,10.7,2023,AR5,Energy
+1A5,Sector no especificado,0.27,0.0,0.0,0.0,0.0,0.27,2023,AR5,Energy
+1B2a,Transporte y almac. Gas LP,0.0,0.0,0.0,0.0,0.0,0.000583,2023,AR5,Energy
+1B2b,Distribucion y uso gas natural,0.08,89.86,0.0,0.0,0.0,89.95,2023,AR5,Energy
+2A1,Produccion de cemento,318.04,0.0,0.0,0.0,0.0,318.04,2023,AR5,IPPU
+2A2,Produccion de cal,7.37,0.0,0.0,0.0,0.0,7.37,2023,AR5,IPPU
+2C1,Produccion de hierro y acero,3.32,0.0,0.0,0.0,0.0,3.32,2023,AR5,IPPU
+2D1,Uso de lubricantes,19.66,0.0,0.0,0.0,0.0,19.66,2023,AR5,IPPU
+2F1ai,Refrig/AC residencial,0.0,0.0,0.0,25.1,0.0,25.1,2023,AR5,IPPU
+2F1aii,Refrig/AC comercios,0.0,0.0,0.0,291.61,0.0,291.61,2023,AR5,IPPU
+2F1aiii,Refrig/AC hoteles,0.0,0.0,0.0,12.12,0.0,12.12,2023,AR5,IPPU
+2F1aiv,Refrig/AC hospitales,0.0,0.0,0.0,0.94,0.0,0.94,2023,AR5,IPPU
+2F1av,Refrig/AC oficinas,0.0,0.0,0.0,0.41,0.0,0.41,2023,AR5,IPPU
+2F1avi,Refrig/AC industria,0.0,0.0,0.0,1.63,2.37,4.0,2023,AR5,IPPU
+3A1,Fermentacion enterica,0.0,941.07,0.0,0.0,0.0,941.07,2023,AR5,AFOLU
+3A2,Gestion de estiercol,0.0,26.36,60.59,0.0,0.0,86.95,2023,AR5,AFOLU
+3C1,Quema de biomasa,0.0,3.25,0.91,0.0,0.0,4.16,2023,AR5,AFOLU
+3C3,Aplicacion de urea,74.32,0.0,0.0,0.0,0.0,74.32,2023,AR5,AFOLU
+3C4,N2O suelos gestionados directas,0.0,0.0,265.11,0.0,0.0,265.11,2023,AR5,AFOLU
+3C5,N2O suelos gestionados indirectas,0.0,0.0,97.32,0.0,0.0,97.32,2023,AR5,AFOLU
+3C6,N2O por SME indirectas,0.0,0.0,74.49,0.0,0.0,74.49,2023,AR5,AFOLU
+4A1,Sitios eliminacion desechos gestionados,0.0,224.35,0.0,0.0,0.0,224.35,2023,AR5,Waste
+4A2,Sitios eliminacion no gestionados,0.0,6.28,0.0,0.0,0.0,6.28,2023,AR5,Waste
+4A3,Sitios eliminacion no categorizados,0.0,43.39,0.0,0.0,0.0,43.39,2023,AR5,Waste
+4C2,Incineracion abierta de residuos,5.42,11.13,2.43,0.0,0.0,18.98,2023,AR5,Waste
+4D1,Aguas residuales domesticas,0.0,132.5,39.22,0.0,0.0,317.98,2023,AR5,Waste
+4D2,Aguas residuales industriales,0.0,289.22,28.76,0.0,0.0,171.72,2023,AR5,Waste

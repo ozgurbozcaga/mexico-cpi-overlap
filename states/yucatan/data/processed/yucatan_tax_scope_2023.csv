@@ -1,0 +1,32 @@
+ipcc_code,level,in_S,in_F,in_E_eligible,co2e_gg,note,base_year
+1A1a,Generacion electrica,True,True,True,2971.0,NG 93.5%; non-NG fraction taxable by F,2023
+1A1cii,Otras industrias energia,True,True,True,12.79,Other energy industries,2023
+1A2a,Hierro y acero,True,True,True,1.66,Small facility,2023
+1A2c,Productos quimicos,True,True,True,95.18,Chemical manufacturing,2023
+1A2e,"Alimentos, bebidas, tabaco",True,True,True,413.77,Largest manufacturing subsector; food processing,2023
+1A2f,Minerales no metalicos,True,True,True,209.37,Coke de petroleo used; non-metallic minerals,2023
+1A2g,Equipo de transporte,True,True,False,2.34,Small; below ETS threshold,2023
+1A2i,Mineria,True,True,True,69.78,Mining combustion,2023
+1A2k,Construccion,True,True,False,20.73,Construction combustion,2023
+1A2l,Textiles y cueros,True,True,False,49.0,Textiles; below ETS threshold,2023
+1A2m,Industria no especificada,True,True,False,0.17,Negligible,2023
+1A4a,Comercial/Institucional,True,True,False,130.97,Commercial stationary combustion,2023
+1A4c,Agropecuario combustion,True,True,False,10.7,Agricultural fixed combustion,2023
+1B2b,Fugitivas gas natural distrib,True,False,False,89.95,Fugitive CH4 from NG distribution; in S but not F (not combustion),2023
+2A1,Cemento proceso CO2,True,False,True,318.04,Process CO2 from calcination; NOT in F (not combustion),2023
+2A2,Cal proceso CO2,True,False,True,7.37,Process CO2,2023
+2C1,Hierro/acero proceso,True,False,True,3.32,Process CO2,2023
+2D1,Uso lubricantes,True,False,False,19.66,Non-energy CO2 from lubricant use,2023
+2F1,Refrig/AC HFC+HCFC,True,False,False,334.18,"ALL HFC in S-only: not combustion (not F), not CO2 (not E)",2023
+1A3a,Aviacion civil,False,True,False,174.66,Mobile; federal IEPS only,2023
+1A3b,Transporte terrestre,False,True,False,2763.45,Road transport; federal IEPS only,2023
+1A3c,Ferrocarriles,False,True,False,72.2,Rail diesel; federal only,2023
+1A3d,Navegacion maritima/fluvial,False,True,False,108.97,Marine diesel; federal only,2023
+1A4b,Residencial,False,False,False,219.85,Residential excluded from S; mostly firewood (biogenic),2023
+1A5,No especificado,False,False,False,0.27,Negligible,2023
+1B2a,Gas LP almacenamiento,False,False,False,0.000583,Negligible,2023
+3A,Ganado,False,False,False,1028.02,Livestock; excluded from all instruments,2023
+3C,Fuentes agregadas AFOLU,False,False,False,515.39,Agriculture non-combustion; excluded,2023
+4A,Eliminacion residuos solidos,False,False,False,274.03,Solid waste; excluded,2023
+4C2,Incineracion abierta residuos,False,False,False,18.98,Open burning; excluded,2023
+4D,Aguas residuales,False,False,False,489.7,Wastewater; excluded,2023
