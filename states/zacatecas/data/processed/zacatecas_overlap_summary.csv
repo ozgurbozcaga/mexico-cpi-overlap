@@ -1,0 +1,13 @@
+segment,central_KtCO2e,pct_of_total
+S∩F∩E,244.4,3.42
+S∩E_only,0.0,0.0
+S∩F_only,404.9,5.67
+S_only,411.0,5.75
+F∩E_only,0.0,0.0
+F_only,2870.1,40.17
+E_only,0.0,0.0
+Uncovered,3214.6,44.99
+Gross_S,1060.4,14.84
+Gross_F,3519.5,49.26
+Gross_E,244.4,3.42
+Dedup_Union,3930.5,55.01

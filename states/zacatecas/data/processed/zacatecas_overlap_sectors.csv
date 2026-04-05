@@ -1,0 +1,27 @@
+edgar_sector,description,broad_category,central_KtCO2e,low_KtCO2e,high_KtCO2e,s_share,f_share,e_share,S∩F∩E,S∩E_only,S∩F_only,S_only,F∩E_only,F_only,E_only,Uncovered
+ENE,Power industry,ELECTRICITY,378.766,284.07,473.46,1.0,0.4,0.4,151.5064,0.0,0.0,227.2596,0.0,0.0,0.0,4.2051473414517206e-14
+REF_TRF,Refining & transformation,REFINING,168.183,100.91,235.46,1.0,0.6,0.25,42.04575,0.0,58.86404999999999,67.2732,0.0,0.0,0.0,0.0
+IND,Manufacturing & construction,MANUFACTURING,101.773,71.24,132.3,1.0,0.85,0.5,50.8865,0.0,35.620549999999994,15.265950000000002,0.0,0.0,0.0,0.0
+TNR_Aviation_LTO,Aviation (landing/takeoff),TRANSPORT,1.911,1.53,2.29,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.911,0.0,0.0
+TNR_Aviation_CDS,Aviation (climb/descent),TRANSPORT,21.159,16.93,25.39,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,21.159,0.0,0.0
+TNR_Aviation_CRS,Aviation (cruise),TRANSPORT,76.044,60.84,91.25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,76.044,0.0,0.0
+TRO,Road transportation,TRANSPORT,2491.848,1993.48,2990.22,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2491.848,0.0,0.0
+TNR_Other,Rail & other transport,TRANSPORT,61.873,49.5,74.25,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,61.873,0.0,0.0
+TNR_Ship,Shipping,TRANSPORT,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RCO,Buildings (residential/commercial),RESIDENTIAL_COMMERCIAL,620.869,465.65,776.09,0.5,0.85,0.0,0.0,0.0,310.4345,0.0,0.0,217.30415,0.0,93.13034999999995
+PRO_FFF,Fugitive emissions (coal/oil/gas),FUGITIVE,12.818,6.41,19.23,0.5,0.0,0.0,0.0,0.0,0.0,6.409,0.0,0.0,0.0,6.409
+NMM,Non-metallic minerals (cement/lime),IPPU,0.06,0.03,0.09,1.0,0.0,0.0,0.0,0.0,0.0,0.06,0.0,0.0,0.0,0.0
+CHE,Chemical industry,IPPU,22.392,11.2,33.59,1.0,0.0,0.0,0.0,0.0,0.0,22.392,0.0,0.0,0.0,0.0
+IRO,Iron & steel production,IPPU,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NFE,Non-ferrous metals,IPPU,1.183,0.59,1.77,1.0,0.0,0.0,0.0,0.0,0.0,1.183,0.0,0.0,0.0,0.0
+NEU,Non-energy use of fuels,IPPU,0.904,0.45,1.36,1.0,0.0,0.0,0.0,0.0,0.0,0.904,0.0,0.0,0.0,0.0
+PRU_SOL,Solvents & HFCs/product use,IPPU,175.709,87.85,263.56,0.4,0.0,0.0,0.0,0.0,0.0,70.2836,0.0,0.0,0.0,105.4254
+ENF,Enteric fermentation,AFOLU,1200.208,840.15,1560.27,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200.208
+MNM,Manure management,AFOLU,101.492,71.04,131.94,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,101.492
+AGS,Agricultural soils,AFOLU,1335.694,934.99,1736.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1335.694
+AWB,Agricultural waste burning,AFOLU,27.99,19.59,36.39,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,27.99
+N2O,Indirect N2O from agriculture,AFOLU,189.913,132.94,246.89,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,189.913
+SWD_LDF,Solid waste disposal (landfills),WASTE,3.745,1.87,5.62,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.745
+SWD_INC,Waste incineration,WASTE,4.071,2.04,6.11,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.071
+WWT,Wastewater treatment,WASTE,58.052,29.03,87.08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.052
+IDE,Indirect NOx/NH3 emissions,OTHER,88.438,53.06,123.81,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,88.438
