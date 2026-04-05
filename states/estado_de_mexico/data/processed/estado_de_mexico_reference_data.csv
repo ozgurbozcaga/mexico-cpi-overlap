@@ -1,0 +1,11 @@
+parameter,value
+inventory_total_KtCO2e,36385.0
+estimation_tier,3
+base_year,2022
+gwp_basis,AR5
+uncertainty_pct,5.47
+source,IEEGyCEI-2022
+energy_total_KtCO2e,22452.9
+ippu_total_KtCO2e,4639.6
+afolu_total_KtCO2e,3511.7
+waste_total_KtCO2e,5780.8

@@ -1,0 +1,14 @@
+ipcc_2006,description,broad_category,central_KtCO2e,low_KtCO2e,high_KtCO2e
+1.A.1.a,Electricity generation,ELECTRICITY,5606.9,5300.2,5913.6
+1.A.2,Manufacturing & construction,MANUFACTURING,6111.1,5776.8,6445.4
+1.A.3,Transport,TRANSPORT,7309.8,6910.0,7709.6
+1.A.4,Other sectors (comm/res/agri),OTHER_SECTORS,3425.1,3237.7,3612.5
+1.B,Fugitive emissions,FUGITIVE,0.0,0.0,0.0
+2.A.1,Cement production,IPPU,582.5,550.6,614.4
+2.A.2,Lime production,IPPU,186.7,176.5,196.9
+2.A.3,Glass production,IPPU,123.5,116.7,130.3
+2.A.4,Other carbonates (limestone+soda ash),IPPU,2417.1,2284.9,2549.3
+2.C,Metals (lead + zinc),IPPU,70.7,66.8,74.6
+2.D,Non-energy products (lubricants+wax),IPPU,1259.1,1190.2,1328.0
+3.x,AFOLU (agriculture/forestry/land use),AFOLU,3511.7,3319.6,3703.8
+4.x,Waste (solid waste + wastewater),WASTE,5780.8,5464.6,6097.0
