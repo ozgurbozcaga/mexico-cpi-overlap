@@ -1,0 +1,6 @@
+municipality,sector,co2_kgyr,n_establishments,notes,co2_ktyr,above_25kt_threshold
+San Luis Potosi,Mixed industry,448644917,29,"Metalurgia #20: 2,071 Mt; Celulosa #3: 81.6 Mt; Cemento #14+#16: 67.8 Mt",448.644917,True
+Cerritos,Cemento y Cal,1075731636,1,Single large cement/cal facility,1075.731636,True
+Soledad de Graciano,Automotriz + Cemento,796210,2,Automotriz 151 kt + Cemento 645 kt,0.79621,False
+Tamazunchale,Generacion electrica,2514692617,1,Tamazunchale CC (NG-fired); largest single source in state,2514.692617,True
+Villa de Reyes,Generacion electrica,1383056174,1,Termoelectrica convencional (combustoleo); being converted to CC,1383.056174,True

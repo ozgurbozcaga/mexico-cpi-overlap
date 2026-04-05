@@ -1,0 +1,4 @@
+category,sector_group,ng_exempt_frac_central,ng_exempt_frac_low,ng_exempt_frac_high,ets_frac_central,ets_frac_low,ets_frac_high,derivation_ng,derivation_ets
+1A1,electricity_generation,0.4313761576528809,0.35,0.55,1.0,0.95,1.0,"422.6 PJ NG x 57,755 EF / 56.58 Mt total CO2; Tamazunchale (NG CC) + Villa de Reyes (combustoleo)","Tamazunchale ~2,515 kt/yr + Villa de Reyes ~1,383 kt/yr; both >> 25,000 tCO2e threshold"
+1A2,manufacturing,0.3525917926565875,0.28,0.42,0.5,0.35,0.65,GN=6.53 / (GN+GLP+diesel=18.52) = 35.3%; non-NG=64.7% highest of all states,"Diverse industry; some large plants but many SMEs. Metalurgia single facility 2,071 kt/yr >> threshold but others smaller"
+1A4,other_energy,0.25,0.15,0.35,0.0,0.0,0.0,GLP dominant; NG pipeline in SLP metro area; estimated 25% NG,"Distributed small commercial/residential sources; none above 25,000 tCO2e"
