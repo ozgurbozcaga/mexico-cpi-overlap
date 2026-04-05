@@ -1,0 +1,18 @@
+Category,Central (GgCO2e),Low (GgCO2e),High (GgCO2e),Share of state (%),Note
+-- INSTRUMENT TOTALS (gross) --,0.0,0.0,0.0,0.0,
+Yucatan state carbon tax (S),4760.0,4760.0,4760.0,45.7,All Kyoto gases; fixed productive sources; no threshold
+Federal IEPS carbon tax (F),3703.8,3860.4,3547.2,35.5,Combustion CO2; NG-exempt; all sectors incl. transport
+Mexico Pilot ETS (E),3349.6,2863.1,3680.9,32.1,Direct CO2; >=25k tCO2e/yr; non-binding pilot
+-- VENN SEGMENTS (8) --,0.0,0.0,0.0,0.0,
+S n F n E  (all three),305.2,263.0,290.6,2.9,
+"S n F only (state + federal, not ETS)",279.4,478.1,137.4,2.7,
+"S n E only (state + ETS, not federal)",3044.5,2600.1,3390.3,29.2,
+S only (state tax unique -- HFCs + fugitive),1131.0,1418.8,941.7,10.8,
+F only (federal -- transport),3119.3,3119.3,3119.3,29.9,
+F n E only (not applicable),0.0,0.0,0.0,0.0,
+"E only (ETS -- above-threshold, NG portion)",0.0,0.0,0.0,0.0,
+Not covered by any instrument,2546.3,2546.3,2546.3,24.4,
+-- KEY METRICS --,0.0,0.0,0.0,0.0,
+Net S-only (state tax unique coverage),1131.0,1418.8,941.7,10.8,HFCs (334 GgCO2e) + fugitive NG (90) + lubricants (20)
+Deduplicated union S u F u E,7879.3,7879.3,7879.2,75.6,All emissions covered by at least one instrument
+Total Yucatan state emissions,10425.5,10425.5,10425.5,100.0,Excl. 3B (land) and 3D (products de madera). AR5 GWPs.
