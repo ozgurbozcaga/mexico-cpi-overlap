@@ -1,0 +1,27 @@
+edgar_sector,description,central_KtCO2e,s_share,f_share,e_share,S∩F∩E,S∩E_only,S∩F_only,S_only,F∩E_only,F_only,E_only,Uncovered
+ENE,Power industry,378.8,1.0,0.4,0.4,151.5,0.0,0.0,227.3,0.0,0.0,0.0,0.0
+REF_TRF,Refining & transformation,168.2,1.0,0.6,0.2,42.0,0.0,58.9,67.3,0.0,0.0,0.0,0.0
+IND,Manufacturing & construction,101.8,1.0,0.8,0.5,50.9,0.0,35.6,15.3,0.0,0.0,0.0,0.0
+TNR_Aviation_LTO,Aviation (landing/takeoff),1.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,1.9,0.0,0.0
+TNR_Aviation_CDS,Aviation (climb/descent),21.2,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,21.2,0.0,0.0
+TNR_Aviation_CRS,Aviation (cruise),76.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,76.0,0.0,0.0
+TRO,Road transportation,2491.8,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,2491.8,0.0,0.0
+TNR_Other,Rail & other transport,61.9,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,61.9,0.0,0.0
+TNR_Ship,Shipping,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+RCO,Buildings (residential/commercial),620.9,0.5,0.8,0.0,0.0,0.0,310.4,0.0,0.0,217.3,0.0,93.1
+PRO_FFF,Fugitive emissions (coal/oil/gas),12.8,0.5,0.0,0.0,0.0,0.0,0.0,6.4,0.0,0.0,0.0,6.4
+NMM,Non-metallic minerals (cement/lime),0.1,1.0,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0
+CHE,Chemical industry,22.4,1.0,0.0,0.0,0.0,0.0,0.0,22.4,0.0,0.0,0.0,0.0
+IRO,Iron & steel production,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+NFE,Non-ferrous metals,1.2,1.0,0.0,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0
+NEU,Non-energy use of fuels,0.9,1.0,0.0,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0
+PRU_SOL,Solvents & HFCs/product use,175.7,0.4,0.0,0.0,0.0,0.0,0.0,70.3,0.0,0.0,0.0,105.4
+ENF,Enteric fermentation,1200.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1200.2
+MNM,Manure management,101.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,101.5
+AGS,Agricultural soils,1335.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1335.7
+AWB,Agricultural waste burning,28.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,28.0
+N2O,Indirect N2O from agriculture,189.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,189.9
+SWD_LDF,Solid waste disposal (landfills),3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7
+SWD_INC,Waste incineration,4.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.1
+WWT,Wastewater treatment,58.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,58.1
+IDE,Indirect NOx/NH3 emissions,88.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,88.4
