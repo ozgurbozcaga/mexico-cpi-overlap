@@ -1,0 +1,144 @@
+state,inventory_year,comparison_category,ipcc_code,inventory_KtCO2e,edgar_KtCO2e,ratio_edgar_over_inv,difference_KtCO2e,flag
+CDMX,2020,Electricity,1.A.1.a,356.48,1635.9,4.589,1279.42,edgar_high
+CDMX,2020,Refining/transformation,1.A.1.bc,0.0,1181.15,inf,1181.15,edgar_only
+CDMX,2020,Manufacturing,1.A.2,2745.55,1209.27,0.4404,-1536.28,edgar_low
+CDMX,2020,Transport,1.A.3,13793.57,2203.39,0.1597,-11590.19,edgar_low
+CDMX,2020,Buildings/other,1.A.4,2399.45,1667.97,0.6951,-731.48,aligned
+CDMX,2020,Fugitive,1.B,0.06,17.11,269.8407,17.04,edgar_high
+CDMX,2020,IPPU minerals,2.A,0.0,1498.64,inf,1498.64,edgar_only
+CDMX,2020,IPPU chemicals,2.B,0.0,144.0,inf,144.0,edgar_only
+CDMX,2020,IPPU metals,2.C,0.0,7.15,inf,7.15,edgar_only
+CDMX,2020,IPPU products,2.D-2.G,0.75,930.66,1245.0524,929.92,edgar_high
+CDMX,2020,Livestock,3.A,23.48,21.34,0.9089,-2.14,aligned
+CDMX,2020,Cropland/soils,3.C,6.43,48.13,7.49,41.7,edgar_high
+CDMX,2020,Waste,4,529.01,463.47,0.8761,-65.54,aligned
+Colima,2015,Electricity,1.A.1.a,7137.0,5.02,0.0007,-7131.98,edgar_low
+Colima,2015,Refining/transformation,1.A.1.bc,0.0,192.02,inf,192.02,edgar_only
+Colima,2015,Manufacturing,1.A.2,1949.5,757.36,0.3885,-1192.14,edgar_low
+Colima,2015,Transport,1.A.3,5731.5,740.46,0.1292,-4991.04,edgar_low
+Colima,2015,Buildings/other,1.A.4,252.8,199.13,0.7877,-53.67,aligned
+Colima,2015,Fugitive,1.B,0.0,3.54,inf,3.54,edgar_only
+Colima,2015,IPPU minerals,2.A,429.9,2340.24,5.4437,1910.34,edgar_high
+Colima,2015,IPPU chemicals,2.B,0.0,57.87,inf,57.87,edgar_only
+Colima,2015,IPPU metals,2.C,136.6,1.2,0.0088,-135.4,edgar_low
+Colima,2015,IPPU products,2.D-2.G,157.2,198.04,1.2598,40.84,aligned
+Colima,2015,Livestock,3.A,272.47,173.37,0.6363,-99.1,aligned
+Colima,2015,Cropland/soils,3.C,283.67,134.36,0.4736,-149.31,edgar_low
+Colima,2015,Waste,4,464.1,75.13,0.1619,-388.97,edgar_low
+Durango,2022,Electricity,1.A.1.a,3316.22,2352.69,0.7094,-963.53,aligned
+Durango,2022,Refining/transformation,1.A.1.bc,0.0,291.37,inf,291.37,edgar_only
+Durango,2022,Manufacturing,1.A.2,882.73,188.44,0.2135,-694.29,edgar_low
+Durango,2022,Transport,1.A.3,2893.0,4904.95,1.6955,2011.95,aligned
+Durango,2022,Buildings/other,1.A.4,154.25,614.31,3.9826,460.06,edgar_high
+Durango,2022,Fugitive,1.B,102.77,40.8,0.397,-61.97,edgar_low
+Durango,2022,IPPU minerals,2.A,0.0,0.11,inf,0.11,edgar_only
+Durango,2022,IPPU chemicals,2.B,0.0,46.47,inf,46.47,edgar_only
+Durango,2022,IPPU metals,2.C,49.49,2.08,0.042,-47.41,edgar_low
+Durango,2022,IPPU products,2.D-2.G,67.35,282.8,4.199,215.45,edgar_high
+Durango,2022,Livestock,3.A,3542.84,20490.06,5.7835,16947.22,edgar_high
+Durango,2022,Cropland/soils,3.C,1335.98,1435.53,1.0745,99.55,aligned
+Durango,2022,Waste,4,808.34,21707.26,26.8541,20898.92,edgar_high
+Estado de México,2019,Electricity,1.A.1.a,5606.9,5585.18,0.9961,-21.72,aligned
+Estado de México,2019,Refining/transformation,1.A.1.bc,0.0,2724.21,inf,2724.21,edgar_only
+Estado de México,2019,Manufacturing,1.A.2,6111.1,2265.54,0.3707,-3845.56,edgar_low
+Estado de México,2019,Transport,1.A.3,7309.8,7195.15,0.9843,-114.65,aligned
+Estado de México,2019,Buildings/other,1.A.4,3425.1,4129.37,1.2056,704.27,aligned
+Estado de México,2019,Fugitive,1.B,0.0,51.29,inf,51.29,edgar_only
+Estado de México,2019,IPPU minerals,2.A,3309.8,1614.31,0.4877,-1695.49,edgar_low
+Estado de México,2019,IPPU chemicals,2.B,0.0,387.3,inf,387.3,edgar_only
+Estado de México,2019,IPPU metals,2.C,70.7,38.07,0.5385,-32.63,aligned
+Estado de México,2019,IPPU products,2.D-2.G,1259.1,2635.43,2.0931,1376.33,edgar_high
+Estado de México,2019,Livestock,3.A,1755.85,1045.2,0.5953,-710.65,aligned
+Estado de México,2019,Cropland/soils,3.C,1755.85,1033.13,0.5884,-722.72,aligned
+Estado de México,2019,Waste,4,5780.8,1388.93,0.2403,-4391.87,edgar_low
+Guanajuato,2013,Electricity,1.A.1.a,4431.0,4182.69,0.944,-248.31,aligned
+Guanajuato,2013,Refining/transformation,1.A.1.bc,0.0,5104.27,inf,5104.27,edgar_only
+Guanajuato,2013,Manufacturing,1.A.2,1977.9,5359.13,2.7095,3381.23,edgar_high
+Guanajuato,2013,Transport,1.A.3,7209.8,5489.27,0.7614,-1720.53,aligned
+Guanajuato,2013,Buildings/other,1.A.4,1171.2,1805.73,1.5418,634.53,aligned
+Guanajuato,2013,Fugitive,1.B,4.8,69.54,14.4879,64.74,edgar_high
+Guanajuato,2013,IPPU minerals,2.A,0.0,0.28,inf,0.28,edgar_only
+Guanajuato,2013,IPPU chemicals,2.B,208.4,729.59,3.5009,521.19,edgar_high
+Guanajuato,2013,IPPU metals,2.C,0.0,87.75,inf,87.75,edgar_only
+Guanajuato,2013,IPPU products,2.D-2.G,306.8,584.16,1.904,277.36,aligned
+Guanajuato,2013,Livestock,3.A,2340.6,1277.31,0.5457,-1063.29,aligned
+Guanajuato,2013,Cropland/soils,3.C,1834.4,1321.43,0.7204,-512.97,aligned
+Guanajuato,2013,Waste,4,1433.9,1034.62,0.7215,-399.28,aligned
+Morelos,2014,Electricity,1.A.1.a,0.0,12.96,inf,12.96,edgar_only
+Morelos,2014,Refining/transformation,1.A.1.bc,0.0,219.3,inf,219.3,edgar_only
+Morelos,2014,Manufacturing,1.A.2,534.19,756.21,1.4156,222.02,aligned
+Morelos,2014,Transport,1.A.3,2665.14,1623.62,0.6092,-1041.52,aligned
+Morelos,2014,Buildings/other,1.A.4,827.95,542.34,0.655,-285.62,aligned
+Morelos,2014,Fugitive,1.B,0.0,6.81,inf,6.81,edgar_only
+Morelos,2014,IPPU minerals,2.A,1008.43,721.84,0.7158,-286.58,aligned
+Morelos,2014,IPPU chemicals,2.B,0.0,16.65,inf,16.65,edgar_only
+Morelos,2014,IPPU metals,2.C,0.0,1.94,inf,1.94,edgar_only
+Morelos,2014,IPPU products,2.D-2.G,0.0,123.26,inf,123.26,edgar_only
+Morelos,2014,Livestock,3.A,214.58,212.47,0.9902,-2.11,aligned
+Morelos,2014,Cropland/soils,3.C,350.1,210.66,0.6017,-139.44,aligned
+Morelos,2014,Waste,4,102.95,927.45,9.009,824.5,edgar_high
+Querétaro,2021,Electricity,1.A.1.a,1895.94,1086.5,0.5731,-809.44,aligned
+Querétaro,2021,Refining/transformation,1.A.1.bc,0.0,697.69,inf,697.69,edgar_only
+Querétaro,2021,Manufacturing,1.A.2,2182.47,463.86,0.2125,-1718.61,edgar_low
+Querétaro,2021,Transport,1.A.3,2503.49,1478.34,0.5905,-1025.15,aligned
+Querétaro,2021,Buildings/other,1.A.4,585.06,609.53,1.0418,24.47,aligned
+Querétaro,2021,Fugitive,1.B,0.0,13.81,inf,13.81,edgar_only
+Querétaro,2021,IPPU minerals,2.A,163.73,0.29,0.0017,-163.44,edgar_low
+Querétaro,2021,IPPU chemicals,2.B,0.0,104.3,inf,104.3,edgar_only
+Querétaro,2021,IPPU metals,2.C,0.28,4.29,15.3132,4.01,edgar_high
+Querétaro,2021,IPPU products,2.D-2.G,70.48,677.48,9.6124,607.0,edgar_high
+Querétaro,2021,Livestock,3.A,1260.55,3414.44,2.7087,2153.89,edgar_high
+Querétaro,2021,Cropland/soils,3.C,1189.21,332.84,0.2799,-856.37,edgar_low
+Querétaro,2021,Waste,4,738.49,493.61,0.6684,-244.88,aligned
+San Luis Potosí,2014,Electricity,1.A.1.a,7080.35,5867.15,0.8287,-1213.2,aligned
+San Luis Potosí,2014,Refining/transformation,1.A.1.bc,0.0,782.44,inf,782.44,edgar_only
+San Luis Potosí,2014,Manufacturing,1.A.2,2319.35,3862.55,1.6654,1543.2,aligned
+San Luis Potosí,2014,Transport,1.A.3,3733.85,4278.13,1.1458,544.28,aligned
+San Luis Potosí,2014,Buildings/other,1.A.4,2702.11,904.76,0.3348,-1797.36,edgar_low
+San Luis Potosí,2014,Fugitive,1.B,0.0,21.49,inf,21.49,edgar_only
+San Luis Potosí,2014,IPPU minerals,2.A,2763.76,4923.5,1.7815,2159.75,aligned
+San Luis Potosí,2014,IPPU chemicals,2.B,22.5,59.4,2.6398,36.9,edgar_high
+San Luis Potosí,2014,IPPU metals,2.C,429.56,66.94,0.1558,-362.62,edgar_low
+San Luis Potosí,2014,IPPU products,2.D-2.G,287.61,426.93,1.4844,139.32,aligned
+San Luis Potosí,2014,Livestock,3.A,1008.51,3402.89,3.3742,2394.37,edgar_high
+San Luis Potosí,2014,Cropland/soils,3.C,1554.25,1040.69,0.6696,-513.56,aligned
+San Luis Potosí,2014,Waste,4,1428.87,230.8,0.1615,-1198.07,edgar_low
+Tamaulipas,2013,Electricity,1.A.1.a,13908.36,12325.35,0.8862,-1583.0,aligned
+Tamaulipas,2013,Refining/transformation,1.A.1.bc,2951.66,4075.51,1.3808,1123.85,aligned
+Tamaulipas,2013,Manufacturing,1.A.2,1977.66,1041.52,0.5266,-936.13,aligned
+Tamaulipas,2013,Transport,1.A.3,7468.78,5898.69,0.7898,-1570.1,aligned
+Tamaulipas,2013,Buildings/other,1.A.4,938.36,1120.43,1.194,182.06,aligned
+Tamaulipas,2013,Fugitive,1.B,4589.13,451.05,0.0983,-4138.09,edgar_low
+Tamaulipas,2013,IPPU minerals,2.A,50.14,1.21,0.0241,-48.93,edgar_low
+Tamaulipas,2013,IPPU chemicals,2.B,392.26,85.97,0.2192,-306.29,edgar_low
+Tamaulipas,2013,IPPU metals,2.C,0.0,8.08,inf,8.08,edgar_only
+Tamaulipas,2013,IPPU products,2.D-2.G,0.0,526.46,inf,526.46,edgar_only
+Tamaulipas,2013,Livestock,3.A,2388.69,1050.06,0.4396,-1338.63,edgar_low
+Tamaulipas,2013,Cropland/soils,3.C,1094.35,1793.96,1.6393,699.61,aligned
+Tamaulipas,2013,Waste,4,933.08,10301.12,11.0399,9368.04,edgar_high
+Yucatán,2023,Electricity,1.A.1.a,2971.0,3279.16,1.1037,308.16,aligned
+Yucatán,2023,Refining/transformation,1.A.1.bc,12.79,398.37,31.1473,385.58,edgar_high
+Yucatán,2023,Manufacturing,1.A.2,862.0,704.39,0.8172,-157.61,aligned
+Yucatán,2023,Transport,1.A.3,3119.28,4223.46,1.354,1104.18,aligned
+Yucatán,2023,Buildings/other,1.A.4,361.79,532.83,1.4728,171.04,aligned
+Yucatán,2023,Fugitive,1.B,89.95,66.09,0.7348,-23.86,aligned
+Yucatán,2023,IPPU minerals,2.A,325.41,1779.78,5.4693,1454.37,edgar_high
+Yucatán,2023,IPPU chemicals,2.B,0.0,53.22,inf,53.22,edgar_only
+Yucatán,2023,IPPU metals,2.C,3.32,2.4,0.7227,-0.92,aligned
+Yucatán,2023,IPPU products,2.D-2.G,353.84,393.04,1.1108,39.2,aligned
+Yucatán,2023,Livestock,3.A,1028.02,526.69,0.5123,-501.33,aligned
+Yucatán,2023,Cropland/soils,3.C,515.4,367.77,0.7136,-147.63,aligned
+Yucatán,2023,Waste,4,782.7,154.53,0.1974,-628.17,edgar_low
+Zacatecas,2024,Electricity,1.A.1.a,378.8,378.77,0.9999,-0.03,aligned
+Zacatecas,2024,Refining/transformation,1.A.1.bc,168.2,168.18,0.9999,-0.02,aligned
+Zacatecas,2024,Manufacturing,1.A.2,101.8,101.77,0.9997,-0.03,aligned
+Zacatecas,2024,Transport,1.A.3,2652.8,2652.84,1.0,0.04,aligned
+Zacatecas,2024,Buildings/other,1.A.4,620.9,620.87,0.9999,-0.03,aligned
+Zacatecas,2024,Fugitive,1.B,12.8,12.82,1.0014,0.02,aligned
+Zacatecas,2024,IPPU minerals,2.A,200.2,0.06,0.0003,-200.14,edgar_low
+Zacatecas,2024,IPPU chemicals,2.B,0.0,22.39,inf,22.39,edgar_only
+Zacatecas,2024,IPPU metals,2.C,0.0,1.18,inf,1.18,edgar_only
+Zacatecas,2024,IPPU products,2.D-2.G,0.0,176.61,inf,176.61,edgar_only
+Zacatecas,2024,Livestock,3.A,2855.3,1301.7,0.4559,-1553.6,edgar_low
+Zacatecas,2024,Cropland/soils,3.C,0.0,1553.6,inf,1553.6,edgar_only
+Zacatecas,2024,Waste,4,65.9,65.87,0.9995,-0.03,aligned

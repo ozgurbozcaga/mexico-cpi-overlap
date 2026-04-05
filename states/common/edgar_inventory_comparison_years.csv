@@ -1,0 +1,183 @@
+state,gadm_name,edgar_sector,ipcc_2006,year,KtCO2e
+Querétaro,Querétaro,AGS,3.C,2021,284.0394
+Querétaro,Querétaro,AWB,3.C.1b,2021,11.8861
+Querétaro,Querétaro,CHE,2.B,2021,104.2982
+Querétaro,Querétaro,ENE,1.A.1.a,2021,1086.5014
+Querétaro,Querétaro,ENF,3.A.1,2021,2917.3837
+Querétaro,Querétaro,IDE,5.A,2021,14.6914
+Querétaro,Querétaro,IND,1.A.2,2021,463.8553
+Querétaro,Querétaro,IRO,2.C,2021,0.0
+Querétaro,Querétaro,MNM,3.A.2,2021,497.0524
+Querétaro,Querétaro,N2O,3.C.5-6,2021,36.9116
+Querétaro,Querétaro,NEU,2.D,2021,4.565
+Querétaro,Querétaro,NFE,2.C,2021,4.2877
+Querétaro,Querétaro,NMM,2.A,2021,0.2857
+Querétaro,Querétaro,PRO_FFF,1.B,2021,13.8053
+Querétaro,Querétaro,PRU_SOL,2.D-2G,2021,672.9191
+Querétaro,Querétaro,RCO,1.A.4,2021,609.5269
+Querétaro,Querétaro,REF_TRF,1.A.1.bc,2021,697.6864
+Querétaro,Querétaro,SWD_INC,4.C,2021,17.848
+Querétaro,Querétaro,SWD_LDF,4.A,2021,218.4676
+Querétaro,Querétaro,TNR_Aviation_CDS,1.A.3.a,2021,5.3894
+Querétaro,Querétaro,TNR_Aviation_CRS,1.A.3.a,2021,8.5057
+Querétaro,Querétaro,TNR_Aviation_LTO,1.A.3.a,2021,3.0295
+Querétaro,Querétaro,TNR_Other,1.A.3.ce,2021,15.4309
+Querétaro,Querétaro,TNR_Ship,1.A.3.d,2021,0.0
+Querétaro,Querétaro,TRO,1.A.3.b,2021,1445.986
+Querétaro,Querétaro,WWT,4.D,2021,257.2979
+CDMX,Distrito Federal,AGS,3.C,2020,44.3792
+CDMX,Distrito Federal,AWB,3.C.1b,2020,0.2137
+CDMX,Distrito Federal,CHE,2.B,2020,143.9976
+CDMX,Distrito Federal,ENE,1.A.1.a,2020,1635.9
+CDMX,Distrito Federal,ENF,3.A.1,2020,18.5378
+CDMX,Distrito Federal,IDE,5.A,2020,1.8615
+CDMX,Distrito Federal,IND,1.A.2,2020,1209.2725
+CDMX,Distrito Federal,IRO,2.C,2020,0.0
+CDMX,Distrito Federal,MNM,3.A.2,2020,2.8057
+CDMX,Distrito Federal,N2O,3.C.5-6,2020,3.5377
+CDMX,Distrito Federal,NEU,2.D,2020,6.16
+CDMX,Distrito Federal,NFE,2.C,2020,7.1518
+CDMX,Distrito Federal,NMM,2.A,2020,1498.6382
+CDMX,Distrito Federal,PRO_FFF,1.B,2020,17.1079
+CDMX,Distrito Federal,PRU_SOL,2.D-2G,2020,924.5042
+CDMX,Distrito Federal,RCO,1.A.4,2020,1667.9724
+CDMX,Distrito Federal,REF_TRF,1.A.1.bc,2020,1181.1486
+CDMX,Distrito Federal,SWD_INC,4.C,2020,25.1739
+CDMX,Distrito Federal,SWD_LDF,4.A,2020,75.9915
+CDMX,Distrito Federal,TNR_Aviation_CDS,1.A.3.a,2020,15.2547
+CDMX,Distrito Federal,TNR_Aviation_CRS,1.A.3.a,2020,0.0583
+CDMX,Distrito Federal,TNR_Aviation_LTO,1.A.3.a,2020,0.0
+CDMX,Distrito Federal,TNR_Other,1.A.3.ce,2020,5.5634
+CDMX,Distrito Federal,TNR_Ship,1.A.3.d,2020,0.0
+CDMX,Distrito Federal,TRO,1.A.3.b,2020,2182.512
+CDMX,Distrito Federal,WWT,4.D,2020,362.3039
+Durango,Durango,AGS,3.C,2022,1198.4576
+Durango,Durango,AWB,3.C.1b,2022,17.6153
+Durango,Durango,CHE,2.B,2022,46.4703
+Durango,Durango,ENE,1.A.1.a,2022,2352.689
+Durango,Durango,ENF,3.A.1,2022,17999.982
+Durango,Durango,IDE,5.A,2022,115.3471
+Durango,Durango,IND,1.A.2,2022,188.4403
+Durango,Durango,IRO,2.C,2022,0.0
+Durango,Durango,MNM,3.A.2,2022,2490.081
+Durango,Durango,N2O,3.C.5-6,2022,219.4544
+Durango,Durango,NEU,2.D,2022,1.4593
+Durango,Durango,NFE,2.C,2022,2.0792
+Durango,Durango,NMM,2.A,2022,0.1077
+Durango,Durango,PRO_FFF,1.B,2022,40.7998
+Durango,Durango,PRU_SOL,2.D-2G,2022,281.34
+Durango,Durango,RCO,1.A.4,2022,614.3136
+Durango,Durango,REF_TRF,1.A.1.bc,2022,291.3744
+Durango,Durango,SWD_INC,4.C,2022,7.0972
+Durango,Durango,SWD_LDF,4.A,2022,21597.852
+Durango,Durango,TNR_Aviation_CDS,1.A.3.a,2022,14.1681
+Durango,Durango,TNR_Aviation_CRS,1.A.3.a,2022,110.7014
+Durango,Durango,TNR_Aviation_LTO,1.A.3.a,2022,2.9431
+Durango,Durango,TNR_Other,1.A.3.ce,2022,63.8738
+Durango,Durango,TNR_Ship,1.A.3.d,2022,0.0
+Durango,Durango,TRO,1.A.3.b,2022,4713.2615
+Durango,Durango,WWT,4.D,2022,102.3104
+Morelos,Morelos,AGS,3.C,2014,181.4207
+Morelos,Morelos,AWB,3.C.1b,2014,12.9849
+Morelos,Morelos,CHE,2.B,2014,16.6471
+Morelos,Morelos,ENE,1.A.1.a,2014,12.9626
+Morelos,Morelos,ENF,3.A.1,2014,173.192
+Morelos,Morelos,IDE,5.A,2014,8.4603
+Morelos,Morelos,IND,1.A.2,2014,756.2067
+Morelos,Morelos,IRO,2.C,2014,0.0
+Morelos,Morelos,MNM,3.A.2,2014,39.2795
+Morelos,Morelos,N2O,3.C.5-6,2014,16.2516
+Morelos,Morelos,NEU,2.D,2014,1.1969
+Morelos,Morelos,NFE,2.C,2014,1.9407
+Morelos,Morelos,NMM,2.A,2014,721.8441
+Morelos,Morelos,PRO_FFF,1.B,2014,6.8071
+Morelos,Morelos,PRU_SOL,2.D-2G,2014,122.068
+Morelos,Morelos,RCO,1.A.4,2014,542.3357
+Morelos,Morelos,REF_TRF,1.A.1.bc,2014,219.3007
+Morelos,Morelos,SWD_INC,4.C,2014,3.9748
+Morelos,Morelos,SWD_LDF,4.A,2014,866.7248
+Morelos,Morelos,TNR_Aviation_CDS,1.A.3.a,2014,5.3735
+Morelos,Morelos,TNR_Aviation_CRS,1.A.3.a,2014,1.4473
+Morelos,Morelos,TNR_Aviation_LTO,1.A.3.a,2014,0.0094
+Morelos,Morelos,TNR_Other,1.A.3.ce,2014,17.6393
+Morelos,Morelos,TNR_Ship,1.A.3.d,2014,0.0
+Morelos,Morelos,TRO,1.A.3.b,2014,1599.151
+Morelos,Morelos,WWT,4.D,2014,56.7507
+Guanajuato,Guanajuato,AGS,3.C,2013,1159.4929
+Guanajuato,Guanajuato,AWB,3.C.1b,2013,50.46
+Guanajuato,Guanajuato,CHE,2.B,2013,729.5883
+Guanajuato,Guanajuato,ENE,1.A.1.a,2013,4182.6945
+Guanajuato,Guanajuato,ENF,3.A.1,2013,1070.0514
+Guanajuato,Guanajuato,IDE,5.A,2013,57.0182
+Guanajuato,Guanajuato,IND,1.A.2,2013,5359.13
+Guanajuato,Guanajuato,IRO,2.C,2013,77.3262
+Guanajuato,Guanajuato,MNM,3.A.2,2013,207.259
+Guanajuato,Guanajuato,N2O,3.C.5-6,2013,111.4749
+Guanajuato,Guanajuato,NEU,2.D,2013,6.5175
+Guanajuato,Guanajuato,NFE,2.C,2013,10.4262
+Guanajuato,Guanajuato,NMM,2.A,2013,0.2753
+Guanajuato,Guanajuato,PRO_FFF,1.B,2013,69.5417
+Guanajuato,Guanajuato,PRU_SOL,2.D-2G,2013,577.6409
+Guanajuato,Guanajuato,RCO,1.A.4,2013,1805.7259
+Guanajuato,Guanajuato,REF_TRF,1.A.1.bc,2013,5104.267
+Guanajuato,Guanajuato,SWD_INC,4.C,2013,21.1972
+Guanajuato,Guanajuato,SWD_LDF,4.A,2013,706.4384
+Guanajuato,Guanajuato,TNR_Aviation_CDS,1.A.3.a,2013,43.5723
+Guanajuato,Guanajuato,TNR_Aviation_CRS,1.A.3.a,2013,17.3145
+Guanajuato,Guanajuato,TNR_Aviation_LTO,1.A.3.a,2013,12.1803
+Guanajuato,Guanajuato,TNR_Other,1.A.3.ce,2013,93.4539
+Guanajuato,Guanajuato,TNR_Ship,1.A.3.d,2013,0.0
+Guanajuato,Guanajuato,TRO,1.A.3.b,2013,5322.7465
+Guanajuato,Guanajuato,WWT,4.D,2013,306.9886
+Tamaulipas,Tamaulipas,AGS,3.C,2013,1461.0988
+Tamaulipas,Tamaulipas,AWB,3.C.1b,2013,119.6005
+Tamaulipas,Tamaulipas,CHE,2.B,2013,85.969
+Tamaulipas,Tamaulipas,ENE,1.A.1.a,2013,12325.355
+Tamaulipas,Tamaulipas,ENF,3.A.1,2013,1008.9317
+Tamaulipas,Tamaulipas,IDE,5.A,2013,131.1105
+Tamaulipas,Tamaulipas,IND,1.A.2,2013,1041.5215
+Tamaulipas,Tamaulipas,IRO,2.C,2013,0.0
+Tamaulipas,Tamaulipas,MNM,3.A.2,2013,41.1279
+Tamaulipas,Tamaulipas,N2O,3.C.5-6,2013,213.2614
+Tamaulipas,Tamaulipas,NEU,2.D,2013,6.9057
+Tamaulipas,Tamaulipas,NFE,2.C,2013,8.0842
+Tamaulipas,Tamaulipas,NMM,2.A,2013,1.2107
+Tamaulipas,Tamaulipas,PRO_FFF,1.B,2013,451.0477
+Tamaulipas,Tamaulipas,PRU_SOL,2.D-2G,2013,519.5525
+Tamaulipas,Tamaulipas,RCO,1.A.4,2013,1120.4265
+Tamaulipas,Tamaulipas,REF_TRF,1.A.1.bc,2013,4075.5078
+Tamaulipas,Tamaulipas,SWD_INC,4.C,2013,15.705
+Tamaulipas,Tamaulipas,SWD_LDF,4.A,2013,10043.23
+Tamaulipas,Tamaulipas,TNR_Aviation_CDS,1.A.3.a,2013,6.4102
+Tamaulipas,Tamaulipas,TNR_Aviation_CRS,1.A.3.a,2013,50.597
+Tamaulipas,Tamaulipas,TNR_Aviation_LTO,1.A.3.a,2013,9.2234
+Tamaulipas,Tamaulipas,TNR_Other,1.A.3.ce,2013,90.5582
+Tamaulipas,Tamaulipas,TNR_Ship,1.A.3.d,2013,449.3394
+Tamaulipas,Tamaulipas,TRO,1.A.3.b,2013,5292.56
+Tamaulipas,Tamaulipas,WWT,4.D,2013,242.1874
+San Luis Potosí,San Luis Potosí,AGS,3.C,2014,849.6949
+San Luis Potosí,San Luis Potosí,AWB,3.C.1b,2014,52.314
+San Luis Potosí,San Luis Potosí,CHE,2.B,2014,59.3951
+San Luis Potosí,San Luis Potosí,ENE,1.A.1.a,2014,5867.151
+San Luis Potosí,San Luis Potosí,ENF,3.A.1,2014,3052.3133
+San Luis Potosí,San Luis Potosí,IDE,5.A,2014,88.7947
+San Luis Potosí,San Luis Potosí,IND,1.A.2,2014,3862.5485
+San Luis Potosí,San Luis Potosí,IRO,2.C,2014,59.8971
+San Luis Potosí,San Luis Potosí,MNM,3.A.2,2014,350.5722
+San Luis Potosí,San Luis Potosí,N2O,3.C.5-6,2014,138.6852
+San Luis Potosí,San Luis Potosí,NEU,2.D,2014,4.2705
+San Luis Potosí,San Luis Potosí,NFE,2.C,2014,7.0394
+San Luis Potosí,San Luis Potosí,NMM,2.A,2014,4923.502
+San Luis Potosí,San Luis Potosí,PRO_FFF,1.B,2014,21.4861
+San Luis Potosí,San Luis Potosí,PRU_SOL,2.D-2G,2014,422.6613
+San Luis Potosí,San Luis Potosí,RCO,1.A.4,2014,904.7591
+San Luis Potosí,San Luis Potosí,REF_TRF,1.A.1.bc,2014,782.4414
+San Luis Potosí,San Luis Potosí,SWD_INC,4.C,2014,14.1817
+San Luis Potosí,San Luis Potosí,SWD_LDF,4.A,2014,14.1402
+San Luis Potosí,San Luis Potosí,TNR_Aviation_CDS,1.A.3.a,2014,14.7056
+San Luis Potosí,San Luis Potosí,TNR_Aviation_CRS,1.A.3.a,2014,57.7455
+San Luis Potosí,San Luis Potosí,TNR_Aviation_LTO,1.A.3.a,2014,4.7119
+San Luis Potosí,San Luis Potosí,TNR_Other,1.A.3.ce,2014,103.4377
+San Luis Potosí,San Luis Potosí,TNR_Ship,1.A.3.d,2014,0.0
+San Luis Potosí,San Luis Potosí,TRO,1.A.3.b,2014,4097.5255
+San Luis Potosí,San Luis Potosí,WWT,4.D,2014,202.4805

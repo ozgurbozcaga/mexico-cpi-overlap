@@ -1,0 +1,13 @@
+unique_id,cpi_name,state,start_year,latest_year,latest_total_KtCO2e,latest_gross_S_KtCO2e,latest_gross_S_pct,latest_dedup_KtCO2e,latest_dedup_pct,data_source
+Tax_MX_ZA,Zacatecas carbon tax,Zacatecas,2017,2024,7056.66,1060.39,15.03,3930.53,55.7,edgar_direct
+Tax_MX_BC,Baja California carbon tax,Baja California,2020,2021,19833.87,4916.6,24.79,10789.83,54.4,edgar_direct
+Tax_MX_Queretaro,Querétaro carbon tax,Querétaro,2022,2024,11647.24,4867.36,41.79,8245.78,70.8,inventory_anchored
+Tax_MX_SoMexico,Estado de México carbon tax,Estado de México,2022,2024,37135.09,18211.31,49.04,27489.98,74.03,inventory_anchored
+Tax_MX_TA,Tamaulipas carbon tax,Tamaulipas,2022,2024,31632.89,18785.54,59.39,25963.39,82.08,inventory_anchored
+Tax_MX_Yucatan,Yucatán carbon tax,Yucatán,2022,2024,11118.26,5423.09,48.78,8569.16,77.07,inventory_anchored
+Tax_MX_Guanajuato,Guanajuato carbon tax,Guanajuato,2023,2024,22032.67,7812.42,35.46,14913.75,67.69,inventory_anchored
+Tax_MX_Durango,Durango carbon tax,Durango,2024,2024,14630.46,6046.34,41.33,8914.85,60.93,inventory_anchored
+Tax_MX_Colima,Colima carbon tax,Colima,2025,2024,4877.74,946.21,19.4,1864.12,38.22,edgar_direct
+Tax_MX_MC,CDMX carbon tax,CDMX,2025,2024,19888.39,3524.73,17.72,17120.18,86.08,inventory_static
+Tax_MX_MO,Morelos carbon tax,Morelos,2025,2024,6321.75,3277.65,51.85,5546.86,87.74,inventory_anchored
+Tax_MX_SLP,San Luis Potosí carbon tax,San Luis Potosí,2025,2024,27935.13,17792.68,63.69,22081.85,79.05,inventory_anchored

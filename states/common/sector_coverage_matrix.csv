@@ -1,0 +1,12 @@
+state,Electricity,Refining/transformation,Manufacturing,Transport,Buildings/other,Fugitive,IPPU minerals,IPPU chemicals,IPPU metals,IPPU products,Livestock,Cropland/soils,Waste
+CDMX,Y,-,Y,Y,Y,Y,-,-,-,Y,Y,Y,Y
+Colima,Y,-,Y,Y,Y,-,Y,-,Y,Y,Y,Y,Y
+Durango,Y,-,Y,Y,Y,Y,-,-,Y,Y,Y,Y,Y
+Estado de México,Y,-,Y,Y,Y,-,Y,-,Y,Y,Y,Y,Y
+Guanajuato,Y,-,Y,Y,Y,Y,-,Y,-,Y,Y,Y,Y
+Morelos,-,-,Y,Y,Y,-,Y,-,-,-,Y,Y,Y
+Querétaro,Y,-,Y,Y,Y,-,Y,-,Y,Y,Y,Y,Y
+San Luis Potosí,Y,-,Y,Y,Y,-,Y,Y,Y,Y,Y,Y,Y
+Tamaulipas,Y,Y,Y,Y,Y,Y,Y,Y,-,-,Y,Y,Y
+Yucatán,Y,Y,Y,Y,Y,Y,Y,-,Y,Y,Y,Y,Y
+Zacatecas,Y,Y,Y,Y,Y,Y,Y,-,-,-,Y,-,Y

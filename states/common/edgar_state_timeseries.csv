@@ -1,0 +1,755 @@
+state,gadm_name,edgar_sector,ipcc_2006,year,KtCO2e
+Baja California,Baja California,AGS,3.C,2020,170.9875
+Baja California,Baja California,AWB,3.C.1b,2020,3.3565
+Baja California,Baja California,CHE,2.B,2020,91.9802
+Baja California,Baja California,ENE,1.A.1.a,2020,4848.234
+Baja California,Baja California,ENF,3.A.1,2020,5458.2655
+Baja California,Baja California,IDE,5.A,2020,34.5209
+Baja California,Baja California,IND,1.A.2,2020,832.5946
+Baja California,Baja California,IRO,2.C,2020,0.0
+Baja California,Baja California,MNM,3.A.2,2020,731.0506
+Baja California,Baja California,N2O,3.C.5-6,2020,62.9287
+Baja California,Baja California,NEU,2.D,2020,4.0227
+Baja California,Baja California,NFE,2.C,2020,4.4671
+Baja California,Baja California,NMM,2.A,2020,1228.6572
+Baja California,Baja California,PRO_FFF,1.B,2020,40.3338
+Baja California,Baja California,PRU_SOL,2.D-2G,2020,579.398
+Baja California,Baja California,RCO,1.A.4,2020,833.3217
+Baja California,Baja California,REF_TRF,1.A.1.bc,2020,735.9366
+Baja California,Baja California,SWD_INC,4.C,2020,15.5261
+Baja California,Baja California,SWD_LDF,4.A,2020,15.3689
+Baja California,Baja California,TNR_Aviation_CDS,1.A.3.a,2020,6.7517
+Baja California,Baja California,TNR_Aviation_CRS,1.A.3.a,2020,62.308
+Baja California,Baja California,TNR_Aviation_LTO,1.A.3.a,2020,0.0402
+Baja California,Baja California,TNR_Other,1.A.3.ce,2020,9.7805
+Baja California,Baja California,TNR_Ship,1.A.3.d,2020,155.4995
+Baja California,Baja California,TRO,1.A.3.b,2020,3889.3877
+Baja California,Baja California,WWT,4.D,2020,225.5202
+Baja California,Baja California,AGS,3.C,2021,172.0058
+Baja California,Baja California,AWB,3.C.1b,2021,3.6268
+Baja California,Baja California,CHE,2.B,2021,95.2801
+Baja California,Baja California,ENE,1.A.1.a,2021,6299.94
+Baja California,Baja California,ENF,3.A.1,2021,4124.322
+Baja California,Baja California,IDE,5.A,2021,32.3653
+Baja California,Baja California,IND,1.A.2,2021,733.1541
+Baja California,Baja California,IRO,2.C,2021,0.0
+Baja California,Baja California,MNM,3.A.2,2021,552.2452
+Baja California,Baja California,N2O,3.C.5-6,2021,62.1973
+Baja California,Baja California,NEU,2.D,2021,4.2616
+Baja California,Baja California,NFE,2.C,2021,3.8202
+Baja California,Baja California,NMM,2.A,2021,1332.0557
+Baja California,Baja California,PRO_FFF,1.B,2021,40.026
+Baja California,Baja California,PRU_SOL,2.D-2G,2021,610.105
+Baja California,Baja California,RCO,1.A.4,2021,843.3771
+Baja California,Baja California,REF_TRF,1.A.1.bc,2021,623.8655
+Baja California,Baja California,SWD_INC,4.C,2021,15.7572
+Baja California,Baja California,SWD_LDF,4.A,2021,15.3766
+Baja California,Baja California,TNR_Aviation_CDS,1.A.3.a,2021,7.4345
+Baja California,Baja California,TNR_Aviation_CRS,1.A.3.a,2021,70.8879
+Baja California,Baja California,TNR_Aviation_LTO,1.A.3.a,2021,0.0436
+Baja California,Baja California,TNR_Other,1.A.3.ce,2021,9.5858
+Baja California,Baja California,TNR_Ship,1.A.3.d,2021,137.6623
+Baja California,Baja California,TRO,1.A.3.b,2021,3847.6098
+Baja California,Baja California,WWT,4.D,2021,229.2315
+CDMX,Distrito Federal,AGS,3.C,2024,43.0673
+CDMX,Distrito Federal,AWB,3.C.1b,2024,0.1986
+CDMX,Distrito Federal,CHE,2.B,2024,137.0573
+CDMX,Distrito Federal,ENE,1.A.1.a,2024,964.713
+CDMX,Distrito Federal,ENF,3.A.1,2024,18.7539
+CDMX,Distrito Federal,IDE,5.A,2024,2.0745
+CDMX,Distrito Federal,IND,1.A.2,2024,1038.7089
+CDMX,Distrito Federal,IRO,2.C,2024,0.0
+CDMX,Distrito Federal,MNM,3.A.2,2024,2.8971
+CDMX,Distrito Federal,N2O,3.C.5-6,2024,3.4168
+CDMX,Distrito Federal,NEU,2.D,2024,5.5356
+CDMX,Distrito Federal,NFE,2.C,2024,6.4339
+CDMX,Distrito Federal,NMM,2.A,2024,1543.9017
+CDMX,Distrito Federal,PRO_FFF,1.B,2024,18.8702
+CDMX,Distrito Federal,PRU_SOL,2.D-2G,2024,1060.1029
+CDMX,Distrito Federal,RCO,1.A.4,2024,1450.2856
+CDMX,Distrito Federal,REF_TRF,1.A.1.bc,2024,1029.4006
+CDMX,Distrito Federal,SWD_INC,4.C,2024,24.9201
+CDMX,Distrito Federal,SWD_LDF,4.A,2024,80.1648
+CDMX,Distrito Federal,TNR_Aviation_CDS,1.A.3.a,2024,31.3188
+CDMX,Distrito Federal,TNR_Aviation_CRS,1.A.3.a,2024,0.115
+CDMX,Distrito Federal,TNR_Aviation_LTO,1.A.3.a,2024,0.0
+CDMX,Distrito Federal,TNR_Other,1.A.3.ce,2024,8.1119
+CDMX,Distrito Federal,TNR_Ship,1.A.3.d,2024,0.0
+CDMX,Distrito Federal,TRO,1.A.3.b,2024,2620.9778
+CDMX,Distrito Federal,WWT,4.D,2024,355.317
+Colima,Colima,AGS,3.C,2024,115.7666
+Colima,Colima,AWB,3.C.1b,2024,7.9622
+Colima,Colima,CHE,2.B,2024,57.8667
+Colima,Colima,ENE,1.A.1.a,2024,5.0198
+Colima,Colima,ENF,3.A.1,2024,159.0343
+Colima,Colima,IDE,5.A,2024,5.6918
+Colima,Colima,IND,1.A.2,2024,757.3598
+Colima,Colima,IRO,2.C,2024,0.0
+Colima,Colima,MNM,3.A.2,2024,14.337
+Colima,Colima,N2O,3.C.5-6,2024,10.629
+Colima,Colima,NEU,2.D,2024,1.0326
+Colima,Colima,NFE,2.C,2024,1.2001
+Colima,Colima,NMM,2.A,2024,2340.2382
+Colima,Colima,PRO_FFF,1.B,2024,3.5412
+Colima,Colima,PRU_SOL,2.D-2G,2024,197.0108
+Colima,Colima,RCO,1.A.4,2024,199.1287
+Colima,Colima,REF_TRF,1.A.1.bc,2024,192.0151
+Colima,Colima,SWD_INC,4.C,2024,4.6484
+Colima,Colima,SWD_LDF,4.A,2024,4.2066
+Colima,Colima,TNR_Aviation_CDS,1.A.3.a,2024,2.4134
+Colima,Colima,TNR_Aviation_CRS,1.A.3.a,2024,0.0014
+Colima,Colima,TNR_Aviation_LTO,1.A.3.a,2024,5.7089
+Colima,Colima,TNR_Other,1.A.3.ce,2024,10.3927
+Colima,Colima,TNR_Ship,1.A.3.d,2024,39.2712
+Colima,Colima,TRO,1.A.3.b,2024,682.6737
+Colima,Colima,WWT,4.D,2024,66.2776
+Durango,Durango,AGS,3.C,2024,1187.5885
+Durango,Durango,AWB,3.C.1b,2024,15.3548
+Durango,Durango,CHE,2.B,2024,44.6582
+Durango,Durango,ENE,1.A.1.a,2024,3377.32
+Durango,Durango,ENF,3.A.1,2024,18006.382
+Durango,Durango,IDE,5.A,2024,123.6776
+Durango,Durango,IND,1.A.2,2024,193.0679
+Durango,Durango,IRO,2.C,2024,0.0
+Durango,Durango,MNM,3.A.2,2024,2561.768
+Durango,Durango,N2O,3.C.5-6,2024,218.905
+Durango,Durango,NEU,2.D,2024,1.606
+Durango,Durango,NFE,2.C,2024,2.2041
+Durango,Durango,NMM,2.A,2024,0.1065
+Durango,Durango,PRO_FFF,1.B,2024,41.419
+Durango,Durango,PRU_SOL,2.D-2G,2024,308.2935
+Durango,Durango,RCO,1.A.4,2024,603.9269
+Durango,Durango,REF_TRF,1.A.1.bc,2024,298.6575
+Durango,Durango,SWD_INC,4.C,2024,7.23
+Durango,Durango,SWD_LDF,4.A,2024,22338.228
+Durango,Durango,TNR_Aviation_CDS,1.A.3.a,2024,18.3137
+Durango,Durango,TNR_Aviation_CRS,1.A.3.a,2024,142.9895
+Durango,Durango,TNR_Aviation_LTO,1.A.3.a,2024,3.8142
+Durango,Durango,TNR_Other,1.A.3.ce,2024,64.554
+Durango,Durango,TNR_Ship,1.A.3.d,2024,0.0
+Durango,Durango,TRO,1.A.3.b,2024,4632.547
+Durango,Durango,WWT,4.D,2024,103.0873
+Estado de México,México,AGS,3.C,2022,902.2205
+Estado de México,México,AWB,3.C.1b,2022,41.7039
+Estado de México,México,CHE,2.B,2022,387.3016
+Estado de México,México,ENE,1.A.1.a,2022,5585.184
+Estado de México,México,ENF,3.A.1,2022,911.1967
+Estado de México,México,IDE,5.A,2022,32.9379
+Estado de México,México,IND,1.A.2,2022,2265.5363
+Estado de México,México,IRO,2.C,2022,21.7804
+Estado de México,México,MNM,3.A.2,2022,133.9987
+Estado de México,México,N2O,3.C.5-6,2022,89.2084
+Estado de México,México,NEU,2.D,2022,13.6435
+Estado de México,México,NFE,2.C,2022,16.2894
+Estado de México,México,NMM,2.A,2022,1614.3066
+Estado de México,México,PRO_FFF,1.B,2022,51.2923
+Estado de México,México,PRU_SOL,2.D-2G,2022,2621.7892
+Estado de México,México,RCO,1.A.4,2022,4129.368
+Estado de México,México,REF_TRF,1.A.1.bc,2022,2724.2145
+Estado de México,México,SWD_INC,4.C,2022,66.3556
+Estado de México,México,SWD_LDF,4.A,2022,366.021
+Estado de México,México,TNR_Aviation_CDS,1.A.3.a,2022,297.1177
+Estado de México,México,TNR_Aviation_CRS,1.A.3.a,2022,3.8211
+Estado de México,México,TNR_Aviation_LTO,1.A.3.a,2022,164.5127
+Estado de México,México,TNR_Other,1.A.3.ce,2022,48.9713
+Estado de México,México,TNR_Ship,1.A.3.d,2022,0.0
+Estado de México,México,TRO,1.A.3.b,2022,6680.729
+Estado de México,México,WWT,4.D,2022,956.5546
+Estado de México,México,AGS,3.C,2023,900.28
+Estado de México,México,AWB,3.C.1b,2023,41.9349
+Estado de México,México,CHE,2.B,2023,370.1204
+Estado de México,México,ENE,1.A.1.a,2023,6610.7
+Estado de México,México,ENF,3.A.1,2023,915.5092
+Estado de México,México,IDE,5.A,2023,33.8281
+Estado de México,México,IND,1.A.2,2023,2281.7505
+Estado de México,México,IRO,2.C,2023,18.0319
+Estado de México,México,MNM,3.A.2,2023,135.4667
+Estado de México,México,N2O,3.C.5-6,2023,89.1086
+Estado de México,México,NEU,2.D,2023,14.0803
+Estado de México,México,NFE,2.C,2023,16.6901
+Estado de México,México,NMM,2.A,2023,1592.6804
+Estado de México,México,PRO_FFF,1.B,2023,52.064
+Estado de México,México,PRU_SOL,2.D-2G,2023,2719.5988
+Estado de México,México,RCO,1.A.4,2023,3888.9153
+Estado de México,México,REF_TRF,1.A.1.bc,2023,2770.375
+Estado de México,México,SWD_INC,4.C,2023,66.2358
+Estado de México,México,SWD_LDF,4.A,2023,370.3421
+Estado de México,México,TNR_Aviation_CDS,1.A.3.a,2023,357.8643
+Estado de México,México,TNR_Aviation_CRS,1.A.3.a,2023,4.4683
+Estado de México,México,TNR_Aviation_LTO,1.A.3.a,2023,198.3325
+Estado de México,México,TNR_Other,1.A.3.ce,2023,49.0597
+Estado de México,México,TNR_Ship,1.A.3.d,2023,0.0
+Estado de México,México,TRO,1.A.3.b,2023,6495.758
+Estado de México,México,WWT,4.D,2023,947.7275
+Estado de México,México,AGS,3.C,2024,891.7405
+Estado de México,México,AWB,3.C.1b,2024,39.9551
+Estado de México,México,CHE,2.B,2024,369.6044
+Estado de México,México,ENE,1.A.1.a,2024,6351.014
+Estado de México,México,ENF,3.A.1,2024,913.7426
+Estado de México,México,IDE,5.A,2024,35.345
+Estado de México,México,IND,1.A.2,2024,2296.3045
+Estado de México,México,IRO,2.C,2024,14.4236
+Estado de México,México,MNM,3.A.2,2024,136.8673
+Estado de México,México,N2O,3.C.5-6,2024,88.5671
+Estado de México,México,NEU,2.D,2024,14.9281
+Estado de México,México,NFE,2.C,2024,17.3546
+Estado de México,México,NMM,2.A,2024,1592.6804
+Estado de México,México,PRO_FFF,1.B,2024,52.817
+Estado de México,México,PRU_SOL,2.D-2G,2024,2856.369
+Estado de México,México,RCO,1.A.4,2024,3916.9625
+Estado de México,México,REF_TRF,1.A.1.bc,2024,2776.0003
+Estado de México,México,SWD_INC,4.C,2024,67.2025
+Estado de México,México,SWD_LDF,4.A,2024,375.7445
+Estado de México,México,TNR_Aviation_CDS,1.A.3.a,2024,384.9877
+Estado de México,México,TNR_Aviation_CRS,1.A.3.a,2024,4.7992
+Estado de México,México,TNR_Aviation_LTO,1.A.3.a,2024,213.3764
+Estado de México,México,TNR_Other,1.A.3.ce,2024,49.4928
+Estado de México,México,TNR_Ship,1.A.3.d,2024,0.0
+Estado de México,México,TRO,1.A.3.b,2024,6553.074
+Estado de México,México,WWT,4.D,2024,958.1901
+Guanajuato,Guanajuato,AGS,3.C,2023,1208.1933
+Guanajuato,Guanajuato,AWB,3.C.1b,2023,50.9184
+Guanajuato,Guanajuato,CHE,2.B,2023,402.3849
+Guanajuato,Guanajuato,ENE,1.A.1.a,2023,4697.9715
+Guanajuato,Guanajuato,ENF,3.A.1,2023,1162.744
+Guanajuato,Guanajuato,IDE,5.A,2023,42.1124
+Guanajuato,Guanajuato,IND,1.A.2,2023,3333.2375
+Guanajuato,Guanajuato,IRO,2.C,2023,75.2652
+Guanajuato,Guanajuato,MNM,3.A.2,2023,238.9312
+Guanajuato,Guanajuato,N2O,3.C.5-6,2023,116.0891
+Guanajuato,Guanajuato,NEU,2.D,2023,6.6455
+Guanajuato,Guanajuato,NFE,2.C,2023,8.0383
+Guanajuato,Guanajuato,NMM,2.A,2023,0.4679
+Guanajuato,Guanajuato,PRO_FFF,1.B,2023,71.0174
+Guanajuato,Guanajuato,PRU_SOL,2.D-2G,2023,1282.9181
+Guanajuato,Guanajuato,RCO,1.A.4,2023,1855.9
+Guanajuato,Guanajuato,REF_TRF,1.A.1.bc,2023,4680.432
+Guanajuato,Guanajuato,SWD_INC,4.C,2023,31.2615
+Guanajuato,Guanajuato,SWD_LDF,4.A,2023,780.2484
+Guanajuato,Guanajuato,TNR_Aviation_CDS,1.A.3.a,2023,50.5508
+Guanajuato,Guanajuato,TNR_Aviation_CRS,1.A.3.a,2023,20.2564
+Guanajuato,Guanajuato,TNR_Aviation_LTO,1.A.3.a,2023,14.1296
+Guanajuato,Guanajuato,TNR_Other,1.A.3.ce,2023,82.987
+Guanajuato,Guanajuato,TNR_Ship,1.A.3.d,2023,0.0
+Guanajuato,Guanajuato,TRO,1.A.3.b,2023,4407.7805
+Guanajuato,Guanajuato,WWT,4.D,2023,447.3016
+Guanajuato,Guanajuato,AGS,3.C,2024,1196.4233
+Guanajuato,Guanajuato,AWB,3.C.1b,2024,48.7252
+Guanajuato,Guanajuato,CHE,2.B,2024,409.6833
+Guanajuato,Guanajuato,ENE,1.A.1.a,2024,6097.0615
+Guanajuato,Guanajuato,ENF,3.A.1,2024,1158.9637
+Guanajuato,Guanajuato,IDE,5.A,2024,43.9873
+Guanajuato,Guanajuato,IND,1.A.2,2024,3336.7337
+Guanajuato,Guanajuato,IRO,2.C,2024,60.2043
+Guanajuato,Guanajuato,MNM,3.A.2,2024,241.9304
+Guanajuato,Guanajuato,N2O,3.C.5-6,2024,115.3633
+Guanajuato,Guanajuato,NEU,2.D,2024,7.0456
+Guanajuato,Guanajuato,NFE,2.C,2024,8.352
+Guanajuato,Guanajuato,NMM,2.A,2024,0.4679
+Guanajuato,Guanajuato,PRO_FFF,1.B,2024,70.8302
+Guanajuato,Guanajuato,PRU_SOL,2.D-2G,2024,1347.4675
+Guanajuato,Guanajuato,RCO,1.A.4,2024,1870.017
+Guanajuato,Guanajuato,REF_TRF,1.A.1.bc,2024,4919.11
+Guanajuato,Guanajuato,SWD_INC,4.C,2024,31.7178
+Guanajuato,Guanajuato,SWD_LDF,4.A,2024,793.0924
+Guanajuato,Guanajuato,TNR_Aviation_CDS,1.A.3.a,2024,54.3895
+Guanajuato,Guanajuato,TNR_Aviation_CRS,1.A.3.a,2024,21.7636
+Guanajuato,Guanajuato,TNR_Aviation_LTO,1.A.3.a,2024,15.2028
+Guanajuato,Guanajuato,TNR_Other,1.A.3.ce,2024,83.7196
+Guanajuato,Guanajuato,TNR_Ship,1.A.3.d,2024,0.0
+Guanajuato,Guanajuato,TRO,1.A.3.b,2024,4446.672
+Guanajuato,Guanajuato,WWT,4.D,2024,452.2398
+Morelos,Morelos,AGS,3.C,2024,176.8502
+Morelos,Morelos,AWB,3.C.1b,2024,11.8592
+Morelos,Morelos,CHE,2.B,2024,25.1857
+Morelos,Morelos,ENE,1.A.1.a,2024,1158.2423
+Morelos,Morelos,ENF,3.A.1,2024,184.7335
+Morelos,Morelos,IDE,5.A,2024,7.3624
+Morelos,Morelos,IND,1.A.2,2024,643.2425
+Morelos,Morelos,IRO,2.C,2024,0.0
+Morelos,Morelos,MNM,3.A.2,2024,45.5139
+Morelos,Morelos,N2O,3.C.5-6,2024,16.738
+Morelos,Morelos,NEU,2.D,2024,1.0172
+Morelos,Morelos,NFE,2.C,2024,1.1837
+Morelos,Morelos,NMM,2.A,2024,1445.181
+Morelos,Morelos,PRO_FFF,1.B,2024,8.6379
+Morelos,Morelos,PRU_SOL,2.D-2G,2024,196.8156
+Morelos,Morelos,RCO,1.A.4,2024,533.7409
+Morelos,Morelos,REF_TRF,1.A.1.bc,2024,189.1629
+Morelos,Morelos,SWD_INC,4.C,2024,4.5793
+Morelos,Morelos,SWD_LDF,4.A,2024,967.9602
+Morelos,Morelos,TNR_Aviation_CDS,1.A.3.a,2024,6.4621
+Morelos,Morelos,TNR_Aviation_CRS,1.A.3.a,2024,1.7462
+Morelos,Morelos,TNR_Aviation_LTO,1.A.3.a,2024,0.0083
+Morelos,Morelos,TNR_Other,1.A.3.ce,2024,15.9552
+Morelos,Morelos,TNR_Ship,1.A.3.d,2024,0.0
+Morelos,Morelos,TRO,1.A.3.b,2024,1358.2714
+Morelos,Morelos,WWT,4.D,2024,65.2932
+Querétaro,Querétaro,AGS,3.C,2022,275.4324
+Querétaro,Querétaro,AWB,3.C.1b,2022,11.6102
+Querétaro,Querétaro,CHE,2.B,2022,105.6858
+Querétaro,Querétaro,ENE,1.A.1.a,2022,912.7447
+Querétaro,Querétaro,ENF,3.A.1,2022,3244.0185
+Querétaro,Querétaro,IDE,5.A,2022,16.3434
+Querétaro,Querétaro,IND,1.A.2,2022,482.6923
+Querétaro,Querétaro,IRO,2.C,2022,0.0
+Querétaro,Querétaro,MNM,3.A.2,2022,544.0789
+Querétaro,Querétaro,N2O,3.C.5-6,2022,35.7171
+Querétaro,Querétaro,NEU,2.D,2022,3.723
+Querétaro,Querétaro,NFE,2.C,2022,4.4706
+Querétaro,Querétaro,NMM,2.A,2022,0.2747
+Querétaro,Querétaro,PRO_FFF,1.B,2022,14.0177
+Querétaro,Querétaro,PRU_SOL,2.D-2G,2022,711.5799
+Querétaro,Querétaro,RCO,1.A.4,2022,670.9606
+Querétaro,Querétaro,REF_TRF,1.A.1.bc,2022,743.3747
+Querétaro,Querétaro,SWD_INC,4.C,2022,18.1069
+Querétaro,Querétaro,SWD_LDF,4.A,2022,225.614
+Querétaro,Querétaro,TNR_Aviation_CDS,1.A.3.a,2022,7.7836
+Querétaro,Querétaro,TNR_Aviation_CRS,1.A.3.a,2022,12.2316
+Querétaro,Querétaro,TNR_Aviation_LTO,1.A.3.a,2022,4.3748
+Querétaro,Querétaro,TNR_Other,1.A.3.ce,2022,24.425
+Querétaro,Querétaro,TNR_Ship,1.A.3.d,2022,0.0
+Querétaro,Querétaro,TRO,1.A.3.b,2022,1761.2894
+Querétaro,Querétaro,WWT,4.D,2022,261.0215
+Querétaro,Querétaro,AGS,3.C,2023,275.3994
+Querétaro,Querétaro,AWB,3.C.1b,2023,11.6774
+Querétaro,Querétaro,CHE,2.B,2023,106.5647
+Querétaro,Querétaro,ENE,1.A.1.a,2023,1193.3829
+Querétaro,Querétaro,ENF,3.A.1,2023,3269.409
+Querétaro,Querétaro,IDE,5.A,2023,16.7684
+Querétaro,Querétaro,IND,1.A.2,2023,513.5067
+Querétaro,Querétaro,IRO,2.C,2023,0.0
+Querétaro,Querétaro,MNM,3.A.2,2023,552.2778
+Querétaro,Querétaro,N2O,3.C.5-6,2023,35.7287
+Querétaro,Querétaro,NEU,2.D,2023,4.054
+Querétaro,Querétaro,NFE,2.C,2023,4.831
+Querétaro,Querétaro,NMM,2.A,2023,0.2851
+Querétaro,Querétaro,PRO_FFF,1.B,2023,14.1921
+Querétaro,Querétaro,PRU_SOL,2.D-2G,2023,778.5928
+Querétaro,Querétaro,RCO,1.A.4,2023,660.1825
+Querétaro,Querétaro,REF_TRF,1.A.1.bc,2023,797.6427
+Querétaro,Querétaro,SWD_INC,4.C,2023,19.0706
+Querétaro,Querétaro,SWD_LDF,4.A,2023,229.843
+Querétaro,Querétaro,TNR_Aviation_CDS,1.A.3.a,2023,9.4165
+Querétaro,Querétaro,TNR_Aviation_CRS,1.A.3.a,2023,14.5439
+Querétaro,Querétaro,TNR_Aviation_LTO,1.A.3.a,2023,5.29
+Querétaro,Querétaro,TNR_Other,1.A.3.ce,2023,24.4691
+Querétaro,Querétaro,TNR_Ship,1.A.3.d,2023,0.0
+Querétaro,Querétaro,TRO,1.A.3.b,2023,1715.4548
+Querétaro,Querétaro,WWT,4.D,2023,272.8686
+Querétaro,Querétaro,AGS,3.C,2024,272.8898
+Querétaro,Querétaro,AWB,3.C.1b,2024,11.2418
+Querétaro,Querétaro,CHE,2.B,2024,106.4161
+Querétaro,Querétaro,ENE,1.A.1.a,2024,1125.5576
+Querétaro,Querétaro,ENF,3.A.1,2024,3245.8322
+Querétaro,Querétaro,IDE,5.A,2024,17.517
+Querétaro,Querétaro,IND,1.A.2,2024,516.7581
+Querétaro,Querétaro,IRO,2.C,2024,0.0
+Querétaro,Querétaro,MNM,3.A.2,2024,560.0385
+Querétaro,Querétaro,N2O,3.C.5-6,2024,35.5565
+Querétaro,Querétaro,NEU,2.D,2024,4.2981
+Querétaro,Querétaro,NFE,2.C,2024,5.0223
+Querétaro,Querétaro,NMM,2.A,2024,0.2851
+Querétaro,Querétaro,PRO_FFF,1.B,2024,14.2924
+Querétaro,Querétaro,PRU_SOL,2.D-2G,2024,817.9778
+Querétaro,Querétaro,RCO,1.A.4,2024,665.1661
+Querétaro,Querétaro,REF_TRF,1.A.1.bc,2024,799.2629
+Querétaro,Querétaro,SWD_INC,4.C,2024,19.3489
+Querétaro,Querétaro,SWD_LDF,4.A,2024,233.4936
+Querétaro,Querétaro,TNR_Aviation_CDS,1.A.3.a,2024,10.1326
+Querétaro,Querétaro,TNR_Aviation_CRS,1.A.3.a,2024,15.6352
+Querétaro,Querétaro,TNR_Aviation_LTO,1.A.3.a,2024,5.6922
+Querétaro,Querétaro,TNR_Other,1.A.3.ce,2024,24.685
+Querétaro,Querétaro,TNR_Ship,1.A.3.d,2024,0.0
+Querétaro,Querétaro,TRO,1.A.3.b,2024,1730.5908
+Querétaro,Querétaro,WWT,4.D,2024,275.8809
+San Luis Potosí,San Luis Potosí,AGS,3.C,2024,880.1131
+San Luis Potosí,San Luis Potosí,AWB,3.C.1b,2024,49.9905
+San Luis Potosí,San Luis Potosí,CHE,2.B,2024,103.6833
+San Luis Potosí,San Luis Potosí,ENE,1.A.1.a,2024,6849.302
+San Luis Potosí,San Luis Potosí,ENF,3.A.1,2024,4206.494
+San Luis Potosí,San Luis Potosí,IDE,5.A,2024,77.4171
+San Luis Potosí,San Luis Potosí,IND,1.A.2,2024,3353.4023
+San Luis Potosí,San Luis Potosí,IRO,2.C,2024,45.521
+San Luis Potosí,San Luis Potosí,MNM,3.A.2,2024,533.1664
+San Luis Potosí,San Luis Potosí,N2O,3.C.5-6,2024,144.2552
+San Luis Potosí,San Luis Potosí,NEU,2.D,2024,4.1877
+San Luis Potosí,San Luis Potosí,NFE,2.C,2024,4.9931
+San Luis Potosí,San Luis Potosí,NMM,2.A,2024,9886.181
+San Luis Potosí,San Luis Potosí,PRO_FFF,1.B,2024,24.6418
+San Luis Potosí,San Luis Potosí,PRU_SOL,2.D-2G,2024,798.7896
+San Luis Potosí,San Luis Potosí,RCO,1.A.4,2024,886.9539
+San Luis Potosí,San Luis Potosí,REF_TRF,1.A.1.bc,2024,778.7384
+San Luis Potosí,San Luis Potosí,SWD_INC,4.C,2024,18.852
+San Luis Potosí,San Luis Potosí,SWD_LDF,4.A,2024,17.0631
+San Luis Potosí,San Luis Potosí,TNR_Aviation_CDS,1.A.3.a,2024,17.7914
+San Luis Potosí,San Luis Potosí,TNR_Aviation_CRS,1.A.3.a,2024,69.7218
+San Luis Potosí,San Luis Potosí,TNR_Aviation_LTO,1.A.3.a,2024,5.7005
+San Luis Potosí,San Luis Potosí,TNR_Other,1.A.3.ce,2024,93.5617
+San Luis Potosí,San Luis Potosí,TNR_Ship,1.A.3.d,2024,0.0
+San Luis Potosí,San Luis Potosí,TRO,1.A.3.b,2024,3361.8438
+San Luis Potosí,San Luis Potosí,WWT,4.D,2024,268.7962
+Tamaulipas,Tamaulipas,AGS,3.C,2022,1516.2576
+Tamaulipas,Tamaulipas,AWB,3.C.1b,2022,102.2277
+Tamaulipas,Tamaulipas,CHE,2.B,2022,125.6249
+Tamaulipas,Tamaulipas,ENE,1.A.1.a,2022,9946.374
+Tamaulipas,Tamaulipas,ENF,3.A.1,2022,1119.061
+Tamaulipas,Tamaulipas,IDE,5.A,2022,94.523
+Tamaulipas,Tamaulipas,IND,1.A.2,2022,507.3003
+Tamaulipas,Tamaulipas,IRO,2.C,2022,0.0
+Tamaulipas,Tamaulipas,MNM,3.A.2,2022,44.7638
+Tamaulipas,Tamaulipas,N2O,3.C.5-6,2022,223.4199
+Tamaulipas,Tamaulipas,NEU,2.D,2022,5.4105
+Tamaulipas,Tamaulipas,NFE,2.C,2022,4.6822
+Tamaulipas,Tamaulipas,NMM,2.A,2022,1.2653
+Tamaulipas,Tamaulipas,PRO_FFF,1.B,2022,266.2611
+Tamaulipas,Tamaulipas,PRU_SOL,2.D-2G,2022,783.9746
+Tamaulipas,Tamaulipas,RCO,1.A.4,2022,1147.7912
+Tamaulipas,Tamaulipas,REF_TRF,1.A.1.bc,2022,3469.46
+Tamaulipas,Tamaulipas,SWD_INC,4.C,2022,17.0342
+Tamaulipas,Tamaulipas,SWD_LDF,4.A,2022,10833.314
+Tamaulipas,Tamaulipas,TNR_Aviation_CDS,1.A.3.a,2022,6.4647
+Tamaulipas,Tamaulipas,TNR_Aviation_CRS,1.A.3.a,2022,48.9091
+Tamaulipas,Tamaulipas,TNR_Aviation_LTO,1.A.3.a,2022,9.5752
+Tamaulipas,Tamaulipas,TNR_Other,1.A.3.ce,2022,83.8254
+Tamaulipas,Tamaulipas,TNR_Ship,1.A.3.d,2022,366.6186
+Tamaulipas,Tamaulipas,TRO,1.A.3.b,2022,4626.092
+Tamaulipas,Tamaulipas,WWT,4.D,2022,261.9354
+Tamaulipas,Tamaulipas,AGS,3.C,2023,1512.801
+Tamaulipas,Tamaulipas,AWB,3.C.1b,2023,102.6399
+Tamaulipas,Tamaulipas,CHE,2.B,2023,123.8104
+Tamaulipas,Tamaulipas,ENE,1.A.1.a,2023,12650.086
+Tamaulipas,Tamaulipas,ENF,3.A.1,2023,1126.5035
+Tamaulipas,Tamaulipas,IDE,5.A,2023,96.9218
+Tamaulipas,Tamaulipas,IND,1.A.2,2023,527.5622
+Tamaulipas,Tamaulipas,IRO,2.C,2023,0.0
+Tamaulipas,Tamaulipas,MNM,3.A.2,2023,45.0806
+Tamaulipas,Tamaulipas,N2O,3.C.5-6,2023,223.3762
+Tamaulipas,Tamaulipas,NEU,2.D,2023,5.2033
+Tamaulipas,Tamaulipas,NFE,2.C,2023,4.9574
+Tamaulipas,Tamaulipas,NMM,2.A,2023,1.2661
+Tamaulipas,Tamaulipas,PRO_FFF,1.B,2023,169.1545
+Tamaulipas,Tamaulipas,PRU_SOL,2.D-2G,2023,839.2412
+Tamaulipas,Tamaulipas,RCO,1.A.4,2023,1083.9108
+Tamaulipas,Tamaulipas,REF_TRF,1.A.1.bc,2023,3514.756
+Tamaulipas,Tamaulipas,SWD_INC,4.C,2023,17.6321
+Tamaulipas,Tamaulipas,SWD_LDF,4.A,2023,11017.448
+Tamaulipas,Tamaulipas,TNR_Aviation_CDS,1.A.3.a,2023,7.5099
+Tamaulipas,Tamaulipas,TNR_Aviation_CRS,1.A.3.a,2023,58.7673
+Tamaulipas,Tamaulipas,TNR_Aviation_LTO,1.A.3.a,2023,10.735
+Tamaulipas,Tamaulipas,TNR_Other,1.A.3.ce,2023,84.1937
+Tamaulipas,Tamaulipas,TNR_Ship,1.A.3.d,2023,400.4323
+Tamaulipas,Tamaulipas,TRO,1.A.3.b,2023,4499.4735
+Tamaulipas,Tamaulipas,WWT,4.D,2023,268.8346
+Tamaulipas,Tamaulipas,AGS,3.C,2024,1498.875
+Tamaulipas,Tamaulipas,AWB,3.C.1b,2024,101.8985
+Tamaulipas,Tamaulipas,CHE,2.B,2024,124.0233
+Tamaulipas,Tamaulipas,ENE,1.A.1.a,2024,12004.98
+Tamaulipas,Tamaulipas,ENF,3.A.1,2024,1119.5138
+Tamaulipas,Tamaulipas,IDE,5.A,2024,101.2228
+Tamaulipas,Tamaulipas,IND,1.A.2,2024,531.1247
+Tamaulipas,Tamaulipas,IRO,2.C,2024,0.0
+Tamaulipas,Tamaulipas,MNM,3.A.2,2024,45.1659
+Tamaulipas,Tamaulipas,N2O,3.C.5-6,2024,222.1989
+Tamaulipas,Tamaulipas,NEU,2.D,2024,5.3117
+Tamaulipas,Tamaulipas,NFE,2.C,2024,5.1409
+Tamaulipas,Tamaulipas,NMM,2.A,2024,1.2216
+Tamaulipas,Tamaulipas,PRO_FFF,1.B,2024,167.5526
+Tamaulipas,Tamaulipas,PRU_SOL,2.D-2G,2024,878.5131
+Tamaulipas,Tamaulipas,RCO,1.A.4,2024,1093.193
+Tamaulipas,Tamaulipas,REF_TRF,1.A.1.bc,2024,3707.013
+Tamaulipas,Tamaulipas,SWD_INC,4.C,2024,17.8898
+Tamaulipas,Tamaulipas,SWD_LDF,4.A,2024,11204.238
+Tamaulipas,Tamaulipas,TNR_Aviation_CDS,1.A.3.a,2024,8.0412
+Tamaulipas,Tamaulipas,TNR_Aviation_CRS,1.A.3.a,2024,63.1881
+Tamaulipas,Tamaulipas,TNR_Aviation_LTO,1.A.3.a,2024,11.2692
+Tamaulipas,Tamaulipas,TNR_Other,1.A.3.ce,2024,84.9982
+Tamaulipas,Tamaulipas,TNR_Ship,1.A.3.d,2024,313.2754
+Tamaulipas,Tamaulipas,TRO,1.A.3.b,2024,4536.9965
+Tamaulipas,Tamaulipas,WWT,4.D,2024,271.7332
+Yucatán,Yucatán,AGS,3.C,2022,313.1337
+Yucatán,Yucatán,AWB,3.C.1b,2022,8.4064
+Yucatán,Yucatán,CHE,2.B,2022,53.3947
+Yucatán,Yucatán,ENE,1.A.1.a,2022,2620.85
+Yucatán,Yucatán,ENF,3.A.1,2022,410.9801
+Yucatán,Yucatán,IDE,5.A,2022,22.8389
+Yucatán,Yucatán,IND,1.A.2,2022,682.1924
+Yucatán,Yucatán,IRO,2.C,2022,0.0
+Yucatán,Yucatán,MNM,3.A.2,2022,110.9275
+Yucatán,Yucatán,N2O,3.C.5-6,2022,44.9583
+Yucatán,Yucatán,NEU,2.D,2022,1.8809
+Yucatán,Yucatán,NFE,2.C,2022,2.2451
+Yucatán,Yucatán,NMM,2.A,2022,1803.9371
+Yucatán,Yucatán,PRO_FFF,1.B,2022,65.2716
+Yucatán,Yucatán,PRU_SOL,2.D-2G,2022,361.6303
+Yucatán,Yucatán,RCO,1.A.4,2022,560.739
+Yucatán,Yucatán,REF_TRF,1.A.1.bc,2022,375.5691
+Yucatán,Yucatán,SWD_INC,4.C,2022,9.148
+Yucatán,Yucatán,SWD_LDF,4.A,2022,8.4854
+Yucatán,Yucatán,TNR_Aviation_CDS,1.A.3.a,2022,18.8209
+Yucatán,Yucatán,TNR_Aviation_CRS,1.A.3.a,2022,18.2868
+Yucatán,Yucatán,TNR_Aviation_LTO,1.A.3.a,2022,5.9375
+Yucatán,Yucatán,TNR_Other,1.A.3.ce,2022,29.4325
+Yucatán,Yucatán,TNR_Ship,1.A.3.d,2022,20.1564
+Yucatán,Yucatán,TRO,1.A.3.b,2022,4244.193
+Yucatán,Yucatán,WWT,4.D,2022,131.8739
+Yucatán,Yucatán,AGS,3.C,2023,314.1673
+Yucatán,Yucatán,AWB,3.C.1b,2023,8.5944
+Yucatán,Yucatán,CHE,2.B,2023,53.2226
+Yucatán,Yucatán,ENE,1.A.1.a,2023,3279.16
+Yucatán,Yucatán,ENF,3.A.1,2023,414.0706
+Yucatán,Yucatán,IDE,5.A,2023,23.4363
+Yucatán,Yucatán,IND,1.A.2,2023,704.3851
+Yucatán,Yucatán,IRO,2.C,2023,0.0
+Yucatán,Yucatán,MNM,3.A.2,2023,112.6185
+Yucatán,Yucatán,N2O,3.C.5-6,2023,45.0097
+Yucatán,Yucatán,NEU,2.D,2023,2.0247
+Yucatán,Yucatán,NFE,2.C,2023,2.3994
+Yucatán,Yucatán,NMM,2.A,2023,1779.7806
+Yucatán,Yucatán,PRO_FFF,1.B,2023,66.0941
+Yucatán,Yucatán,PRU_SOL,2.D-2G,2023,391.0199
+Yucatán,Yucatán,RCO,1.A.4,2023,532.8313
+Yucatán,Yucatán,REF_TRF,1.A.1.bc,2023,398.3746
+Yucatán,Yucatán,SWD_INC,4.C,2023,9.5246
+Yucatán,Yucatán,SWD_LDF,4.A,2023,8.7275
+Yucatán,Yucatán,TNR_Aviation_CDS,1.A.3.a,2023,22.5425
+Yucatán,Yucatán,TNR_Aviation_CRS,1.A.3.a,2023,21.8783
+Yucatán,Yucatán,TNR_Aviation_LTO,1.A.3.a,2023,7.1271
+Yucatán,Yucatán,TNR_Other,1.A.3.ce,2023,29.4857
+Yucatán,Yucatán,TNR_Ship,1.A.3.d,2023,21.9846
+Yucatán,Yucatán,TRO,1.A.3.b,2023,4120.445
+Yucatán,Yucatán,WWT,4.D,2023,136.2813
+Yucatán,Yucatán,AGS,3.C,2024,310.937
+Yucatán,Yucatán,AWB,3.C.1b,2024,8.2167
+Yucatán,Yucatán,CHE,2.B,2024,53.1484
+Yucatán,Yucatán,ENE,1.A.1.a,2024,3980.66
+Yucatán,Yucatán,ENF,3.A.1,2024,411.3935
+Yucatán,Yucatán,IDE,5.A,2024,24.4831
+Yucatán,Yucatán,IND,1.A.2,2024,709.5906
+Yucatán,Yucatán,IRO,2.C,2024,0.0
+Yucatán,Yucatán,MNM,3.A.2,2024,114.2934
+Yucatán,Yucatán,N2O,3.C.5-6,2024,44.8241
+Yucatán,Yucatán,NEU,2.D,2024,2.1466
+Yucatán,Yucatán,NFE,2.C,2024,2.4949
+Yucatán,Yucatán,NMM,2.A,2024,1779.7806
+Yucatán,Yucatán,PRO_FFF,1.B,2024,65.6407
+Yucatán,Yucatán,PRU_SOL,2.D-2G,2024,410.686
+Yucatán,Yucatán,RCO,1.A.4,2024,536.9454
+Yucatán,Yucatán,REF_TRF,1.A.1.bc,2024,399.1832
+Yucatán,Yucatán,SWD_INC,4.C,2024,9.6636
+Yucatán,Yucatán,SWD_LDF,4.A,2024,8.7475
+Yucatán,Yucatán,TNR_Aviation_CDS,1.A.3.a,2024,24.2437
+Yucatán,Yucatán,TNR_Aviation_CRS,1.A.3.a,2024,23.5279
+Yucatán,Yucatán,TNR_Aviation_LTO,1.A.3.a,2024,7.6659
+Yucatán,Yucatán,TNR_Other,1.A.3.ce,2024,29.7459
+Yucatán,Yucatán,TNR_Ship,1.A.3.d,2024,17.7611
+Yucatán,Yucatán,TRO,1.A.3.b,2024,4156.8015
+Yucatán,Yucatán,WWT,4.D,2024,137.7858
+Zacatecas,Zacatecas,AGS,3.C,2017,1373.433
+Zacatecas,Zacatecas,AWB,3.C.1b,2017,34.9179
+Zacatecas,Zacatecas,CHE,2.B,2017,14.5637
+Zacatecas,Zacatecas,ENE,1.A.1.a,2017,609.259
+Zacatecas,Zacatecas,ENF,3.A.1,2017,1154.6
+Zacatecas,Zacatecas,IDE,5.A,2017,103.597
+Zacatecas,Zacatecas,IND,1.A.2,2017,191.2985
+Zacatecas,Zacatecas,IRO,2.C,2017,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2017,94.4141
+Zacatecas,Zacatecas,N2O,3.C.5-6,2017,191.4909
+Zacatecas,Zacatecas,NEU,2.D,2017,0.5408
+Zacatecas,Zacatecas,NFE,2.C,2017,1.0862
+Zacatecas,Zacatecas,NMM,2.A,2017,0.0398
+Zacatecas,Zacatecas,PRO_FFF,1.B,2017,10.8354
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2017,104.2911
+Zacatecas,Zacatecas,RCO,1.A.4,2017,602.8864
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2017,133.9939
+Zacatecas,Zacatecas,SWD_INC,4.C,2017,3.1263
+Zacatecas,Zacatecas,SWD_LDF,4.A,2017,3.1443
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2017,20.3334
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2017,73.1199
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2017,1.8372
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2017,72.9353
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2017,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2017,3027.5147
+Zacatecas,Zacatecas,WWT,4.D,2017,44.6008
+Zacatecas,Zacatecas,AGS,3.C,2018,1375.1827
+Zacatecas,Zacatecas,AWB,3.C.1b,2018,34.1916
+Zacatecas,Zacatecas,CHE,2.B,2018,16.7535
+Zacatecas,Zacatecas,ENE,1.A.1.a,2018,576.2
+Zacatecas,Zacatecas,ENF,3.A.1,2018,1163.509
+Zacatecas,Zacatecas,IDE,5.A,2018,93.4977
+Zacatecas,Zacatecas,IND,1.A.2,2018,130.8665
+Zacatecas,Zacatecas,IRO,2.C,2018,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2018,95.6331
+Zacatecas,Zacatecas,N2O,3.C.5-6,2018,192.2969
+Zacatecas,Zacatecas,NEU,2.D,2018,0.58
+Zacatecas,Zacatecas,NFE,2.C,2018,1.2631
+Zacatecas,Zacatecas,NMM,2.A,2018,0.0459
+Zacatecas,Zacatecas,PRO_FFF,1.B,2018,11.0597
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2018,125.5096
+Zacatecas,Zacatecas,RCO,1.A.4,2018,630.8029
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2018,188.127
+Zacatecas,Zacatecas,SWD_INC,4.C,2018,3.6234
+Zacatecas,Zacatecas,SWD_LDF,4.A,2018,3.6211
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2018,21.2192
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2018,76.2817
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2018,1.9169
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2018,68.957
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2018,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2018,2949.1292
+Zacatecas,Zacatecas,WWT,4.D,2018,50.9647
+Zacatecas,Zacatecas,AGS,3.C,2019,1339.374
+Zacatecas,Zacatecas,AWB,3.C.1b,2019,31.9998
+Zacatecas,Zacatecas,CHE,2.B,2019,19.7366
+Zacatecas,Zacatecas,ENE,1.A.1.a,2019,554.834
+Zacatecas,Zacatecas,ENF,3.A.1,2019,1172.8711
+Zacatecas,Zacatecas,IDE,5.A,2019,101.056
+Zacatecas,Zacatecas,IND,1.A.2,2019,125.2962
+Zacatecas,Zacatecas,IRO,2.C,2019,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2019,96.868
+Zacatecas,Zacatecas,N2O,3.C.5-6,2019,187.0355
+Zacatecas,Zacatecas,NEU,2.D,2019,0.5392
+Zacatecas,Zacatecas,NFE,2.C,2019,1.3229
+Zacatecas,Zacatecas,NMM,2.A,2019,0.0465
+Zacatecas,Zacatecas,PRO_FFF,1.B,2019,11.328
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2019,132.2964
+Zacatecas,Zacatecas,RCO,1.A.4,2019,595.3417
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2019,199.4835
+Zacatecas,Zacatecas,SWD_INC,4.C,2019,3.6801
+Zacatecas,Zacatecas,SWD_LDF,4.A,2019,3.6218
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2019,21.5243
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2019,77.333
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2019,1.944
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2019,70.2143
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2019,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2019,2999.7888
+Zacatecas,Zacatecas,WWT,4.D,2019,52.7358
+Zacatecas,Zacatecas,AGS,3.C,2020,1421.5483
+Zacatecas,Zacatecas,AWB,3.C.1b,2020,33.9092
+Zacatecas,Zacatecas,CHE,2.B,2020,21.3726
+Zacatecas,Zacatecas,ENE,1.A.1.a,2020,642.289
+Zacatecas,Zacatecas,ENF,3.A.1,2020,1182.6861
+Zacatecas,Zacatecas,IDE,5.A,2020,79.343
+Zacatecas,Zacatecas,IND,1.A.2,2020,123.8986
+Zacatecas,Zacatecas,IRO,2.C,2020,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2020,97.9448
+Zacatecas,Zacatecas,N2O,3.C.5-6,2020,199.5539
+Zacatecas,Zacatecas,NEU,2.D,2020,0.9143
+Zacatecas,Zacatecas,NFE,2.C,2020,1.2035
+Zacatecas,Zacatecas,NMM,2.A,2020,0.0558
+Zacatecas,Zacatecas,PRO_FFF,1.B,2020,11.6085
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2020,140.5901
+Zacatecas,Zacatecas,RCO,1.A.4,2020,559.5721
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2020,175.3105
+Zacatecas,Zacatecas,SWD_INC,4.C,2020,3.7364
+Zacatecas,Zacatecas,SWD_LDF,4.A,2020,3.6224
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2020,10.2455
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2020,37.0688
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2020,0.9283
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2020,42.4351
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2020,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2020,2126.3162
+Zacatecas,Zacatecas,WWT,4.D,2020,53.7745
+Zacatecas,Zacatecas,AGS,3.C,2021,1419.813
+Zacatecas,Zacatecas,AWB,3.C.1b,2021,34.992
+Zacatecas,Zacatecas,CHE,2.B,2021,22.1594
+Zacatecas,Zacatecas,ENE,1.A.1.a,2021,570.121
+Zacatecas,Zacatecas,ENF,3.A.1,2021,1190.3386
+Zacatecas,Zacatecas,IDE,5.A,2021,74.1966
+Zacatecas,Zacatecas,IND,1.A.2,2021,91.3138
+Zacatecas,Zacatecas,IRO,2.C,2021,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2021,99.0384
+Zacatecas,Zacatecas,N2O,3.C.5-6,2021,197.8049
+Zacatecas,Zacatecas,NEU,2.D,2021,0.9699
+Zacatecas,Zacatecas,NFE,2.C,2021,1.0445
+Zacatecas,Zacatecas,NMM,2.A,2021,0.0607
+Zacatecas,Zacatecas,PRO_FFF,1.B,2021,11.9354
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2021,146.4048
+Zacatecas,Zacatecas,RCO,1.A.4,2021,556.5476
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2021,148.2314
+Zacatecas,Zacatecas,SWD_INC,4.C,2021,3.792
+Zacatecas,Zacatecas,SWD_LDF,4.A,2021,3.6244
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2021,11.3069
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2021,40.8992
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2021,1.0244
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2021,38.6778
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2021,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2021,2087.0698
+Zacatecas,Zacatecas,WWT,4.D,2021,54.6659
+Zacatecas,Zacatecas,AGS,3.C,2022,1355.9295
+Zacatecas,Zacatecas,AWB,3.C.1b,2022,32.7591
+Zacatecas,Zacatecas,CHE,2.B,2022,22.4541
+Zacatecas,Zacatecas,ENE,1.A.1.a,2022,387.999
+Zacatecas,Zacatecas,ENF,3.A.1,2022,1198.5399
+Zacatecas,Zacatecas,IDE,5.A,2022,82.5256
+Zacatecas,Zacatecas,IND,1.A.2,2022,95.1479
+Zacatecas,Zacatecas,IRO,2.C,2022,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2022,99.7597
+Zacatecas,Zacatecas,N2O,3.C.5-6,2022,190.9152
+Zacatecas,Zacatecas,NEU,2.D,2022,0.791
+Zacatecas,Zacatecas,NFE,2.C,2022,1.0758
+Zacatecas,Zacatecas,NMM,2.A,2022,0.0584
+Zacatecas,Zacatecas,PRO_FFF,1.B,2022,12.2736
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2022,154.6698
+Zacatecas,Zacatecas,RCO,1.A.4,2022,640.8521
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2022,157.9386
+Zacatecas,Zacatecas,SWD_INC,4.C,2022,3.847
+Zacatecas,Zacatecas,SWD_LDF,4.A,2022,3.6264
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2022,16.3153
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2022,58.9425
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2022,1.4773
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2022,61.2214
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2022,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2022,2534.517
+Zacatecas,Zacatecas,WWT,4.D,2022,55.457
+Zacatecas,Zacatecas,AGS,3.C,2023,1348.9172
+Zacatecas,Zacatecas,AWB,3.C.1b,2023,29.9986
+Zacatecas,Zacatecas,CHE,2.B,2023,22.4237
+Zacatecas,Zacatecas,ENE,1.A.1.a,2023,378.722
+Zacatecas,Zacatecas,ENF,3.A.1,2023,1205.5815
+Zacatecas,Zacatecas,IDE,5.A,2023,84.6609
+Zacatecas,Zacatecas,IND,1.A.2,2023,101.0908
+Zacatecas,Zacatecas,IRO,2.C,2023,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2023,100.7161
+Zacatecas,Zacatecas,N2O,3.C.5-6,2023,190.9001
+Zacatecas,Zacatecas,NEU,2.D,2023,0.8531
+Zacatecas,Zacatecas,NFE,2.C,2023,1.1426
+Zacatecas,Zacatecas,NMM,2.A,2023,0.06
+Zacatecas,Zacatecas,PRO_FFF,1.B,2023,12.5446
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2023,167.4292
+Zacatecas,Zacatecas,RCO,1.A.4,2023,616.1202
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2023,167.8426
+Zacatecas,Zacatecas,SWD_INC,4.C,2023,4.0129
+Zacatecas,Zacatecas,SWD_LDF,4.A,2023,3.736
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2023,19.6678
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2023,70.7025
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2023,1.7768
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2023,61.332
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2023,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2023,2470.0527
+Zacatecas,Zacatecas,WWT,4.D,2023,57.4179
+Zacatecas,Zacatecas,AGS,3.C,2024,1335.6935
+Zacatecas,Zacatecas,AWB,3.C.1b,2024,27.9902
+Zacatecas,Zacatecas,CHE,2.B,2024,22.3924
+Zacatecas,Zacatecas,ENE,1.A.1.a,2024,378.766
+Zacatecas,Zacatecas,ENF,3.A.1,2024,1200.2085
+Zacatecas,Zacatecas,IDE,5.A,2024,88.4376
+Zacatecas,Zacatecas,IND,1.A.2,2024,101.7732
+Zacatecas,Zacatecas,IRO,2.C,2024,0.0
+Zacatecas,Zacatecas,MNM,3.A.2,2024,101.4916
+Zacatecas,Zacatecas,N2O,3.C.5-6,2024,189.9132
+Zacatecas,Zacatecas,NEU,2.D,2024,0.9044
+Zacatecas,Zacatecas,NFE,2.C,2024,1.1828
+Zacatecas,Zacatecas,NMM,2.A,2024,0.06
+Zacatecas,Zacatecas,PRO_FFF,1.B,2024,12.8182
+Zacatecas,Zacatecas,PRU_SOL,2.D-2G,2024,175.7087
+Zacatecas,Zacatecas,RCO,1.A.4,2024,620.8689
+Zacatecas,Zacatecas,REF_TRF,1.A.1.bc,2024,168.1833
+Zacatecas,Zacatecas,SWD_INC,4.C,2024,4.0715
+Zacatecas,Zacatecas,SWD_LDF,4.A,2024,3.7455
+Zacatecas,Zacatecas,TNR_Aviation_CDS,1.A.3.a,2024,21.1594
+Zacatecas,Zacatecas,TNR_Aviation_CRS,1.A.3.a,2024,76.0443
+Zacatecas,Zacatecas,TNR_Aviation_LTO,1.A.3.a,2024,1.9113
+Zacatecas,Zacatecas,TNR_Other,1.A.3.ce,2024,61.8733
+Zacatecas,Zacatecas,TNR_Ship,1.A.3.d,2024,0.0
+Zacatecas,Zacatecas,TRO,1.A.3.b,2024,2491.8483
+Zacatecas,Zacatecas,WWT,4.D,2024,58.0517
